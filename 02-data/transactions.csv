@@ -1,0 +1,1201 @@
+transaction_id,transaction_date,customer_id,merchant_id,merchant_name,merchant_category,payment_method,channel,amount,fee,status,failure_reason,is_fraud,country,city
+TXN-10000,2024-10-09 09:53:00,CUST-2058,MERCH-1023,Merchant 24,Healthcare,Debit Card,POS,144549.36,2168.24,Success,,0,Nigeria,Ibadan
+TXN-10001,2024-02-10 07:55:00,CUST-2018,MERCH-1023,Merchant 24,Healthcare,UPI,Mobile App,41082.2,205.41,Success,,0,Nigeria,Port Harcourt
+TXN-10002,2024-09-30 23:15:00,CUST-2014,MERCH-1035,Merchant 36,Retail,UPI,Mobile App,55293.99,276.47,Success,,0,Nigeria,Kano
+TXN-10003,2024-01-17 10:25:00,CUST-2101,MERCH-1036,Merchant 37,Other,UPI,Mobile App,219153.72,1095.77,Success,,0,Nigeria,Kaduna
+TXN-10004,2024-03-14 08:08:00,CUST-2092,MERCH-1016,Merchant 17,Education,UPI,Web,186879.95,934.4,Success,,0,Nigeria,Kano
+TXN-10005,2024-03-11 16:31:00,CUST-2016,MERCH-1007,Merchant 8,Food & Dining,UPI,Mobile App,38633.91,193.17,Success,,0,Nigeria,Benin City
+TXN-10006,2024-07-14 19:29:00,CUST-2068,MERCH-1000,Merchant 1,Food & Dining,Credit Card,API,170230.71,2553.46,Success,,0,Nigeria,Enugu
+TXN-10007,2024-02-27 09:27:00,CUST-2027,MERCH-1016,Merchant 17,Education,UPI,Mobile App,242986.08,1214.93,Success,,0,Nigeria,Ibadan
+TXN-10008,2024-11-23 16:38:00,CUST-2000,MERCH-1010,Merchant 11,Retail,UPI,Mobile App,135075.07,675.38,Success,,0,Nigeria,Enugu
+TXN-10009,2024-09-07 00:07:00,CUST-2020,MERCH-1019,Merchant 20,Utilities,Bank Transfer,POS,60243.35,602.43,Success,,0,Nigeria,Abuja
+TXN-10010,2025-01-09 15:52:00,CUST-2067,MERCH-1008,Merchant 9,Education,UPI,POS,32533.67,162.67,Success,,0,Nigeria,Benin City
+TXN-10011,2024-04-18 17:48:00,CUST-2132,MERCH-1019,Merchant 20,Utilities,Debit Card,Mobile App,100048.58,1500.73,Success,,0,Nigeria,Kaduna
+TXN-10012,2024-03-02 07:14:00,CUST-2015,MERCH-1035,Merchant 36,Retail,UPI,Mobile App,57913.63,289.57,Success,,0,Nigeria,Kano
+TXN-10013,2024-02-04 01:55:00,CUST-2146,MERCH-1017,Merchant 18,Entertainment,UPI,Web,167409.96,837.05,Success,,0,Nigeria,Kaduna
+TXN-10014,2024-05-04 15:51:00,CUST-2013,MERCH-1027,Merchant 28,Healthcare,Credit Card,Mobile App,88897.24,1333.46,Success,,0,Nigeria,Abuja
+TXN-10015,2024-02-01 12:46:00,CUST-2046,MERCH-1015,Merchant 16,Entertainment,UPI,POS,48301.72,241.51,Success,,0,Nigeria,Ibadan
+TXN-10016,2024-08-24 07:55:00,CUST-2003,MERCH-1035,Merchant 36,Retail,Bank Transfer,Mobile App,24928.23,249.28,Success,,0,Nigeria,Abuja
+TXN-10017,2025-01-20 07:10:00,CUST-2099,MERCH-1025,Merchant 26,Travel,Credit Card,Mobile App,225659.49,3384.89,Success,,0,Nigeria,Ibadan
+TXN-10018,2024-08-20 09:27:00,CUST-2055,MERCH-1035,Merchant 36,Retail,Debit Card,Web,165636.89,2484.55,Success,,0,Nigeria,Lagos
+TXN-10019,2024-10-23 23:34:00,CUST-2040,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,146252.31,731.26,Success,,0,Nigeria,Lagos
+TXN-10020,2024-09-17 02:54:00,CUST-2148,MERCH-1015,Merchant 16,Entertainment,UPI,Web,101242.0,506.21,Success,,0,Nigeria,Lagos
+TXN-10021,2024-11-13 02:26:00,CUST-2061,MERCH-1020,Merchant 21,Retail,Debit Card,Web,233709.21,3505.64,Success,,0,Nigeria,Ibadan
+TXN-10022,2024-07-21 04:42:00,CUST-2025,MERCH-1004,Merchant 5,Entertainment,Debit Card,Mobile App,2824.21,42.36,Success,,0,Nigeria,Abuja
+TXN-10023,2024-10-02 06:32:00,CUST-2139,MERCH-1004,Merchant 5,Entertainment,UPI,API,219877.93,1099.39,Success,,0,Nigeria,Ibadan
+TXN-10024,2024-11-09 20:33:00,CUST-2067,MERCH-1019,Merchant 20,Utilities,UPI,POS,232973.13,1164.87,Success,,0,Nigeria,Abuja
+TXN-10025,2024-02-24 23:35:00,CUST-2067,MERCH-1013,Merchant 14,Entertainment,UPI,Mobile App,179544.24,897.72,Success,,0,Nigeria,Kaduna
+TXN-10026,2024-05-08 01:05:00,CUST-2067,MERCH-1002,Merchant 3,Utilities,Debit Card,POS,1384.65,20.77,Success,,0,Nigeria,Port Harcourt
+TXN-10027,2025-01-14 14:35:00,CUST-2139,MERCH-1007,Merchant 8,Food & Dining,Debit Card,Web,19273.34,289.1,Success,,0,Nigeria,Lagos
+TXN-10028,2024-07-08 18:35:00,CUST-2091,MERCH-1019,Merchant 20,Utilities,UPI,Mobile App,91480.55,457.4,Failed,Insufficient Funds,0,Nigeria,Kano
+TXN-10029,2024-12-15 07:42:00,CUST-2060,MERCH-1026,Merchant 27,Entertainment,UPI,POS,243472.34,1217.36,Success,,0,Nigeria,Port Harcourt
+TXN-10030,2024-03-31 13:01:00,CUST-2068,MERCH-1026,Merchant 27,Entertainment,UPI,API,200657.67,1003.29,Success,,0,Nigeria,Port Harcourt
+TXN-10031,2024-12-25 03:24:00,CUST-2058,MERCH-1014,Merchant 15,Retail,Wallet,POS,50293.42,502.93,Success,,0,Nigeria,Kano
+TXN-10032,2024-01-13 21:12:00,CUST-2102,MERCH-1004,Merchant 5,Entertainment,Credit Card,Mobile App,241738.83,3626.08,Success,,0,Nigeria,Enugu
+TXN-10033,2024-01-15 03:56:00,CUST-2080,MERCH-1016,Merchant 17,Education,Bank Transfer,Mobile App,10045.17,100.45,Success,,0,Nigeria,Benin City
+TXN-10034,2024-11-06 16:07:00,CUST-2137,MERCH-1016,Merchant 17,Education,Credit Card,Web,11574.44,173.62,Success,,0,Nigeria,Kano
+TXN-10035,2024-07-05 13:04:00,CUST-2076,MERCH-1039,Merchant 40,Food & Dining,Bank Transfer,API,78821.95,788.22,Success,,0,Nigeria,Ibadan
+TXN-10036,2024-12-07 13:20:00,CUST-2044,MERCH-1008,Merchant 9,Education,Credit Card,Mobile App,48364.1,725.46,Success,,0,Nigeria,Ibadan
+TXN-10037,2024-07-26 17:53:00,CUST-2113,MERCH-1027,Merchant 28,Healthcare,UPI,Mobile App,196546.83,982.73,Success,,0,Nigeria,Kaduna
+TXN-10038,2024-12-11 06:32:00,CUST-2085,MERCH-1010,Merchant 11,Retail,Credit Card,API,164883.26,2473.25,Success,,0,Nigeria,Abuja
+TXN-10039,2025-01-19 07:43:00,CUST-2018,MERCH-1009,Merchant 10,Retail,UPI,POS,6594.13,32.97,Success,,0,Nigeria,Kaduna
+TXN-10040,2024-07-31 20:36:00,CUST-2027,MERCH-1031,Merchant 32,Food & Dining,UPI,Web,100213.39,501.07,Success,,0,Nigeria,Benin City
+TXN-10041,2024-04-22 05:51:00,CUST-2034,MERCH-1003,Merchant 4,Entertainment,Bank Transfer,Web,139572.75,1395.73,Success,,0,Nigeria,Kaduna
+TXN-10042,2024-12-07 16:35:00,CUST-2140,MERCH-1028,Merchant 29,Food & Dining,Credit Card,API,153356.75,2300.35,Success,,0,Nigeria,Kaduna
+TXN-10043,2024-03-22 23:55:00,CUST-2124,MERCH-1015,Merchant 16,Entertainment,Credit Card,Mobile App,210045.79,3150.69,Success,,0,Nigeria,Kano
+TXN-10044,2024-05-20 14:04:00,CUST-2059,MERCH-1021,Merchant 22,Travel,Debit Card,Mobile App,80267.54,1204.01,Success,,0,Nigeria,Benin City
+TXN-10045,2024-12-21 04:45:00,CUST-2107,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,135881.48,679.41,Success,,0,Nigeria,Benin City
+TXN-10046,2025-01-29 18:44:00,CUST-2099,MERCH-1036,Merchant 37,Other,UPI,POS,95405.07,477.03,Success,,1,Nigeria,Benin City
+TXN-10047,2024-10-02 23:47:00,CUST-2099,MERCH-1014,Merchant 15,Retail,Credit Card,Web,122313.25,1834.7,Success,,0,Nigeria,Enugu
+TXN-10048,2024-12-08 21:51:00,CUST-2100,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Mobile App,229925.63,3448.88,Success,,0,Nigeria,Lagos
+TXN-10049,2024-02-12 20:27:00,CUST-2086,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,65409.0,327.05,Success,,0,Nigeria,Benin City
+TXN-10050,2024-05-22 13:16:00,CUST-2017,MERCH-1034,Merchant 35,Utilities,Wallet,Mobile App,13495.36,134.95,Success,,0,Nigeria,Lagos
+TXN-10051,2025-01-21 00:15:00,CUST-2055,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,60016.96,300.08,Success,,0,Nigeria,Kaduna
+TXN-10052,2024-12-24 08:49:00,CUST-2148,MERCH-1007,Merchant 8,Food & Dining,Credit Card,Web,194559.08,2918.39,Success,,0,Nigeria,Lagos
+TXN-10053,2024-06-08 18:43:00,CUST-2026,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,Mobile App,19461.12,194.61,Success,,0,Nigeria,Ibadan
+TXN-10054,2024-12-16 19:51:00,CUST-2129,MERCH-1002,Merchant 3,Utilities,UPI,API,87127.34,435.64,Success,,0,Nigeria,Enugu
+TXN-10055,2024-01-07 13:52:00,CUST-2111,MERCH-1023,Merchant 24,Healthcare,Credit Card,Mobile App,159078.48,2386.18,Success,,0,Nigeria,Port Harcourt
+TXN-10056,2025-01-10 16:41:00,CUST-2068,MERCH-1034,Merchant 35,Utilities,UPI,POS,193773.04,968.87,Success,,0,Nigeria,Enugu
+TXN-10057,2024-05-05 02:17:00,CUST-2126,MERCH-1029,Merchant 30,Food & Dining,Wallet,Mobile App,142677.49,1426.77,Success,,0,Nigeria,Enugu
+TXN-10058,2024-04-03 15:13:00,CUST-2002,MERCH-1017,Merchant 18,Entertainment,Credit Card,Mobile App,220139.83,3302.1,Success,,0,Nigeria,Kano
+TXN-10059,2024-02-13 07:46:00,CUST-2004,MERCH-1015,Merchant 16,Entertainment,Credit Card,Web,172807.03,2592.11,Success,,0,Nigeria,Abuja
+TXN-10060,2024-05-30 07:25:00,CUST-2140,MERCH-1037,Merchant 38,Food & Dining,Debit Card,Mobile App,92570.6,1388.56,Success,,0,Nigeria,Enugu
+TXN-10061,2024-06-29 22:29:00,CUST-2047,MERCH-1007,Merchant 8,Food & Dining,UPI,Mobile App,180460.44,902.3,Success,,0,Nigeria,Kano
+TXN-10062,2024-04-20 23:30:00,CUST-2075,MERCH-1033,Merchant 34,Healthcare,UPI,Web,149399.29,747.0,Success,,0,Nigeria,Kano
+TXN-10063,2024-07-03 05:19:00,CUST-2032,MERCH-1017,Merchant 18,Entertainment,UPI,Web,11856.17,59.28,Success,,0,Nigeria,Kaduna
+TXN-10064,2024-02-22 00:36:00,CUST-2029,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,46498.74,232.49,Failed,Invalid Details,0,Nigeria,Abuja
+TXN-10065,2024-07-24 15:04:00,CUST-2063,MERCH-1009,Merchant 10,Retail,Credit Card,Web,37724.8,565.87,Success,,0,Nigeria,Abuja
+TXN-10066,2024-10-12 13:38:00,CUST-2109,MERCH-1033,Merchant 34,Healthcare,Credit Card,Web,95404.32,1431.06,Success,,0,Nigeria,Ibadan
+TXN-10067,2024-10-18 19:03:00,CUST-2061,MERCH-1013,Merchant 14,Entertainment,Debit Card,Web,156566.0,2348.49,Success,,0,Nigeria,Port Harcourt
+TXN-10068,2024-10-09 02:10:00,CUST-2072,MERCH-1038,Merchant 39,Education,UPI,Mobile App,117743.16,588.72,Success,,1,Nigeria,Kaduna
+TXN-10069,2024-02-06 21:14:00,CUST-2139,MERCH-1037,Merchant 38,Food & Dining,Bank Transfer,POS,165465.17,1654.65,Success,,0,Nigeria,Kano
+TXN-10070,2024-11-27 04:58:00,CUST-2145,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,41897.74,209.49,Success,,0,Nigeria,Ibadan
+TXN-10071,2024-08-12 03:29:00,CUST-2010,MERCH-1017,Merchant 18,Entertainment,Debit Card,Web,125367.81,1880.52,Success,,0,Nigeria,Benin City
+TXN-10072,2025-01-11 10:38:00,CUST-2147,MERCH-1036,Merchant 37,Other,UPI,Mobile App,146987.17,734.94,Failed,Network Error,1,Nigeria,Lagos
+TXN-10073,2025-01-25 05:30:00,CUST-2125,MERCH-1017,Merchant 18,Entertainment,Credit Card,Mobile App,45781.54,686.72,Success,,0,Nigeria,Abuja
+TXN-10074,2024-08-28 11:26:00,CUST-2102,MERCH-1010,Merchant 11,Retail,UPI,Web,82786.01,413.93,Success,,0,Nigeria,Lagos
+TXN-10075,2024-08-20 02:20:00,CUST-2138,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,216295.19,1081.48,Success,,0,Nigeria,Kaduna
+TXN-10076,2024-07-30 01:12:00,CUST-2140,MERCH-1031,Merchant 32,Food & Dining,Credit Card,Web,156539.48,2348.09,Success,,0,Nigeria,Port Harcourt
+TXN-10077,2024-05-27 14:56:00,CUST-2003,MERCH-1038,Merchant 39,Education,Debit Card,Mobile App,199928.78,2998.93,Success,,0,Nigeria,Benin City
+TXN-10078,2024-02-17 07:53:00,CUST-2130,MERCH-1007,Merchant 8,Food & Dining,Bank Transfer,Mobile App,162103.57,1621.04,Failed,Network Error,0,Nigeria,Ibadan
+TXN-10079,2024-07-31 15:30:00,CUST-2034,MERCH-1024,Merchant 25,Utilities,UPI,Web,48057.29,240.29,Success,,0,Nigeria,Abuja
+TXN-10080,2024-05-21 13:21:00,CUST-2125,MERCH-1000,Merchant 1,Food & Dining,Bank Transfer,Web,71068.33,710.68,Success,,0,Nigeria,Port Harcourt
+TXN-10081,2024-08-16 17:30:00,CUST-2061,MERCH-1034,Merchant 35,Utilities,UPI,Web,94613.91,473.07,Success,,0,Nigeria,Benin City
+TXN-10082,2024-04-29 13:02:00,CUST-2038,MERCH-1024,Merchant 25,Utilities,UPI,Mobile App,96826.65,484.13,Success,,0,Nigeria,Kaduna
+TXN-10083,2024-01-19 04:32:00,CUST-2116,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,Mobile App,218610.5,2186.11,Success,,0,Nigeria,Lagos
+TXN-10084,2025-01-04 04:26:00,CUST-2101,MERCH-1004,Merchant 5,Entertainment,Wallet,API,117637.9,1176.38,Success,,0,Nigeria,Abuja
+TXN-10085,2024-06-17 21:54:00,CUST-2073,MERCH-1031,Merchant 32,Food & Dining,Credit Card,API,218159.56,3272.39,Success,,1,Nigeria,Kano
+TXN-10086,2025-01-17 02:27:00,CUST-2083,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,POS,111197.8,1111.98,Failed,Insufficient Funds,0,Nigeria,Lagos
+TXN-10087,2024-05-30 11:23:00,CUST-2020,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,141699.05,2125.49,Success,,0,Nigeria,Benin City
+TXN-10088,2024-11-13 21:15:00,CUST-2002,MERCH-1014,Merchant 15,Retail,Credit Card,Web,115556.9,1733.35,Success,,0,Nigeria,Kaduna
+TXN-10089,2024-05-27 21:34:00,CUST-2064,MERCH-1022,Merchant 23,Education,UPI,Mobile App,246919.1,1234.6,Failed,Bank Reject,0,Nigeria,Kaduna
+TXN-10090,2024-06-03 06:24:00,CUST-2005,MERCH-1024,Merchant 25,Utilities,Wallet,Mobile App,143194.71,1431.95,Failed,Network Error,0,Nigeria,Benin City
+TXN-10091,2024-05-20 00:36:00,CUST-2073,MERCH-1003,Merchant 4,Entertainment,Wallet,POS,227698.93,2276.99,Success,,0,Nigeria,Kano
+TXN-10092,2024-11-06 11:14:00,CUST-2079,MERCH-1008,Merchant 9,Education,Debit Card,Web,157247.9,2358.72,Success,,0,Nigeria,Kaduna
+TXN-10093,2024-01-18 18:23:00,CUST-2138,MERCH-1018,Merchant 19,Other,Debit Card,Mobile App,82016.42,1230.25,Success,,0,Nigeria,Enugu
+TXN-10094,2024-09-28 16:58:00,CUST-2029,MERCH-1030,Merchant 31,Education,UPI,Mobile App,241862.33,1209.31,Success,,0,Nigeria,Kaduna
+TXN-10095,2024-02-08 04:48:00,CUST-2101,MERCH-1025,Merchant 26,Travel,Bank Transfer,POS,241833.8,2418.34,Success,,0,Nigeria,Lagos
+TXN-10096,2024-05-15 17:07:00,CUST-2059,MERCH-1016,Merchant 17,Education,Credit Card,Web,146347.74,2195.22,Failed,Insufficient Funds,0,Nigeria,Kaduna
+TXN-10097,2024-01-13 19:56:00,CUST-2077,MERCH-1039,Merchant 40,Food & Dining,Bank Transfer,Mobile App,55731.12,557.31,Success,,0,Nigeria,Benin City
+TXN-10098,2024-02-29 04:02:00,CUST-2099,MERCH-1031,Merchant 32,Food & Dining,Bank Transfer,Mobile App,29472.06,294.72,Success,,0,Nigeria,Kaduna
+TXN-10099,2024-07-08 21:47:00,CUST-2025,MERCH-1037,Merchant 38,Food & Dining,Debit Card,Web,185696.12,2785.44,Success,,0,Nigeria,Kaduna
+TXN-10100,2024-11-11 13:17:00,CUST-2094,MERCH-1028,Merchant 29,Food & Dining,UPI,Mobile App,111451.62,557.26,Success,,0,Nigeria,Enugu
+TXN-10101,2024-02-01 12:17:00,CUST-2005,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,23372.52,116.86,Success,,0,Nigeria,Lagos
+TXN-10102,2024-06-19 07:08:00,CUST-2084,MERCH-1035,Merchant 36,Retail,Wallet,Mobile App,52185.76,521.86,Success,,0,Nigeria,Port Harcourt
+TXN-10103,2024-11-01 00:17:00,CUST-2006,MERCH-1008,Merchant 9,Education,Wallet,Mobile App,135283.76,1352.84,Success,,0,Nigeria,Port Harcourt
+TXN-10104,2024-01-08 11:50:00,CUST-2029,MERCH-1001,Merchant 2,Retail,Wallet,Web,43974.43,439.74,Failed,Timeout,1,Nigeria,Abuja
+TXN-10105,2024-08-31 14:49:00,CUST-2133,MERCH-1028,Merchant 29,Food & Dining,Credit Card,Web,126207.75,1893.12,Success,,0,Nigeria,Ibadan
+TXN-10106,2024-08-22 20:01:00,CUST-2113,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,106855.27,534.28,Success,,0,Nigeria,Abuja
+TXN-10107,2024-02-11 10:38:00,CUST-2135,MERCH-1039,Merchant 40,Food & Dining,UPI,Mobile App,158452.64,792.26,Success,,0,Nigeria,Ibadan
+TXN-10108,2024-08-20 16:38:00,CUST-2055,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,213271.79,3199.08,Success,,0,Nigeria,Benin City
+TXN-10109,2024-08-19 07:26:00,CUST-2065,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,182538.32,912.69,Success,,0,Nigeria,Enugu
+TXN-10110,2024-03-19 21:59:00,CUST-2033,MERCH-1005,Merchant 6,Travel,Credit Card,Mobile App,23760.91,356.41,Success,,0,Nigeria,Lagos
+TXN-10111,2024-10-27 17:35:00,CUST-2013,MERCH-1022,Merchant 23,Education,UPI,Mobile App,218465.04,1092.33,Success,,0,Nigeria,Ibadan
+TXN-10112,2024-11-03 09:22:00,CUST-2142,MERCH-1009,Merchant 10,Retail,UPI,Web,164355.71,821.78,Success,,0,Nigeria,Enugu
+TXN-10113,2024-02-28 08:36:00,CUST-2142,MERCH-1035,Merchant 36,Retail,UPI,Mobile App,243649.38,1218.25,Success,,0,Nigeria,Lagos
+TXN-10114,2024-11-07 21:53:00,CUST-2001,MERCH-1017,Merchant 18,Entertainment,Debit Card,Mobile App,175823.34,2637.35,Success,,0,Nigeria,Port Harcourt
+TXN-10115,2024-03-14 18:42:00,CUST-2116,MERCH-1001,Merchant 2,Retail,Credit Card,Mobile App,23393.54,350.9,Success,,0,Nigeria,Enugu
+TXN-10116,2024-03-21 11:19:00,CUST-2012,MERCH-1036,Merchant 37,Other,Debit Card,POS,149257.83,2238.87,Success,,0,Nigeria,Abuja
+TXN-10117,2024-05-19 14:42:00,CUST-2110,MERCH-1026,Merchant 27,Entertainment,Credit Card,Web,68655.13,1029.83,Success,,0,Nigeria,Abuja
+TXN-10118,2024-05-25 21:43:00,CUST-2001,MERCH-1019,Merchant 20,Utilities,Credit Card,Web,11831.63,177.47,Success,,0,Nigeria,Kano
+TXN-10119,2024-06-03 06:49:00,CUST-2033,MERCH-1020,Merchant 21,Retail,UPI,Mobile App,30436.09,152.18,Success,,0,Nigeria,Benin City
+TXN-10120,2024-09-29 22:14:00,CUST-2004,MERCH-1022,Merchant 23,Education,Credit Card,POS,18482.84,277.24,Success,,0,Nigeria,Kaduna
+TXN-10121,2024-02-09 10:36:00,CUST-2117,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,72734.04,1091.01,Failed,Card Declined,0,Nigeria,Enugu
+TXN-10122,2024-02-15 13:54:00,CUST-2086,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,131228.65,656.14,Success,,0,Nigeria,Kano
+TXN-10123,2024-06-19 05:04:00,CUST-2037,MERCH-1032,Merchant 33,Healthcare,Credit Card,Mobile App,48878.97,733.18,Success,,0,Nigeria,Kano
+TXN-10124,2024-02-22 04:16:00,CUST-2144,MERCH-1004,Merchant 5,Entertainment,UPI,Web,44697.96,223.49,Success,,0,Nigeria,Kaduna
+TXN-10125,2024-12-14 18:41:00,CUST-2077,MERCH-1020,Merchant 21,Retail,Debit Card,Web,38163.87,572.46,Success,,0,Nigeria,Ibadan
+TXN-10126,2024-10-29 01:22:00,CUST-2023,MERCH-1028,Merchant 29,Food & Dining,Credit Card,Mobile App,9883.01,148.25,Success,,0,Nigeria,Benin City
+TXN-10127,2024-08-24 18:35:00,CUST-2082,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Web,112708.56,1127.09,Success,,0,Nigeria,Kaduna
+TXN-10128,2024-09-13 04:03:00,CUST-2063,MERCH-1021,Merchant 22,Travel,Credit Card,POS,245605.2,3684.08,Failed,Insufficient Funds,1,Nigeria,Kaduna
+TXN-10129,2024-08-12 16:33:00,CUST-2013,MERCH-1018,Merchant 19,Other,Debit Card,Mobile App,97160.43,1457.41,Success,,0,Nigeria,Enugu
+TXN-10130,2024-02-03 10:06:00,CUST-2038,MERCH-1016,Merchant 17,Education,Credit Card,Mobile App,181071.55,2716.07,Success,,0,Nigeria,Enugu
+TXN-10131,2024-02-11 18:42:00,CUST-2143,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,32673.44,163.37,Success,,0,Nigeria,Benin City
+TXN-10132,2024-11-25 10:52:00,CUST-2004,MERCH-1033,Merchant 34,Healthcare,UPI,Web,23816.51,119.08,Success,,0,Nigeria,Enugu
+TXN-10133,2024-06-07 05:13:00,CUST-2025,MERCH-1012,Merchant 13,Entertainment,UPI,POS,57022.49,285.11,Success,,0,Nigeria,Lagos
+TXN-10134,2024-12-04 10:56:00,CUST-2042,MERCH-1024,Merchant 25,Utilities,Wallet,Mobile App,38986.06,389.86,Success,,0,Nigeria,Kaduna
+TXN-10135,2024-01-23 13:23:00,CUST-2059,MERCH-1028,Merchant 29,Food & Dining,Debit Card,Mobile App,152843.56,2292.65,Success,,0,Nigeria,Kano
+TXN-10136,2024-06-07 15:57:00,CUST-2097,MERCH-1036,Merchant 37,Other,Wallet,Mobile App,246117.73,2461.18,Success,,0,Nigeria,Benin City
+TXN-10137,2024-03-23 06:51:00,CUST-2026,MERCH-1003,Merchant 4,Entertainment,Debit Card,POS,160474.17,2407.11,Success,,0,Nigeria,Abuja
+TXN-10138,2024-05-25 02:48:00,CUST-2115,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,37263.49,186.32,Failed,Card Declined,0,Nigeria,Enugu
+TXN-10139,2024-01-14 13:03:00,CUST-2025,MERCH-1024,Merchant 25,Utilities,Credit Card,Mobile App,248634.08,3729.51,Success,,0,Nigeria,Enugu
+TXN-10140,2024-03-15 04:02:00,CUST-2020,MERCH-1008,Merchant 9,Education,UPI,POS,189830.87,949.15,Success,,0,Nigeria,Lagos
+TXN-10141,2024-05-11 06:53:00,CUST-2077,MERCH-1038,Merchant 39,Education,UPI,API,132178.99,660.89,Success,,0,Nigeria,Abuja
+TXN-10142,2024-01-25 07:26:00,CUST-2004,MERCH-1004,Merchant 5,Entertainment,Debit Card,Web,28159.04,422.39,Success,,0,Nigeria,Kano
+TXN-10143,2025-01-02 04:18:00,CUST-2134,MERCH-1015,Merchant 16,Entertainment,Credit Card,Web,142880.6,2143.21,Success,,0,Nigeria,Enugu
+TXN-10144,2024-02-04 16:34:00,CUST-2099,MERCH-1035,Merchant 36,Retail,Credit Card,API,5573.41,83.6,Success,,0,Nigeria,Enugu
+TXN-10145,2024-05-09 23:01:00,CUST-2085,MERCH-1015,Merchant 16,Entertainment,Credit Card,Mobile App,183368.78,2750.53,Success,,0,Nigeria,Port Harcourt
+TXN-10146,2024-01-23 11:34:00,CUST-2034,MERCH-1029,Merchant 30,Food & Dining,UPI,Web,245214.39,1226.07,Success,,0,Nigeria,Abuja
+TXN-10147,2025-01-01 14:02:00,CUST-2101,MERCH-1012,Merchant 13,Entertainment,UPI,Mobile App,221504.7,1107.52,Success,,0,Nigeria,Kaduna
+TXN-10148,2024-05-09 01:48:00,CUST-2094,MERCH-1003,Merchant 4,Entertainment,Debit Card,Mobile App,216516.67,3247.75,Success,,0,Nigeria,Benin City
+TXN-10149,2024-07-23 23:28:00,CUST-2132,MERCH-1011,Merchant 12,Food & Dining,Wallet,Mobile App,124302.71,1243.03,Success,,0,Nigeria,Ibadan
+TXN-10150,2024-02-12 23:27:00,CUST-2075,MERCH-1011,Merchant 12,Food & Dining,UPI,Web,136595.86,682.98,Success,,0,Nigeria,Ibadan
+TXN-10151,2024-08-16 19:45:00,CUST-2111,MERCH-1022,Merchant 23,Education,Credit Card,Web,112058.85,1680.88,Success,,0,Nigeria,Ibadan
+TXN-10152,2024-11-23 01:04:00,CUST-2112,MERCH-1032,Merchant 33,Healthcare,Debit Card,Mobile App,200373.45,3005.6,Failed,Card Declined,0,Nigeria,Lagos
+TXN-10153,2024-03-05 02:15:00,CUST-2115,MERCH-1024,Merchant 25,Utilities,Wallet,Mobile App,237392.04,2373.92,Success,,1,Nigeria,Enugu
+TXN-10154,2024-07-09 14:48:00,CUST-2029,MERCH-1023,Merchant 24,Healthcare,UPI,Mobile App,99809.49,499.05,Success,,0,Nigeria,Lagos
+TXN-10155,2025-01-11 05:31:00,CUST-2073,MERCH-1007,Merchant 8,Food & Dining,Credit Card,API,65813.28,987.2,Success,,0,Nigeria,Kaduna
+TXN-10156,2024-04-12 03:08:00,CUST-2088,MERCH-1028,Merchant 29,Food & Dining,Wallet,Mobile App,249316.97,2493.17,Failed,Network Error,0,Nigeria,Abuja
+TXN-10157,2024-10-08 17:18:00,CUST-2051,MERCH-1011,Merchant 12,Food & Dining,Wallet,POS,198527.25,1985.27,Success,,0,Nigeria,Port Harcourt
+TXN-10158,2024-05-01 15:01:00,CUST-2022,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Web,201013.6,3015.2,Success,,0,Nigeria,Abuja
+TXN-10159,2024-06-07 12:45:00,CUST-2018,MERCH-1026,Merchant 27,Entertainment,Debit Card,Web,205923.18,3088.85,Failed,Bank Reject,1,Nigeria,Kaduna
+TXN-10160,2024-08-26 21:33:00,CUST-2128,MERCH-1035,Merchant 36,Retail,UPI,POS,160128.59,800.64,Failed,Invalid Details,0,Nigeria,Lagos
+TXN-10161,2024-03-04 16:09:00,CUST-2020,MERCH-1014,Merchant 15,Retail,UPI,Mobile App,86832.76,434.16,Success,,0,Nigeria,Ibadan
+TXN-10162,2024-04-10 20:35:00,CUST-2148,MERCH-1039,Merchant 40,Food & Dining,UPI,Web,133602.77,668.01,Success,,0,Nigeria,Port Harcourt
+TXN-10163,2024-03-28 21:39:00,CUST-2147,MERCH-1036,Merchant 37,Other,Debit Card,Web,10777.98,161.67,Success,,0,Nigeria,Ibadan
+TXN-10164,2024-11-29 06:49:00,CUST-2077,MERCH-1001,Merchant 2,Retail,Credit Card,Web,124760.5,1871.41,Success,,0,Nigeria,Kaduna
+TXN-10165,2024-05-05 21:25:00,CUST-2087,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,39941.07,199.71,Success,,0,Nigeria,Port Harcourt
+TXN-10166,2024-06-09 22:20:00,CUST-2081,MERCH-1025,Merchant 26,Travel,Debit Card,POS,33126.15,496.89,Success,,0,Nigeria,Kano
+TXN-10167,2024-08-26 03:17:00,CUST-2063,MERCH-1003,Merchant 4,Entertainment,Credit Card,Mobile App,72907.9,1093.62,Success,,0,Nigeria,Port Harcourt
+TXN-10168,2024-06-16 18:46:00,CUST-2127,MERCH-1031,Merchant 32,Food & Dining,UPI,POS,248994.37,1244.97,Success,,0,Nigeria,Lagos
+TXN-10169,2024-02-16 12:32:00,CUST-2120,MERCH-1037,Merchant 38,Food & Dining,Credit Card,Mobile App,88547.32,1328.21,Success,,0,Nigeria,Ibadan
+TXN-10170,2024-10-01 00:54:00,CUST-2102,MERCH-1016,Merchant 17,Education,UPI,Mobile App,182013.26,910.07,Success,,0,Nigeria,Lagos
+TXN-10171,2024-10-18 17:12:00,CUST-2030,MERCH-1024,Merchant 25,Utilities,Credit Card,Mobile App,126311.75,1894.68,Success,,0,Nigeria,Port Harcourt
+TXN-10172,2024-02-19 12:23:00,CUST-2128,MERCH-1023,Merchant 24,Healthcare,Wallet,Mobile App,188863.81,1888.64,Success,,0,Nigeria,Lagos
+TXN-10173,2024-01-24 01:08:00,CUST-2083,MERCH-1033,Merchant 34,Healthcare,Debit Card,POS,114518.65,1717.78,Success,,0,Nigeria,Enugu
+TXN-10174,2024-03-24 12:39:00,CUST-2144,MERCH-1021,Merchant 22,Travel,Debit Card,Mobile App,127075.09,1906.13,Success,,0,Nigeria,Ibadan
+TXN-10175,2024-08-31 00:23:00,CUST-2006,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,146133.68,730.67,Success,,0,Nigeria,Kaduna
+TXN-10176,2024-05-15 20:50:00,CUST-2097,MERCH-1014,Merchant 15,Retail,Bank Transfer,Web,180489.33,1804.89,Success,,0,Nigeria,Port Harcourt
+TXN-10177,2024-12-14 07:02:00,CUST-2052,MERCH-1012,Merchant 13,Entertainment,Credit Card,Web,5224.87,78.37,Success,,0,Nigeria,Benin City
+TXN-10178,2024-09-13 19:58:00,CUST-2122,MERCH-1003,Merchant 4,Entertainment,Credit Card,POS,176590.92,2648.86,Success,,0,Nigeria,Benin City
+TXN-10179,2024-06-09 05:29:00,CUST-2067,MERCH-1022,Merchant 23,Education,Bank Transfer,Mobile App,169129.21,1691.29,Success,,0,Nigeria,Kaduna
+TXN-10180,2024-04-08 07:17:00,CUST-2125,MERCH-1019,Merchant 20,Utilities,Credit Card,Mobile App,192907.98,2893.62,Success,,0,Nigeria,Enugu
+TXN-10181,2024-09-02 11:35:00,CUST-2101,MERCH-1017,Merchant 18,Entertainment,Bank Transfer,POS,72303.45,723.03,Success,,0,Nigeria,Enugu
+TXN-10182,2025-01-30 04:18:00,CUST-2122,MERCH-1005,Merchant 6,Travel,UPI,API,86917.7,434.59,Success,,0,Nigeria,Kano
+TXN-10183,2024-04-13 17:17:00,CUST-2012,MERCH-1008,Merchant 9,Education,Bank Transfer,Web,27752.03,277.52,Success,,0,Nigeria,Kano
+TXN-10184,2024-11-22 07:03:00,CUST-2140,MERCH-1030,Merchant 31,Education,UPI,Mobile App,25585.95,127.93,Success,,0,Nigeria,Port Harcourt
+TXN-10185,2024-07-27 20:59:00,CUST-2015,MERCH-1012,Merchant 13,Entertainment,Wallet,Mobile App,189099.81,1891.0,Success,,0,Nigeria,Abuja
+TXN-10186,2024-11-29 18:14:00,CUST-2045,MERCH-1002,Merchant 3,Utilities,Credit Card,Web,228350.82,3425.26,Success,,0,Nigeria,Lagos
+TXN-10187,2024-07-22 15:11:00,CUST-2027,MERCH-1018,Merchant 19,Other,Bank Transfer,API,219247.42,2192.47,Success,,1,Nigeria,Enugu
+TXN-10188,2024-05-25 14:41:00,CUST-2028,MERCH-1008,Merchant 9,Education,Credit Card,Mobile App,212839.4,3192.59,Success,,0,Nigeria,Enugu
+TXN-10189,2024-03-24 23:29:00,CUST-2049,MERCH-1000,Merchant 1,Food & Dining,Debit Card,Web,184286.16,2764.29,Success,,0,Nigeria,Port Harcourt
+TXN-10190,2024-11-08 20:57:00,CUST-2035,MERCH-1020,Merchant 21,Retail,Credit Card,Mobile App,22141.07,332.12,Success,,0,Nigeria,Kaduna
+TXN-10191,2024-06-14 07:00:00,CUST-2002,MERCH-1017,Merchant 18,Entertainment,UPI,Mobile App,238531.69,1192.66,Success,,0,Nigeria,Ibadan
+TXN-10192,2024-11-30 11:44:00,CUST-2079,MERCH-1029,Merchant 30,Food & Dining,UPI,Web,77048.18,385.24,Success,,0,Nigeria,Abuja
+TXN-10193,2024-11-23 09:23:00,CUST-2106,MERCH-1008,Merchant 9,Education,Debit Card,Mobile App,119806.38,1797.1,Failed,Network Error,0,Nigeria,Kaduna
+TXN-10194,2025-01-22 17:51:00,CUST-2134,MERCH-1015,Merchant 16,Entertainment,Debit Card,Mobile App,170245.31,2553.68,Success,,0,Nigeria,Kaduna
+TXN-10195,2024-09-27 22:23:00,CUST-2137,MERCH-1003,Merchant 4,Entertainment,UPI,Web,207279.13,1036.4,Success,,0,Nigeria,Port Harcourt
+TXN-10196,2024-03-25 10:54:00,CUST-2114,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,179371.03,2690.57,Success,,0,Nigeria,Lagos
+TXN-10197,2024-08-20 04:32:00,CUST-2101,MERCH-1035,Merchant 36,Retail,Credit Card,Web,115863.39,1737.95,Success,,0,Nigeria,Ibadan
+TXN-10198,2024-01-02 23:13:00,CUST-2017,MERCH-1022,Merchant 23,Education,Credit Card,Mobile App,175246.03,2628.69,Success,,0,Nigeria,Kaduna
+TXN-10199,2024-01-17 09:26:00,CUST-2096,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,93928.0,469.64,Success,,0,Nigeria,Benin City
+TXN-10200,2024-02-11 21:42:00,CUST-2032,MERCH-1022,Merchant 23,Education,Wallet,Mobile App,30098.98,300.99,Success,,0,Nigeria,Kano
+TXN-10201,2024-01-02 00:19:00,CUST-2088,MERCH-1027,Merchant 28,Healthcare,Credit Card,Web,133217.44,1998.26,Success,,0,Nigeria,Port Harcourt
+TXN-10202,2024-05-21 06:59:00,CUST-2004,MERCH-1002,Merchant 3,Utilities,Wallet,POS,202464.81,2024.65,Success,,0,Nigeria,Kano
+TXN-10203,2024-04-15 02:06:00,CUST-2138,MERCH-1003,Merchant 4,Entertainment,Credit Card,Mobile App,61561.17,923.42,Success,,0,Nigeria,Kano
+TXN-10204,2025-01-21 01:08:00,CUST-2082,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,80066.47,1201.0,Success,,0,Nigeria,Kano
+TXN-10205,2024-06-03 04:42:00,CUST-2044,MERCH-1017,Merchant 18,Entertainment,Credit Card,Mobile App,15708.93,235.63,Success,,0,Nigeria,Benin City
+TXN-10206,2024-10-11 15:03:00,CUST-2038,MERCH-1024,Merchant 25,Utilities,Bank Transfer,API,196558.25,1965.58,Success,,0,Nigeria,Ibadan
+TXN-10207,2024-07-11 05:48:00,CUST-2014,MERCH-1014,Merchant 15,Retail,Credit Card,Mobile App,75533.74,1133.01,Success,,0,Nigeria,Benin City
+TXN-10208,2024-08-01 17:33:00,CUST-2094,MERCH-1013,Merchant 14,Entertainment,UPI,Mobile App,82900.62,414.5,Success,,0,Nigeria,Abuja
+TXN-10209,2024-10-01 23:53:00,CUST-2143,MERCH-1038,Merchant 39,Education,UPI,Mobile App,150929.05,754.65,Success,,0,Nigeria,Kano
+TXN-10210,2024-09-02 06:55:00,CUST-2122,MERCH-1000,Merchant 1,Food & Dining,Bank Transfer,Mobile App,53346.04,533.46,Success,,0,Nigeria,Kano
+TXN-10211,2024-12-22 19:45:00,CUST-2091,MERCH-1035,Merchant 36,Retail,UPI,API,80742.94,403.71,Success,,0,Nigeria,Ibadan
+TXN-10212,2024-05-13 11:32:00,CUST-2080,MERCH-1030,Merchant 31,Education,Wallet,Mobile App,190526.43,1905.26,Success,,0,Nigeria,Benin City
+TXN-10213,2024-01-24 18:55:00,CUST-2075,MERCH-1016,Merchant 17,Education,UPI,Mobile App,138551.24,692.76,Success,,0,Nigeria,Port Harcourt
+TXN-10214,2024-04-10 10:14:00,CUST-2125,MERCH-1031,Merchant 32,Food & Dining,Credit Card,POS,137885.31,2068.28,Success,,0,Nigeria,Kaduna
+TXN-10215,2024-08-23 05:46:00,CUST-2015,MERCH-1034,Merchant 35,Utilities,Wallet,Mobile App,122334.92,1223.35,Success,,0,Nigeria,Lagos
+TXN-10216,2024-02-08 21:03:00,CUST-2116,MERCH-1014,Merchant 15,Retail,Wallet,Mobile App,17458.0,174.58,Success,,0,Nigeria,Enugu
+TXN-10217,2024-01-31 19:40:00,CUST-2105,MERCH-1030,Merchant 31,Education,Debit Card,Web,164991.44,2474.87,Success,,1,Nigeria,Lagos
+TXN-10218,2024-01-09 16:46:00,CUST-2045,MERCH-1001,Merchant 2,Retail,UPI,API,125802.9,629.01,Success,,0,Nigeria,Abuja
+TXN-10219,2024-02-19 16:09:00,CUST-2095,MERCH-1016,Merchant 17,Education,UPI,Web,203895.99,1019.48,Success,,0,Nigeria,Benin City
+TXN-10220,2024-08-23 18:15:00,CUST-2023,MERCH-1005,Merchant 6,Travel,Bank Transfer,Mobile App,163607.06,1636.07,Success,,0,Nigeria,Benin City
+TXN-10221,2024-07-13 12:35:00,CUST-2084,MERCH-1010,Merchant 11,Retail,Credit Card,Web,21130.19,316.95,Success,,0,Nigeria,Abuja
+TXN-10222,2024-09-27 01:14:00,CUST-2071,MERCH-1036,Merchant 37,Other,UPI,POS,119137.32,595.69,Success,,1,Nigeria,Lagos
+TXN-10223,2024-04-01 10:01:00,CUST-2145,MERCH-1025,Merchant 26,Travel,Bank Transfer,Web,232254.3,2322.54,Success,,0,Nigeria,Benin City
+TXN-10224,2024-12-12 17:21:00,CUST-2111,MERCH-1005,Merchant 6,Travel,Credit Card,Web,125447.82,1881.72,Success,,0,Nigeria,Kano
+TXN-10225,2024-02-08 10:38:00,CUST-2115,MERCH-1025,Merchant 26,Travel,Wallet,API,242245.67,2422.46,Success,,0,Nigeria,Kaduna
+TXN-10226,2024-04-26 11:35:00,CUST-2063,MERCH-1037,Merchant 38,Food & Dining,Bank Transfer,Mobile App,165337.64,1653.38,Success,,0,Nigeria,Abuja
+TXN-10227,2024-02-12 08:09:00,CUST-2001,MERCH-1009,Merchant 10,Retail,Credit Card,POS,185043.99,2775.66,Success,,0,Nigeria,Ibadan
+TXN-10228,2024-08-15 11:48:00,CUST-2026,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,108029.39,540.15,Success,,0,Nigeria,Lagos
+TXN-10229,2024-02-15 11:35:00,CUST-2021,MERCH-1020,Merchant 21,Retail,UPI,Web,215997.69,1079.99,Success,,1,Nigeria,Kano
+TXN-10230,2024-10-19 16:10:00,CUST-2111,MERCH-1017,Merchant 18,Entertainment,Debit Card,Mobile App,75632.25,1134.48,Success,,0,Nigeria,Ibadan
+TXN-10231,2024-08-03 09:30:00,CUST-2117,MERCH-1015,Merchant 16,Entertainment,Wallet,Mobile App,180364.41,1803.64,Success,,0,Nigeria,Abuja
+TXN-10232,2024-03-10 09:00:00,CUST-2110,MERCH-1039,Merchant 40,Food & Dining,Bank Transfer,Mobile App,95282.54,952.83,Success,,0,Nigeria,Port Harcourt
+TXN-10233,2024-06-02 10:38:00,CUST-2125,MERCH-1020,Merchant 21,Retail,Bank Transfer,Mobile App,44820.5,448.2,Success,,0,Nigeria,Kano
+TXN-10234,2024-06-15 12:17:00,CUST-2140,MERCH-1007,Merchant 8,Food & Dining,Wallet,Mobile App,233050.75,2330.51,Failed,Card Declined,0,Nigeria,Lagos
+TXN-10235,2025-01-07 14:45:00,CUST-2127,MERCH-1004,Merchant 5,Entertainment,UPI,POS,204831.91,1024.16,Success,,0,Nigeria,Port Harcourt
+TXN-10236,2024-11-20 09:15:00,CUST-2149,MERCH-1027,Merchant 28,Healthcare,UPI,Mobile App,197374.65,986.87,Failed,Invalid Details,1,Nigeria,Benin City
+TXN-10237,2024-09-30 16:59:00,CUST-2137,MERCH-1034,Merchant 35,Utilities,Bank Transfer,Web,9672.91,96.73,Success,,0,Nigeria,Abuja
+TXN-10238,2024-02-25 07:42:00,CUST-2102,MERCH-1039,Merchant 40,Food & Dining,Debit Card,Mobile App,11552.03,173.28,Success,,0,Nigeria,Enugu
+TXN-10239,2024-08-08 03:00:00,CUST-2095,MERCH-1033,Merchant 34,Healthcare,UPI,Mobile App,139719.36,698.6,Success,,0,Nigeria,Benin City
+TXN-10240,2024-08-25 21:37:00,CUST-2021,MERCH-1001,Merchant 2,Retail,Debit Card,Mobile App,120951.39,1814.27,Success,,0,Nigeria,Abuja
+TXN-10241,2025-01-08 04:22:00,CUST-2115,MERCH-1013,Merchant 14,Entertainment,UPI,Mobile App,130518.15,652.59,Success,,0,Nigeria,Enugu
+TXN-10242,2024-02-04 09:02:00,CUST-2062,MERCH-1021,Merchant 22,Travel,Wallet,Mobile App,162168.49,1621.68,Success,,0,Nigeria,Port Harcourt
+TXN-10243,2024-10-09 05:21:00,CUST-2110,MERCH-1014,Merchant 15,Retail,Credit Card,API,199540.07,2993.1,Success,,0,Nigeria,Benin City
+TXN-10244,2024-01-15 23:39:00,CUST-2016,MERCH-1027,Merchant 28,Healthcare,Wallet,Mobile App,97514.53,975.15,Success,,0,Nigeria,Abuja
+TXN-10245,2024-10-01 05:23:00,CUST-2099,MERCH-1016,Merchant 17,Education,UPI,Mobile App,167840.01,839.2,Failed,Network Error,0,Nigeria,Benin City
+TXN-10246,2024-10-27 03:22:00,CUST-2021,MERCH-1011,Merchant 12,Food & Dining,Credit Card,Mobile App,203527.69,3052.92,Success,,0,Nigeria,Port Harcourt
+TXN-10247,2024-06-09 03:15:00,CUST-2098,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,127950.8,639.75,Success,,0,Nigeria,Benin City
+TXN-10248,2024-04-05 15:40:00,CUST-2080,MERCH-1011,Merchant 12,Food & Dining,Credit Card,API,138950.69,2084.26,Success,,0,Nigeria,Kaduna
+TXN-10249,2024-11-13 01:55:00,CUST-2126,MERCH-1008,Merchant 9,Education,Credit Card,Mobile App,49184.56,737.77,Success,,0,Nigeria,Benin City
+TXN-10250,2024-12-16 15:26:00,CUST-2074,MERCH-1010,Merchant 11,Retail,Debit Card,Mobile App,21126.32,316.89,Success,,0,Nigeria,Lagos
+TXN-10251,2024-05-20 07:34:00,CUST-2028,MERCH-1036,Merchant 37,Other,UPI,POS,185758.3,928.79,Success,,0,Nigeria,Abuja
+TXN-10252,2024-05-17 17:52:00,CUST-2108,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Web,190121.03,1901.21,Success,,0,Nigeria,Abuja
+TXN-10253,2025-01-11 20:48:00,CUST-2112,MERCH-1002,Merchant 3,Utilities,UPI,POS,112708.22,563.54,Success,,0,Nigeria,Abuja
+TXN-10254,2025-02-01 07:13:00,CUST-2035,MERCH-1022,Merchant 23,Education,Wallet,Web,215331.65,2153.32,Success,,0,Nigeria,Kano
+TXN-10255,2024-04-15 01:36:00,CUST-2146,MERCH-1034,Merchant 35,Utilities,Credit Card,Mobile App,42510.15,637.65,Success,,0,Nigeria,Ibadan
+TXN-10256,2024-09-20 21:52:00,CUST-2032,MERCH-1026,Merchant 27,Entertainment,UPI,API,229732.79,1148.66,Success,,0,Nigeria,Port Harcourt
+TXN-10257,2024-05-07 04:45:00,CUST-2106,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,122619.95,613.1,Success,,0,Nigeria,Benin City
+TXN-10258,2024-08-19 02:40:00,CUST-2094,MERCH-1025,Merchant 26,Travel,Wallet,POS,129145.56,1291.46,Success,,0,Nigeria,Kaduna
+TXN-10259,2024-09-06 10:37:00,CUST-2091,MERCH-1005,Merchant 6,Travel,UPI,POS,182867.52,914.34,Success,,0,Nigeria,Abuja
+TXN-10260,2024-09-30 12:13:00,CUST-2147,MERCH-1031,Merchant 32,Food & Dining,Bank Transfer,POS,67499.94,675.0,Success,,0,Nigeria,Port Harcourt
+TXN-10261,2024-10-16 15:50:00,CUST-2004,MERCH-1003,Merchant 4,Entertainment,UPI,Web,11962.76,59.81,Success,,0,Nigeria,Abuja
+TXN-10262,2024-03-21 14:29:00,CUST-2077,MERCH-1012,Merchant 13,Entertainment,UPI,API,248925.67,1244.63,Success,,0,Nigeria,Port Harcourt
+TXN-10263,2024-05-20 02:41:00,CUST-2059,MERCH-1010,Merchant 11,Retail,Credit Card,Mobile App,13420.93,201.31,Success,,0,Nigeria,Benin City
+TXN-10264,2024-12-01 02:45:00,CUST-2002,MERCH-1004,Merchant 5,Entertainment,UPI,Mobile App,33608.6,168.04,Success,,0,Nigeria,Lagos
+TXN-10265,2024-12-22 10:52:00,CUST-2026,MERCH-1008,Merchant 9,Education,UPI,POS,119686.21,598.43,Success,,0,Nigeria,Abuja
+TXN-10266,2024-06-09 11:56:00,CUST-2144,MERCH-1008,Merchant 9,Education,UPI,Mobile App,160573.25,802.87,Success,,0,Nigeria,Lagos
+TXN-10267,2024-11-08 20:10:00,CUST-2055,MERCH-1009,Merchant 10,Retail,Credit Card,Web,230013.58,3450.2,Success,,0,Nigeria,Abuja
+TXN-10268,2024-02-21 04:48:00,CUST-2070,MERCH-1022,Merchant 23,Education,UPI,Web,240830.55,1204.15,Success,,0,Nigeria,Abuja
+TXN-10269,2024-05-07 17:38:00,CUST-2132,MERCH-1001,Merchant 2,Retail,Debit Card,Web,212049.08,3180.74,Success,,0,Nigeria,Kano
+TXN-10270,2025-01-17 12:18:00,CUST-2018,MERCH-1015,Merchant 16,Entertainment,Debit Card,POS,123974.49,1859.62,Success,,0,Nigeria,Lagos
+TXN-10271,2024-07-03 10:08:00,CUST-2018,MERCH-1026,Merchant 27,Entertainment,Credit Card,POS,91670.41,1375.06,Success,,0,Nigeria,Lagos
+TXN-10272,2024-10-27 02:00:00,CUST-2128,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,237195.66,1185.98,Success,,0,Nigeria,Benin City
+TXN-10273,2024-08-04 22:25:00,CUST-2052,MERCH-1039,Merchant 40,Food & Dining,UPI,Web,38593.77,192.97,Success,,0,Nigeria,Port Harcourt
+TXN-10274,2024-10-01 10:25:00,CUST-2014,MERCH-1004,Merchant 5,Entertainment,Credit Card,POS,77887.29,1168.31,Failed,Card Declined,0,Nigeria,Kano
+TXN-10275,2024-02-14 13:07:00,CUST-2003,MERCH-1019,Merchant 20,Utilities,Credit Card,Web,166686.85,2500.3,Success,,0,Nigeria,Port Harcourt
+TXN-10276,2024-12-25 00:10:00,CUST-2032,MERCH-1033,Merchant 34,Healthcare,Credit Card,Mobile App,195855.28,2937.83,Success,,0,Nigeria,Ibadan
+TXN-10277,2025-01-10 03:49:00,CUST-2147,MERCH-1027,Merchant 28,Healthcare,Wallet,Mobile App,68359.16,683.59,Success,,0,Nigeria,Abuja
+TXN-10278,2024-09-11 14:32:00,CUST-2146,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,42136.91,632.05,Success,,0,Nigeria,Abuja
+TXN-10279,2024-04-26 23:32:00,CUST-2038,MERCH-1000,Merchant 1,Food & Dining,UPI,POS,61515.59,307.58,Success,,0,Nigeria,Port Harcourt
+TXN-10280,2024-01-19 17:51:00,CUST-2069,MERCH-1026,Merchant 27,Entertainment,Bank Transfer,Web,56516.57,565.17,Failed,Network Error,0,Nigeria,Abuja
+TXN-10281,2024-10-19 11:07:00,CUST-2102,MERCH-1011,Merchant 12,Food & Dining,Credit Card,API,56184.67,842.77,Success,,0,Nigeria,Abuja
+TXN-10282,2024-08-26 09:49:00,CUST-2077,MERCH-1035,Merchant 36,Retail,Wallet,Mobile App,114458.17,1144.58,Success,,0,Nigeria,Kano
+TXN-10283,2024-08-25 11:37:00,CUST-2038,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,API,183249.6,1832.5,Success,,0,Nigeria,Lagos
+TXN-10284,2024-07-28 00:14:00,CUST-2078,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Web,237772.07,3566.58,Failed,Bank Reject,1,Nigeria,Abuja
+TXN-10285,2024-04-15 16:15:00,CUST-2105,MERCH-1009,Merchant 10,Retail,Credit Card,API,178057.29,2670.86,Failed,Timeout,1,Nigeria,Enugu
+TXN-10286,2024-08-22 23:05:00,CUST-2033,MERCH-1025,Merchant 26,Travel,Credit Card,Web,19170.21,287.55,Success,,0,Nigeria,Kano
+TXN-10287,2024-05-29 08:54:00,CUST-2051,MERCH-1020,Merchant 21,Retail,UPI,POS,79855.4,399.28,Success,,0,Nigeria,Port Harcourt
+TXN-10288,2025-02-03 18:06:00,CUST-2053,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,78851.31,394.26,Success,,0,Nigeria,Kaduna
+TXN-10289,2024-06-06 14:16:00,CUST-2083,MERCH-1019,Merchant 20,Utilities,Wallet,Mobile App,206683.48,2066.83,Success,,0,Nigeria,Port Harcourt
+TXN-10290,2024-02-16 22:15:00,CUST-2103,MERCH-1003,Merchant 4,Entertainment,Bank Transfer,Mobile App,169457.25,1694.57,Failed,Insufficient Funds,0,Nigeria,Kaduna
+TXN-10291,2024-10-11 23:35:00,CUST-2056,MERCH-1008,Merchant 9,Education,UPI,Mobile App,30802.59,154.01,Success,,0,Nigeria,Port Harcourt
+TXN-10292,2024-04-11 12:23:00,CUST-2005,MERCH-1005,Merchant 6,Travel,Debit Card,API,145789.79,2186.85,Success,,0,Nigeria,Abuja
+TXN-10293,2024-04-11 20:28:00,CUST-2146,MERCH-1021,Merchant 22,Travel,Wallet,Mobile App,31070.65,310.71,Success,,0,Nigeria,Benin City
+TXN-10294,2025-01-05 12:31:00,CUST-2114,MERCH-1011,Merchant 12,Food & Dining,UPI,Web,88808.84,444.04,Success,,0,Nigeria,Port Harcourt
+TXN-10295,2024-01-18 19:39:00,CUST-2071,MERCH-1031,Merchant 32,Food & Dining,Debit Card,Web,103292.06,1549.38,Success,,0,Nigeria,Benin City
+TXN-10296,2024-03-11 13:12:00,CUST-2097,MERCH-1015,Merchant 16,Entertainment,Debit Card,POS,157873.22,2368.1,Success,,0,Nigeria,Enugu
+TXN-10297,2024-09-02 17:50:00,CUST-2056,MERCH-1032,Merchant 33,Healthcare,Credit Card,API,80740.3,1211.1,Success,,0,Nigeria,Lagos
+TXN-10298,2025-02-02 08:03:00,CUST-2063,MERCH-1022,Merchant 23,Education,Wallet,Mobile App,191827.12,1918.27,Failed,Insufficient Funds,0,Nigeria,Kano
+TXN-10299,2024-05-16 17:52:00,CUST-2044,MERCH-1014,Merchant 15,Retail,Wallet,Web,144135.18,1441.35,Success,,0,Nigeria,Port Harcourt
+TXN-10300,2024-05-01 18:20:00,CUST-2036,MERCH-1037,Merchant 38,Food & Dining,Wallet,Web,7537.54,75.38,Failed,Timeout,0,Nigeria,Kano
+TXN-10301,2024-09-09 17:19:00,CUST-2000,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,58539.53,292.7,Success,,0,Nigeria,Enugu
+TXN-10302,2024-11-10 06:51:00,CUST-2036,MERCH-1020,Merchant 21,Retail,UPI,Web,15359.21,76.8,Success,,0,Nigeria,Abuja
+TXN-10303,2024-09-26 11:04:00,CUST-2040,MERCH-1025,Merchant 26,Travel,Credit Card,API,146711.16,2200.67,Success,,0,Nigeria,Benin City
+TXN-10304,2024-11-23 15:41:00,CUST-2057,MERCH-1035,Merchant 36,Retail,UPI,Web,173543.32,867.72,Success,,0,Nigeria,Port Harcourt
+TXN-10305,2024-07-12 09:46:00,CUST-2145,MERCH-1000,Merchant 1,Food & Dining,Debit Card,Mobile App,237222.63,3558.34,Success,,0,Nigeria,Lagos
+TXN-10306,2024-04-03 19:20:00,CUST-2084,MERCH-1014,Merchant 15,Retail,Bank Transfer,API,160091.87,1600.92,Success,,0,Nigeria,Abuja
+TXN-10307,2024-05-01 11:20:00,CUST-2085,MERCH-1005,Merchant 6,Travel,UPI,POS,205504.62,1027.52,Success,,0,Nigeria,Kaduna
+TXN-10308,2024-01-06 08:13:00,CUST-2112,MERCH-1016,Merchant 17,Education,UPI,Mobile App,196861.49,984.31,Success,,0,Nigeria,Benin City
+TXN-10309,2024-03-26 13:31:00,CUST-2057,MERCH-1024,Merchant 25,Utilities,Wallet,Mobile App,25806.43,258.06,Success,,0,Nigeria,Port Harcourt
+TXN-10310,2024-08-19 02:51:00,CUST-2096,MERCH-1020,Merchant 21,Retail,Wallet,Mobile App,65651.36,656.51,Success,,0,Nigeria,Port Harcourt
+TXN-10311,2025-01-09 02:35:00,CUST-2007,MERCH-1021,Merchant 22,Travel,Bank Transfer,API,148710.62,1487.11,Success,,0,Nigeria,Benin City
+TXN-10312,2024-11-30 05:38:00,CUST-2141,MERCH-1006,Merchant 7,Food & Dining,Wallet,Mobile App,83108.1,831.08,Success,,0,Nigeria,Ibadan
+TXN-10313,2024-12-04 09:19:00,CUST-2000,MERCH-1036,Merchant 37,Other,UPI,Mobile App,137640.83,688.2,Success,,0,Nigeria,Benin City
+TXN-10314,2024-02-14 09:52:00,CUST-2020,MERCH-1012,Merchant 13,Entertainment,Debit Card,Web,24698.23,370.47,Success,,0,Nigeria,Kaduna
+TXN-10315,2024-02-29 09:50:00,CUST-2097,MERCH-1016,Merchant 17,Education,Credit Card,Mobile App,23238.65,348.58,Success,,0,Nigeria,Enugu
+TXN-10316,2024-04-05 14:02:00,CUST-2024,MERCH-1014,Merchant 15,Retail,UPI,Mobile App,209351.15,1046.76,Success,,0,Nigeria,Abuja
+TXN-10317,2024-12-08 11:51:00,CUST-2133,MERCH-1037,Merchant 38,Food & Dining,Credit Card,API,57264.43,858.97,Success,,0,Nigeria,Benin City
+TXN-10318,2024-10-01 21:55:00,CUST-2008,MERCH-1015,Merchant 16,Entertainment,Bank Transfer,Web,119327.44,1193.27,Failed,Bank Reject,1,Nigeria,Port Harcourt
+TXN-10319,2024-03-02 14:11:00,CUST-2111,MERCH-1013,Merchant 14,Entertainment,Bank Transfer,Mobile App,202210.95,2022.11,Success,,0,Nigeria,Kano
+TXN-10320,2024-11-17 04:53:00,CUST-2070,MERCH-1004,Merchant 5,Entertainment,Credit Card,Mobile App,22213.35,333.2,Success,,0,Nigeria,Kaduna
+TXN-10321,2024-01-07 22:39:00,CUST-2025,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,103903.38,1558.55,Success,,0,Nigeria,Abuja
+TXN-10322,2024-10-15 03:50:00,CUST-2146,MERCH-1022,Merchant 23,Education,UPI,Web,219534.44,1097.67,Success,,0,Nigeria,Kaduna
+TXN-10323,2024-01-20 05:17:00,CUST-2060,MERCH-1025,Merchant 26,Travel,Credit Card,Web,10176.24,152.64,Success,,0,Nigeria,Lagos
+TXN-10324,2025-01-16 15:58:00,CUST-2125,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,204437.79,1022.19,Success,,0,Nigeria,Abuja
+TXN-10325,2024-04-26 04:19:00,CUST-2048,MERCH-1020,Merchant 21,Retail,Bank Transfer,Mobile App,67720.29,677.2,Success,,0,Nigeria,Kaduna
+TXN-10326,2024-04-18 13:47:00,CUST-2079,MERCH-1023,Merchant 24,Healthcare,Credit Card,Web,205343.84,3080.16,Success,,0,Nigeria,Benin City
+TXN-10327,2024-03-10 16:56:00,CUST-2092,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,209325.68,3139.89,Success,,0,Nigeria,Kano
+TXN-10328,2024-05-20 11:52:00,CUST-2114,MERCH-1007,Merchant 8,Food & Dining,Credit Card,Mobile App,170453.0,2556.8,Success,,0,Nigeria,Port Harcourt
+TXN-10329,2024-08-30 18:35:00,CUST-2098,MERCH-1016,Merchant 17,Education,UPI,Mobile App,187365.8,936.83,Success,,0,Nigeria,Lagos
+TXN-10330,2024-03-24 18:49:00,CUST-2005,MERCH-1014,Merchant 15,Retail,Bank Transfer,POS,169584.96,1695.85,Success,,0,Nigeria,Lagos
+TXN-10331,2024-08-30 04:41:00,CUST-2070,MERCH-1014,Merchant 15,Retail,UPI,POS,63471.42,317.36,Success,,0,Nigeria,Benin City
+TXN-10332,2024-07-11 11:29:00,CUST-2130,MERCH-1033,Merchant 34,Healthcare,UPI,Mobile App,206165.55,1030.83,Success,,0,Nigeria,Enugu
+TXN-10333,2024-10-14 20:38:00,CUST-2083,MERCH-1006,Merchant 7,Food & Dining,Debit Card,Mobile App,120693.74,1810.41,Success,,0,Nigeria,Ibadan
+TXN-10334,2024-05-13 20:45:00,CUST-2103,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,Web,37907.36,379.07,Failed,Timeout,0,Nigeria,Enugu
+TXN-10335,2024-12-14 04:46:00,CUST-2009,MERCH-1018,Merchant 19,Other,UPI,Mobile App,65226.86,326.13,Success,,0,Nigeria,Kano
+TXN-10336,2024-06-24 23:45:00,CUST-2043,MERCH-1030,Merchant 31,Education,UPI,Web,226678.36,1133.39,Success,,0,Nigeria,Port Harcourt
+TXN-10337,2024-05-30 03:30:00,CUST-2085,MERCH-1035,Merchant 36,Retail,UPI,Mobile App,190848.1,954.24,Success,,0,Nigeria,Abuja
+TXN-10338,2024-04-23 11:14:00,CUST-2030,MERCH-1021,Merchant 22,Travel,Debit Card,Mobile App,93234.77,1398.52,Success,,0,Nigeria,Kaduna
+TXN-10339,2024-01-28 20:37:00,CUST-2097,MERCH-1030,Merchant 31,Education,Credit Card,Web,222411.8,3336.18,Success,,0,Nigeria,Ibadan
+TXN-10340,2024-07-30 01:55:00,CUST-2117,MERCH-1012,Merchant 13,Entertainment,Wallet,Mobile App,85996.14,859.96,Success,,0,Nigeria,Port Harcourt
+TXN-10341,2024-06-10 22:11:00,CUST-2053,MERCH-1011,Merchant 12,Food & Dining,Wallet,Mobile App,78696.81,786.97,Success,,0,Nigeria,Port Harcourt
+TXN-10342,2024-10-22 05:31:00,CUST-2122,MERCH-1008,Merchant 9,Education,Wallet,POS,153812.69,1538.13,Success,,0,Nigeria,Benin City
+TXN-10343,2024-01-03 01:34:00,CUST-2004,MERCH-1000,Merchant 1,Food & Dining,UPI,Mobile App,223055.59,1115.28,Success,,0,Nigeria,Lagos
+TXN-10344,2024-11-16 23:15:00,CUST-2042,MERCH-1019,Merchant 20,Utilities,UPI,POS,32668.23,163.34,Success,,0,Nigeria,Abuja
+TXN-10345,2024-01-24 09:18:00,CUST-2125,MERCH-1033,Merchant 34,Healthcare,Credit Card,Web,84789.87,1271.85,Failed,Network Error,0,Nigeria,Enugu
+TXN-10346,2025-01-19 06:10:00,CUST-2005,MERCH-1025,Merchant 26,Travel,Bank Transfer,API,5271.62,52.72,Failed,Card Declined,0,Nigeria,Port Harcourt
+TXN-10347,2024-03-04 11:45:00,CUST-2012,MERCH-1016,Merchant 17,Education,Debit Card,Mobile App,192926.79,2893.9,Success,,0,Nigeria,Abuja
+TXN-10348,2024-11-30 00:03:00,CUST-2052,MERCH-1024,Merchant 25,Utilities,Debit Card,Mobile App,31336.97,470.05,Success,,0,Nigeria,Lagos
+TXN-10349,2024-06-03 13:42:00,CUST-2026,MERCH-1039,Merchant 40,Food & Dining,UPI,Web,151605.77,758.03,Success,,0,Nigeria,Abuja
+TXN-10350,2024-05-24 03:50:00,CUST-2104,MERCH-1012,Merchant 13,Entertainment,UPI,Mobile App,194600.75,973.0,Failed,Network Error,0,Nigeria,Ibadan
+TXN-10351,2024-03-23 01:35:00,CUST-2146,MERCH-1030,Merchant 31,Education,Credit Card,Mobile App,82985.6,1244.78,Failed,Insufficient Funds,1,Nigeria,Kaduna
+TXN-10352,2024-03-17 02:49:00,CUST-2075,MERCH-1006,Merchant 7,Food & Dining,Credit Card,Web,226242.46,3393.64,Success,,0,Nigeria,Ibadan
+TXN-10353,2024-08-25 01:06:00,CUST-2029,MERCH-1018,Merchant 19,Other,Wallet,POS,90373.56,903.74,Success,,0,Nigeria,Abuja
+TXN-10354,2025-01-23 01:00:00,CUST-2023,MERCH-1010,Merchant 11,Retail,Wallet,Web,82500.88,825.01,Failed,Network Error,0,Nigeria,Enugu
+TXN-10355,2024-06-24 05:07:00,CUST-2107,MERCH-1017,Merchant 18,Entertainment,Credit Card,API,209009.23,3135.14,Success,,0,Nigeria,Port Harcourt
+TXN-10356,2024-02-27 04:44:00,CUST-2145,MERCH-1010,Merchant 11,Retail,Debit Card,API,26376.42,395.65,Success,,0,Nigeria,Kaduna
+TXN-10357,2024-04-02 19:24:00,CUST-2112,MERCH-1008,Merchant 9,Education,Wallet,Web,121028.37,1210.28,Success,,0,Nigeria,Lagos
+TXN-10358,2024-02-02 08:41:00,CUST-2086,MERCH-1033,Merchant 34,Healthcare,UPI,Web,191998.42,959.99,Success,,0,Nigeria,Abuja
+TXN-10359,2024-08-09 21:46:00,CUST-2013,MERCH-1024,Merchant 25,Utilities,UPI,Mobile App,37589.29,187.95,Success,,0,Nigeria,Lagos
+TXN-10360,2024-11-25 05:32:00,CUST-2071,MERCH-1010,Merchant 11,Retail,Wallet,POS,19178.88,191.79,Success,,0,Nigeria,Lagos
+TXN-10361,2024-09-16 07:35:00,CUST-2022,MERCH-1015,Merchant 16,Entertainment,Debit Card,Mobile App,20168.23,302.52,Success,,0,Nigeria,Kaduna
+TXN-10362,2024-08-16 10:07:00,CUST-2000,MERCH-1001,Merchant 2,Retail,Bank Transfer,Web,26109.51,261.1,Success,,0,Nigeria,Abuja
+TXN-10363,2024-11-05 19:40:00,CUST-2013,MERCH-1013,Merchant 14,Entertainment,UPI,Web,163821.7,819.11,Success,,0,Nigeria,Kano
+TXN-10364,2024-08-20 10:35:00,CUST-2000,MERCH-1023,Merchant 24,Healthcare,Wallet,Web,179120.42,1791.2,Failed,Card Declined,1,Nigeria,Enugu
+TXN-10365,2024-06-30 20:51:00,CUST-2104,MERCH-1006,Merchant 7,Food & Dining,UPI,Web,11921.64,59.61,Success,,0,Nigeria,Abuja
+TXN-10366,2024-05-10 19:12:00,CUST-2086,MERCH-1025,Merchant 26,Travel,UPI,API,54289.58,271.45,Success,,0,Nigeria,Abuja
+TXN-10367,2025-01-22 13:02:00,CUST-2129,MERCH-1037,Merchant 38,Food & Dining,Bank Transfer,POS,31243.19,312.43,Success,,0,Nigeria,Port Harcourt
+TXN-10368,2024-09-12 00:33:00,CUST-2045,MERCH-1027,Merchant 28,Healthcare,Debit Card,Web,209784.62,3146.77,Success,,0,Nigeria,Port Harcourt
+TXN-10369,2025-01-09 04:06:00,CUST-2063,MERCH-1020,Merchant 21,Retail,Credit Card,Web,126275.47,1894.13,Failed,Bank Reject,0,Nigeria,Ibadan
+TXN-10370,2024-07-22 10:18:00,CUST-2140,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,150829.85,2262.45,Success,,0,Nigeria,Enugu
+TXN-10371,2024-12-30 23:59:00,CUST-2033,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,156229.81,2343.45,Success,,0,Nigeria,Port Harcourt
+TXN-10372,2024-09-14 17:44:00,CUST-2106,MERCH-1022,Merchant 23,Education,Debit Card,Web,140788.91,2111.83,Failed,Bank Reject,0,Nigeria,Ibadan
+TXN-10373,2024-08-04 00:33:00,CUST-2041,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,167728.42,838.64,Success,,0,Nigeria,Ibadan
+TXN-10374,2024-12-15 08:09:00,CUST-2115,MERCH-1018,Merchant 19,Other,Wallet,Web,51398.23,513.98,Success,,0,Nigeria,Abuja
+TXN-10375,2024-11-11 21:47:00,CUST-2073,MERCH-1035,Merchant 36,Retail,Credit Card,Mobile App,97527.22,1462.91,Success,,0,Nigeria,Lagos
+TXN-10376,2024-07-14 12:26:00,CUST-2113,MERCH-1020,Merchant 21,Retail,Bank Transfer,API,241475.39,2414.75,Failed,Card Declined,1,Nigeria,Kano
+TXN-10377,2024-11-20 22:45:00,CUST-2049,MERCH-1034,Merchant 35,Utilities,Debit Card,POS,184743.28,2771.15,Success,,0,Nigeria,Ibadan
+TXN-10378,2024-08-17 05:43:00,CUST-2067,MERCH-1032,Merchant 33,Healthcare,UPI,API,30278.78,151.39,Success,,0,Nigeria,Port Harcourt
+TXN-10379,2024-03-23 18:54:00,CUST-2077,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,10465.18,52.33,Success,,0,Nigeria,Kaduna
+TXN-10380,2024-10-20 17:22:00,CUST-2129,MERCH-1033,Merchant 34,Healthcare,UPI,Web,55380.52,276.9,Success,,0,Nigeria,Port Harcourt
+TXN-10381,2024-07-31 17:34:00,CUST-2135,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,166001.95,2490.03,Success,,0,Nigeria,Kaduna
+TXN-10382,2024-10-14 20:00:00,CUST-2010,MERCH-1015,Merchant 16,Entertainment,UPI,Mobile App,226171.87,1130.86,Success,,0,Nigeria,Enugu
+TXN-10383,2024-07-14 03:24:00,CUST-2130,MERCH-1001,Merchant 2,Retail,UPI,Web,227878.31,1139.39,Success,,0,Nigeria,Kaduna
+TXN-10384,2024-09-06 01:18:00,CUST-2136,MERCH-1032,Merchant 33,Healthcare,Wallet,Mobile App,21045.19,210.45,Failed,Timeout,0,Nigeria,Lagos
+TXN-10385,2024-11-16 02:13:00,CUST-2111,MERCH-1027,Merchant 28,Healthcare,Debit Card,POS,208998.44,3134.98,Success,,0,Nigeria,Abuja
+TXN-10386,2025-01-17 21:09:00,CUST-2142,MERCH-1002,Merchant 3,Utilities,UPI,Web,22336.46,111.68,Success,,0,Nigeria,Abuja
+TXN-10387,2024-10-21 07:58:00,CUST-2001,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,108539.75,542.7,Failed,Timeout,1,Nigeria,Abuja
+TXN-10388,2025-01-22 23:37:00,CUST-2077,MERCH-1022,Merchant 23,Education,UPI,POS,232047.91,1160.24,Success,,0,Nigeria,Abuja
+TXN-10389,2024-05-24 14:24:00,CUST-2139,MERCH-1030,Merchant 31,Education,Credit Card,Web,39502.71,592.54,Success,,0,Nigeria,Ibadan
+TXN-10390,2024-11-20 04:19:00,CUST-2031,MERCH-1023,Merchant 24,Healthcare,Debit Card,API,239369.22,3590.54,Failed,Card Declined,1,Nigeria,Lagos
+TXN-10391,2024-01-03 18:38:00,CUST-2088,MERCH-1005,Merchant 6,Travel,Credit Card,Web,76520.44,1147.81,Success,,0,Nigeria,Kano
+TXN-10392,2024-07-30 20:54:00,CUST-2145,MERCH-1014,Merchant 15,Retail,Credit Card,Mobile App,154412.79,2316.19,Success,,0,Nigeria,Lagos
+TXN-10393,2025-01-19 17:29:00,CUST-2084,MERCH-1004,Merchant 5,Entertainment,Debit Card,Mobile App,63046.56,945.7,Success,,0,Nigeria,Enugu
+TXN-10394,2024-03-06 21:41:00,CUST-2078,MERCH-1004,Merchant 5,Entertainment,UPI,Mobile App,225079.59,1125.4,Success,,0,Nigeria,Port Harcourt
+TXN-10395,2024-10-16 18:23:00,CUST-2111,MERCH-1010,Merchant 11,Retail,Wallet,API,1705.55,17.06,Success,,0,Nigeria,Ibadan
+TXN-10396,2024-07-03 04:43:00,CUST-2027,MERCH-1029,Merchant 30,Food & Dining,Debit Card,POS,111616.81,1674.25,Success,,0,Nigeria,Port Harcourt
+TXN-10397,2024-11-26 19:05:00,CUST-2019,MERCH-1008,Merchant 9,Education,Wallet,POS,222878.61,2228.79,Success,,0,Nigeria,Abuja
+TXN-10398,2024-01-10 16:40:00,CUST-2066,MERCH-1025,Merchant 26,Travel,UPI,Web,192415.46,962.08,Success,,0,Nigeria,Kaduna
+TXN-10399,2024-11-30 04:23:00,CUST-2130,MERCH-1037,Merchant 38,Food & Dining,Credit Card,POS,183440.09,2751.6,Success,,0,Nigeria,Abuja
+TXN-10400,2024-07-22 11:32:00,CUST-2040,MERCH-1039,Merchant 40,Food & Dining,UPI,Mobile App,171198.33,855.99,Success,,0,Nigeria,Port Harcourt
+TXN-10401,2024-10-16 18:42:00,CUST-2016,MERCH-1030,Merchant 31,Education,Wallet,Mobile App,234824.23,2348.24,Failed,Card Declined,1,Nigeria,Ibadan
+TXN-10402,2024-07-08 07:02:00,CUST-2010,MERCH-1023,Merchant 24,Healthcare,Debit Card,Web,97329.23,1459.94,Success,,0,Nigeria,Enugu
+TXN-10403,2024-02-22 22:33:00,CUST-2096,MERCH-1016,Merchant 17,Education,Debit Card,Mobile App,144868.54,2173.03,Success,,0,Nigeria,Enugu
+TXN-10404,2024-10-27 20:57:00,CUST-2088,MERCH-1024,Merchant 25,Utilities,Wallet,Web,243182.19,2431.82,Success,,0,Nigeria,Kaduna
+TXN-10405,2024-09-03 19:00:00,CUST-2038,MERCH-1010,Merchant 11,Retail,Credit Card,Mobile App,57882.7,868.24,Success,,0,Nigeria,Port Harcourt
+TXN-10406,2024-03-21 11:38:00,CUST-2122,MERCH-1014,Merchant 15,Retail,Debit Card,Mobile App,103946.11,1559.19,Success,,0,Nigeria,Kaduna
+TXN-10407,2024-04-17 18:10:00,CUST-2131,MERCH-1015,Merchant 16,Entertainment,Debit Card,Mobile App,11264.51,168.97,Success,,0,Nigeria,Lagos
+TXN-10408,2024-10-20 04:03:00,CUST-2004,MERCH-1033,Merchant 34,Healthcare,UPI,API,239580.46,1197.9,Success,,0,Nigeria,Ibadan
+TXN-10409,2024-02-13 06:28:00,CUST-2149,MERCH-1030,Merchant 31,Education,Debit Card,Mobile App,43056.41,645.85,Success,,0,Nigeria,Port Harcourt
+TXN-10410,2024-11-15 21:32:00,CUST-2096,MERCH-1021,Merchant 22,Travel,UPI,Web,230626.81,1153.13,Success,,0,Nigeria,Benin City
+TXN-10411,2024-03-08 03:01:00,CUST-2045,MERCH-1032,Merchant 33,Healthcare,UPI,POS,171249.77,856.25,Success,,0,Nigeria,Kaduna
+TXN-10412,2024-11-10 19:02:00,CUST-2138,MERCH-1007,Merchant 8,Food & Dining,Wallet,Web,23750.9,237.51,Success,,0,Nigeria,Lagos
+TXN-10413,2025-01-31 21:41:00,CUST-2123,MERCH-1002,Merchant 3,Utilities,Credit Card,Mobile App,174561.88,2618.43,Success,,0,Nigeria,Benin City
+TXN-10414,2024-06-28 18:51:00,CUST-2059,MERCH-1036,Merchant 37,Other,Debit Card,POS,24880.37,373.21,Success,,0,Nigeria,Abuja
+TXN-10415,2024-05-25 19:56:00,CUST-2030,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Mobile App,177432.63,2661.49,Success,,0,Nigeria,Lagos
+TXN-10416,2024-07-11 20:13:00,CUST-2066,MERCH-1023,Merchant 24,Healthcare,Debit Card,Mobile App,27092.51,406.39,Success,,0,Nigeria,Benin City
+TXN-10417,2024-10-16 11:39:00,CUST-2094,MERCH-1013,Merchant 14,Entertainment,UPI,Web,103600.43,518.0,Success,,0,Nigeria,Kaduna
+TXN-10418,2024-05-09 09:36:00,CUST-2114,MERCH-1008,Merchant 9,Education,UPI,Web,213822.23,1069.11,Success,,0,Nigeria,Port Harcourt
+TXN-10419,2024-02-21 06:32:00,CUST-2099,MERCH-1035,Merchant 36,Retail,Credit Card,Mobile App,153699.33,2305.49,Success,,0,Nigeria,Lagos
+TXN-10420,2024-02-16 04:30:00,CUST-2098,MERCH-1004,Merchant 5,Entertainment,Bank Transfer,Mobile App,66141.45,661.41,Success,,0,Nigeria,Benin City
+TXN-10421,2024-11-10 20:33:00,CUST-2112,MERCH-1003,Merchant 4,Entertainment,UPI,API,236456.11,1182.28,Success,,0,Nigeria,Lagos
+TXN-10422,2024-04-13 21:59:00,CUST-2043,MERCH-1002,Merchant 3,Utilities,Wallet,Mobile App,196097.88,1960.98,Success,,0,Nigeria,Lagos
+TXN-10423,2024-07-03 07:41:00,CUST-2051,MERCH-1017,Merchant 18,Entertainment,UPI,Mobile App,195028.38,975.14,Success,,0,Nigeria,Lagos
+TXN-10424,2025-01-12 22:04:00,CUST-2057,MERCH-1035,Merchant 36,Retail,Bank Transfer,Web,228794.74,2287.95,Failed,Network Error,0,Nigeria,Kano
+TXN-10425,2024-08-20 12:36:00,CUST-2029,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,27063.01,135.32,Success,,0,Nigeria,Ibadan
+TXN-10426,2024-10-02 18:16:00,CUST-2117,MERCH-1036,Merchant 37,Other,Debit Card,API,121165.66,1817.48,Success,,0,Nigeria,Kaduna
+TXN-10427,2024-10-27 00:30:00,CUST-2090,MERCH-1014,Merchant 15,Retail,UPI,Mobile App,169389.79,846.95,Success,,0,Nigeria,Lagos
+TXN-10428,2024-12-24 08:15:00,CUST-2090,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,19469.19,97.35,Success,,0,Nigeria,Kano
+TXN-10429,2024-10-20 08:11:00,CUST-2067,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,Web,125000.34,1250.0,Success,,0,Nigeria,Kano
+TXN-10430,2024-04-27 06:53:00,CUST-2126,MERCH-1009,Merchant 10,Retail,UPI,Web,194845.15,974.23,Success,,0,Nigeria,Lagos
+TXN-10431,2025-01-26 17:02:00,CUST-2070,MERCH-1020,Merchant 21,Retail,Wallet,Mobile App,123338.92,1233.39,Success,,0,Nigeria,Kaduna
+TXN-10432,2024-04-03 16:17:00,CUST-2138,MERCH-1008,Merchant 9,Education,Credit Card,POS,14009.97,210.15,Success,,0,Nigeria,Lagos
+TXN-10433,2024-09-14 11:25:00,CUST-2002,MERCH-1029,Merchant 30,Food & Dining,Wallet,POS,244138.55,2441.39,Success,,0,Nigeria,Lagos
+TXN-10434,2024-12-11 06:24:00,CUST-2068,MERCH-1039,Merchant 40,Food & Dining,Credit Card,Mobile App,215529.58,3232.94,Success,,0,Nigeria,Kaduna
+TXN-10435,2024-11-09 10:23:00,CUST-2071,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,175327.8,876.64,Success,,0,Nigeria,Kaduna
+TXN-10436,2024-04-02 18:08:00,CUST-2097,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,Web,180343.46,1803.43,Success,,0,Nigeria,Kano
+TXN-10437,2024-03-15 23:09:00,CUST-2132,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,125149.66,1877.24,Success,,0,Nigeria,Enugu
+TXN-10438,2024-09-06 09:16:00,CUST-2065,MERCH-1025,Merchant 26,Travel,Credit Card,Web,25194.21,377.91,Success,,0,Nigeria,Kaduna
+TXN-10439,2024-11-18 03:28:00,CUST-2005,MERCH-1023,Merchant 24,Healthcare,Debit Card,Mobile App,140307.33,2104.61,Success,,0,Nigeria,Benin City
+TXN-10440,2024-03-03 11:55:00,CUST-2072,MERCH-1036,Merchant 37,Other,Debit Card,Web,144185.67,2162.79,Success,,0,Nigeria,Enugu
+TXN-10441,2024-06-15 21:32:00,CUST-2037,MERCH-1005,Merchant 6,Travel,Credit Card,Web,95577.21,1433.66,Success,,0,Nigeria,Port Harcourt
+TXN-10442,2024-11-23 10:26:00,CUST-2074,MERCH-1004,Merchant 5,Entertainment,Debit Card,Web,20238.43,303.58,Success,,0,Nigeria,Ibadan
+TXN-10443,2024-11-05 20:25:00,CUST-2042,MERCH-1023,Merchant 24,Healthcare,UPI,Mobile App,187099.93,935.5,Success,,0,Nigeria,Port Harcourt
+TXN-10444,2024-01-12 04:46:00,CUST-2121,MERCH-1005,Merchant 6,Travel,UPI,Mobile App,53037.59,265.19,Success,,0,Nigeria,Lagos
+TXN-10445,2024-01-14 12:33:00,CUST-2079,MERCH-1016,Merchant 17,Education,Wallet,Mobile App,154716.49,1547.16,Failed,Invalid Details,1,Nigeria,Kano
+TXN-10446,2024-05-06 23:18:00,CUST-2121,MERCH-1033,Merchant 34,Healthcare,Credit Card,Mobile App,209710.19,3145.65,Failed,Network Error,1,Nigeria,Kaduna
+TXN-10447,2024-10-03 08:35:00,CUST-2144,MERCH-1034,Merchant 35,Utilities,Credit Card,API,44670.64,670.06,Success,,0,Nigeria,Benin City
+TXN-10448,2024-09-25 20:40:00,CUST-2093,MERCH-1030,Merchant 31,Education,Credit Card,API,135147.2,2027.21,Success,,0,Nigeria,Benin City
+TXN-10449,2024-05-13 04:19:00,CUST-2125,MERCH-1008,Merchant 9,Education,UPI,Web,86299.29,431.5,Success,,0,Nigeria,Kaduna
+TXN-10450,2024-06-02 00:49:00,CUST-2143,MERCH-1014,Merchant 15,Retail,Credit Card,Mobile App,199293.46,2989.4,Success,,0,Nigeria,Benin City
+TXN-10451,2024-07-21 07:10:00,CUST-2132,MERCH-1024,Merchant 25,Utilities,Debit Card,Web,55537.81,833.07,Success,,0,Nigeria,Ibadan
+TXN-10452,2024-05-25 20:47:00,CUST-2116,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,213443.76,3201.66,Success,,0,Nigeria,Kaduna
+TXN-10453,2024-05-19 22:39:00,CUST-2026,MERCH-1009,Merchant 10,Retail,Credit Card,Mobile App,12883.2,193.25,Success,,0,Nigeria,Ibadan
+TXN-10454,2024-05-17 04:45:00,CUST-2079,MERCH-1005,Merchant 6,Travel,Credit Card,Mobile App,38095.58,571.43,Success,,0,Nigeria,Kaduna
+TXN-10455,2024-07-09 14:44:00,CUST-2120,MERCH-1009,Merchant 10,Retail,Wallet,Mobile App,14481.57,144.82,Success,,0,Nigeria,Port Harcourt
+TXN-10456,2024-04-08 08:52:00,CUST-2008,MERCH-1015,Merchant 16,Entertainment,Credit Card,Mobile App,96507.08,1447.61,Success,,0,Nigeria,Kano
+TXN-10457,2024-08-23 23:49:00,CUST-2082,MERCH-1013,Merchant 14,Entertainment,UPI,Web,118469.97,592.35,Success,,0,Nigeria,Port Harcourt
+TXN-10458,2024-11-18 23:02:00,CUST-2013,MERCH-1007,Merchant 8,Food & Dining,Debit Card,Web,63701.53,955.52,Success,,0,Nigeria,Kano
+TXN-10459,2024-02-27 07:40:00,CUST-2010,MERCH-1017,Merchant 18,Entertainment,Credit Card,Mobile App,146381.87,2195.73,Success,,0,Nigeria,Kaduna
+TXN-10460,2024-12-18 19:09:00,CUST-2015,MERCH-1010,Merchant 11,Retail,Credit Card,Mobile App,125229.84,1878.45,Success,,0,Nigeria,Lagos
+TXN-10461,2024-07-01 20:09:00,CUST-2088,MERCH-1008,Merchant 9,Education,Debit Card,POS,122216.8,1833.25,Success,,0,Nigeria,Kaduna
+TXN-10462,2025-01-10 06:01:00,CUST-2143,MERCH-1008,Merchant 9,Education,Debit Card,Mobile App,63048.71,945.73,Success,,0,Nigeria,Ibadan
+TXN-10463,2024-10-04 22:31:00,CUST-2141,MERCH-1022,Merchant 23,Education,UPI,Mobile App,81258.38,406.29,Success,,0,Nigeria,Port Harcourt
+TXN-10464,2024-02-05 16:09:00,CUST-2047,MERCH-1034,Merchant 35,Utilities,Credit Card,POS,92094.62,1381.42,Failed,Invalid Details,1,Nigeria,Lagos
+TXN-10465,2024-11-13 11:49:00,CUST-2134,MERCH-1004,Merchant 5,Entertainment,Debit Card,Mobile App,164743.21,2471.15,Success,,0,Nigeria,Kaduna
+TXN-10466,2025-01-27 17:09:00,CUST-2033,MERCH-1020,Merchant 21,Retail,Debit Card,Mobile App,28060.8,420.91,Success,,0,Nigeria,Port Harcourt
+TXN-10467,2024-01-17 06:06:00,CUST-2065,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,160617.04,2409.26,Success,,0,Nigeria,Lagos
+TXN-10468,2024-07-06 07:38:00,CUST-2119,MERCH-1013,Merchant 14,Entertainment,Debit Card,Mobile App,164109.47,2461.64,Success,,0,Nigeria,Lagos
+TXN-10469,2024-07-03 17:47:00,CUST-2010,MERCH-1023,Merchant 24,Healthcare,Bank Transfer,Mobile App,198665.27,1986.65,Failed,Timeout,1,Nigeria,Abuja
+TXN-10470,2024-06-04 02:13:00,CUST-2063,MERCH-1014,Merchant 15,Retail,Bank Transfer,Mobile App,133149.43,1331.49,Success,,0,Nigeria,Port Harcourt
+TXN-10471,2024-10-12 23:35:00,CUST-2026,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,89811.86,1347.18,Success,,0,Nigeria,Port Harcourt
+TXN-10472,2024-04-02 17:25:00,CUST-2080,MERCH-1034,Merchant 35,Utilities,Credit Card,Web,249609.18,3744.14,Success,,0,Nigeria,Enugu
+TXN-10473,2024-07-09 13:48:00,CUST-2140,MERCH-1020,Merchant 21,Retail,Debit Card,POS,152299.14,2284.49,Success,,0,Nigeria,Ibadan
+TXN-10474,2024-07-03 14:28:00,CUST-2077,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Mobile App,245747.64,2457.48,Success,,0,Nigeria,Lagos
+TXN-10475,2024-06-02 07:13:00,CUST-2146,MERCH-1017,Merchant 18,Entertainment,Wallet,Mobile App,229818.46,2298.18,Success,,0,Nigeria,Port Harcourt
+TXN-10476,2024-02-18 01:29:00,CUST-2076,MERCH-1023,Merchant 24,Healthcare,Credit Card,Mobile App,222461.53,3336.92,Success,,0,Nigeria,Abuja
+TXN-10477,2024-10-19 12:36:00,CUST-2147,MERCH-1020,Merchant 21,Retail,Bank Transfer,Web,198329.6,1983.3,Success,,0,Nigeria,Abuja
+TXN-10478,2024-10-31 20:19:00,CUST-2089,MERCH-1024,Merchant 25,Utilities,UPI,POS,20080.11,100.4,Success,,0,Nigeria,Benin City
+TXN-10479,2024-08-01 03:55:00,CUST-2013,MERCH-1038,Merchant 39,Education,Wallet,Web,232198.96,2321.99,Success,,0,Nigeria,Ibadan
+TXN-10480,2024-09-25 01:20:00,CUST-2100,MERCH-1032,Merchant 33,Healthcare,Credit Card,Mobile App,174593.28,2618.9,Success,,0,Nigeria,Kaduna
+TXN-10481,2025-01-20 19:36:00,CUST-2121,MERCH-1018,Merchant 19,Other,Credit Card,Mobile App,196698.89,2950.48,Success,,0,Nigeria,Lagos
+TXN-10482,2024-10-07 12:16:00,CUST-2101,MERCH-1008,Merchant 9,Education,UPI,Web,190627.21,953.14,Success,,0,Nigeria,Kano
+TXN-10483,2024-10-14 19:47:00,CUST-2022,MERCH-1017,Merchant 18,Entertainment,Credit Card,Mobile App,194304.59,2914.57,Success,,0,Nigeria,Abuja
+TXN-10484,2024-12-09 13:27:00,CUST-2089,MERCH-1022,Merchant 23,Education,Credit Card,Mobile App,148672.35,2230.09,Success,,1,Nigeria,Kaduna
+TXN-10485,2024-11-15 04:28:00,CUST-2021,MERCH-1012,Merchant 13,Entertainment,UPI,POS,171497.13,857.49,Success,,0,Nigeria,Abuja
+TXN-10486,2025-01-13 01:15:00,CUST-2115,MERCH-1018,Merchant 19,Other,Bank Transfer,API,3926.46,39.26,Success,,0,Nigeria,Kaduna
+TXN-10487,2024-01-12 10:13:00,CUST-2036,MERCH-1034,Merchant 35,Utilities,Debit Card,Mobile App,131054.84,1965.82,Success,,0,Nigeria,Lagos
+TXN-10488,2024-07-11 18:57:00,CUST-2069,MERCH-1010,Merchant 11,Retail,Debit Card,Mobile App,15497.46,232.46,Success,,0,Nigeria,Lagos
+TXN-10489,2024-08-26 20:00:00,CUST-2098,MERCH-1023,Merchant 24,Healthcare,UPI,Web,216138.43,1080.69,Failed,Bank Reject,1,Nigeria,Kano
+TXN-10490,2024-07-13 16:45:00,CUST-2117,MERCH-1038,Merchant 39,Education,UPI,Mobile App,133124.38,665.62,Success,,0,Nigeria,Lagos
+TXN-10491,2024-01-21 07:59:00,CUST-2077,MERCH-1025,Merchant 26,Travel,Credit Card,Mobile App,186225.48,2793.38,Failed,Network Error,1,Nigeria,Kano
+TXN-10492,2024-09-13 08:51:00,CUST-2142,MERCH-1024,Merchant 25,Utilities,UPI,Mobile App,222655.32,1113.28,Success,,0,Nigeria,Ibadan
+TXN-10493,2024-04-25 04:21:00,CUST-2058,MERCH-1005,Merchant 6,Travel,Wallet,Web,182607.47,1826.07,Success,,0,Nigeria,Benin City
+TXN-10494,2024-05-03 18:09:00,CUST-2035,MERCH-1038,Merchant 39,Education,Credit Card,Mobile App,82656.54,1239.85,Success,,0,Nigeria,Kano
+TXN-10495,2024-03-11 09:44:00,CUST-2144,MERCH-1008,Merchant 9,Education,Debit Card,Web,107801.04,1617.02,Success,,0,Nigeria,Port Harcourt
+TXN-10496,2024-06-11 02:35:00,CUST-2081,MERCH-1011,Merchant 12,Food & Dining,Credit Card,Web,79740.6,1196.11,Success,,0,Nigeria,Benin City
+TXN-10497,2024-07-29 09:28:00,CUST-2006,MERCH-1017,Merchant 18,Entertainment,Debit Card,POS,38413.29,576.2,Success,,0,Nigeria,Ibadan
+TXN-10498,2024-11-06 18:39:00,CUST-2128,MERCH-1001,Merchant 2,Retail,UPI,Mobile App,90135.7,450.68,Success,,0,Nigeria,Kaduna
+TXN-10499,2024-12-30 20:23:00,CUST-2003,MERCH-1030,Merchant 31,Education,UPI,Mobile App,34809.42,174.05,Success,,0,Nigeria,Ibadan
+TXN-10500,2024-07-30 07:47:00,CUST-2125,MERCH-1013,Merchant 14,Entertainment,Debit Card,Mobile App,17001.01,255.02,Failed,Timeout,0,Nigeria,Enugu
+TXN-10501,2024-08-22 07:27:00,CUST-2146,MERCH-1024,Merchant 25,Utilities,Credit Card,Mobile App,180190.13,2702.85,Success,,0,Nigeria,Lagos
+TXN-10502,2024-09-23 03:28:00,CUST-2142,MERCH-1015,Merchant 16,Entertainment,Credit Card,POS,129916.31,1948.74,Success,,0,Nigeria,Benin City
+TXN-10503,2024-09-21 20:03:00,CUST-2075,MERCH-1019,Merchant 20,Utilities,UPI,Mobile App,193532.41,967.66,Success,,0,Nigeria,Lagos
+TXN-10504,2024-12-19 16:57:00,CUST-2149,MERCH-1028,Merchant 29,Food & Dining,UPI,POS,23064.98,115.32,Success,,0,Nigeria,Port Harcourt
+TXN-10505,2024-07-20 13:20:00,CUST-2023,MERCH-1037,Merchant 38,Food & Dining,Credit Card,Mobile App,224206.07,3363.09,Success,,0,Nigeria,Ibadan
+TXN-10506,2024-06-14 22:41:00,CUST-2021,MERCH-1007,Merchant 8,Food & Dining,Bank Transfer,POS,23252.21,232.52,Success,,0,Nigeria,Benin City
+TXN-10507,2025-01-07 16:39:00,CUST-2038,MERCH-1024,Merchant 25,Utilities,Bank Transfer,Mobile App,11454.57,114.55,Success,,0,Nigeria,Port Harcourt
+TXN-10508,2024-03-15 05:49:00,CUST-2046,MERCH-1019,Merchant 20,Utilities,Debit Card,Mobile App,182675.36,2740.13,Success,,0,Nigeria,Abuja
+TXN-10509,2024-03-08 06:00:00,CUST-2126,MERCH-1029,Merchant 30,Food & Dining,Debit Card,Mobile App,124658.09,1869.87,Success,,0,Nigeria,Kano
+TXN-10510,2024-04-21 18:42:00,CUST-2142,MERCH-1005,Merchant 6,Travel,Credit Card,Mobile App,150503.53,2257.55,Failed,Network Error,1,Nigeria,Kano
+TXN-10511,2024-01-26 05:09:00,CUST-2076,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,213530.41,1067.65,Success,,0,Nigeria,Enugu
+TXN-10512,2024-02-14 01:06:00,CUST-2143,MERCH-1018,Merchant 19,Other,Credit Card,Mobile App,152966.89,2294.5,Success,,0,Nigeria,Port Harcourt
+TXN-10513,2024-08-21 23:37:00,CUST-2109,MERCH-1019,Merchant 20,Utilities,Credit Card,Mobile App,81044.05,1215.66,Success,,0,Nigeria,Abuja
+TXN-10514,2024-05-29 15:08:00,CUST-2014,MERCH-1021,Merchant 22,Travel,UPI,POS,131999.66,660.0,Success,,0,Nigeria,Abuja
+TXN-10515,2024-10-19 23:40:00,CUST-2081,MERCH-1038,Merchant 39,Education,Credit Card,Mobile App,233505.97,3502.59,Success,,0,Nigeria,Ibadan
+TXN-10516,2024-09-26 18:39:00,CUST-2046,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,124351.03,1865.27,Success,,0,Nigeria,Kano
+TXN-10517,2024-12-28 09:12:00,CUST-2106,MERCH-1007,Merchant 8,Food & Dining,UPI,Mobile App,184498.36,922.49,Success,,0,Nigeria,Benin City
+TXN-10518,2024-01-24 10:22:00,CUST-2017,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Web,160334.27,2405.01,Success,,0,Nigeria,Ibadan
+TXN-10519,2024-06-02 16:35:00,CUST-2007,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,85669.72,428.35,Success,,0,Nigeria,Port Harcourt
+TXN-10520,2024-04-09 10:53:00,CUST-2117,MERCH-1030,Merchant 31,Education,UPI,Web,199414.97,997.07,Success,,0,Nigeria,Enugu
+TXN-10521,2024-08-24 13:59:00,CUST-2004,MERCH-1019,Merchant 20,Utilities,Debit Card,POS,141453.19,2121.8,Success,,0,Nigeria,Kano
+TXN-10522,2024-10-22 21:21:00,CUST-2086,MERCH-1022,Merchant 23,Education,Wallet,POS,17020.15,170.2,Success,,0,Nigeria,Benin City
+TXN-10523,2024-11-16 17:53:00,CUST-2080,MERCH-1011,Merchant 12,Food & Dining,UPI,Web,149000.37,745.0,Success,,0,Nigeria,Lagos
+TXN-10524,2024-05-19 13:05:00,CUST-2044,MERCH-1028,Merchant 29,Food & Dining,Credit Card,Mobile App,207449.64,3111.74,Success,,0,Nigeria,Abuja
+TXN-10525,2024-07-10 01:49:00,CUST-2048,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,6721.23,33.61,Success,,0,Nigeria,Enugu
+TXN-10526,2024-09-04 23:55:00,CUST-2033,MERCH-1009,Merchant 10,Retail,Credit Card,POS,192485.61,2887.28,Failed,Timeout,1,Nigeria,Kano
+TXN-10527,2025-01-05 01:29:00,CUST-2022,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,1525.41,22.88,Success,,0,Nigeria,Enugu
+TXN-10528,2024-08-27 01:06:00,CUST-2053,MERCH-1019,Merchant 20,Utilities,Credit Card,Web,6108.83,91.63,Success,,0,Nigeria,Enugu
+TXN-10529,2024-04-12 06:18:00,CUST-2029,MERCH-1028,Merchant 29,Food & Dining,UPI,Mobile App,167945.45,839.73,Success,,0,Nigeria,Lagos
+TXN-10530,2024-11-14 17:32:00,CUST-2072,MERCH-1035,Merchant 36,Retail,UPI,Web,79961.99,399.81,Success,,0,Nigeria,Kano
+TXN-10531,2024-03-28 02:19:00,CUST-2012,MERCH-1028,Merchant 29,Food & Dining,Debit Card,Mobile App,13156.18,197.34,Success,,0,Nigeria,Abuja
+TXN-10532,2024-07-15 01:05:00,CUST-2114,MERCH-1038,Merchant 39,Education,Credit Card,Mobile App,222873.34,3343.1,Success,,0,Nigeria,Enugu
+TXN-10533,2024-06-08 10:52:00,CUST-2145,MERCH-1034,Merchant 35,Utilities,UPI,POS,20097.13,100.49,Success,,0,Nigeria,Port Harcourt
+TXN-10534,2024-02-17 22:29:00,CUST-2066,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,117901.2,589.51,Success,,0,Nigeria,Enugu
+TXN-10535,2024-07-19 05:44:00,CUST-2089,MERCH-1020,Merchant 21,Retail,Bank Transfer,Mobile App,113594.13,1135.94,Success,,1,Nigeria,Kaduna
+TXN-10536,2024-08-24 05:18:00,CUST-2027,MERCH-1008,Merchant 9,Education,Wallet,Web,127233.44,1272.33,Success,,0,Nigeria,Enugu
+TXN-10537,2024-10-11 20:04:00,CUST-2040,MERCH-1025,Merchant 26,Travel,Wallet,Web,147838.72,1478.39,Success,,0,Nigeria,Kaduna
+TXN-10538,2024-07-15 02:21:00,CUST-2139,MERCH-1027,Merchant 28,Healthcare,UPI,Web,196186.34,980.93,Success,,0,Nigeria,Kano
+TXN-10539,2024-03-29 21:42:00,CUST-2083,MERCH-1036,Merchant 37,Other,UPI,API,209268.67,1046.34,Success,,0,Nigeria,Abuja
+TXN-10540,2024-08-15 05:19:00,CUST-2083,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,Mobile App,171534.42,1715.34,Success,,0,Nigeria,Kaduna
+TXN-10541,2024-11-26 21:03:00,CUST-2037,MERCH-1037,Merchant 38,Food & Dining,UPI,POS,225862.37,1129.31,Success,,0,Nigeria,Port Harcourt
+TXN-10542,2024-08-19 17:18:00,CUST-2077,MERCH-1012,Merchant 13,Entertainment,Credit Card,Web,51812.59,777.19,Success,,0,Nigeria,Benin City
+TXN-10543,2025-01-02 11:05:00,CUST-2094,MERCH-1032,Merchant 33,Healthcare,Credit Card,Web,101347.26,1520.21,Success,,0,Nigeria,Lagos
+TXN-10544,2024-01-01 22:35:00,CUST-2100,MERCH-1018,Merchant 19,Other,Wallet,Mobile App,216487.07,2164.87,Success,,0,Nigeria,Enugu
+TXN-10545,2024-12-30 12:25:00,CUST-2092,MERCH-1011,Merchant 12,Food & Dining,Credit Card,Web,118980.42,1784.71,Success,,0,Nigeria,Benin City
+TXN-10546,2024-03-19 09:55:00,CUST-2111,MERCH-1004,Merchant 5,Entertainment,Debit Card,Mobile App,162273.12,2434.1,Success,,0,Nigeria,Port Harcourt
+TXN-10547,2024-02-13 04:41:00,CUST-2108,MERCH-1038,Merchant 39,Education,Wallet,POS,232612.6,2326.13,Success,,0,Nigeria,Kaduna
+TXN-10548,2024-07-15 11:14:00,CUST-2068,MERCH-1036,Merchant 37,Other,UPI,Web,124790.16,623.95,Success,,0,Nigeria,Benin City
+TXN-10549,2024-10-06 18:23:00,CUST-2020,MERCH-1030,Merchant 31,Education,UPI,Mobile App,176368.19,881.84,Success,,0,Nigeria,Port Harcourt
+TXN-10550,2025-01-08 23:33:00,CUST-2062,MERCH-1017,Merchant 18,Entertainment,Bank Transfer,API,116501.61,1165.02,Failed,Insufficient Funds,1,Nigeria,Kaduna
+TXN-10551,2024-11-18 23:42:00,CUST-2087,MERCH-1034,Merchant 35,Utilities,Bank Transfer,Mobile App,199625.51,1996.26,Success,,0,Nigeria,Lagos
+TXN-10552,2024-08-28 14:32:00,CUST-2074,MERCH-1021,Merchant 22,Travel,Bank Transfer,Web,105543.52,1055.44,Success,,0,Nigeria,Port Harcourt
+TXN-10553,2024-01-19 22:59:00,CUST-2146,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,65480.56,982.21,Success,,0,Nigeria,Lagos
+TXN-10554,2024-12-02 09:51:00,CUST-2071,MERCH-1031,Merchant 32,Food & Dining,Debit Card,Mobile App,21086.29,316.29,Success,,0,Nigeria,Ibadan
+TXN-10555,2024-03-08 19:17:00,CUST-2114,MERCH-1007,Merchant 8,Food & Dining,UPI,Mobile App,151153.47,755.77,Success,,0,Nigeria,Enugu
+TXN-10556,2024-03-30 08:50:00,CUST-2037,MERCH-1033,Merchant 34,Healthcare,Debit Card,Mobile App,215572.6,3233.59,Success,,0,Nigeria,Port Harcourt
+TXN-10557,2024-09-10 13:49:00,CUST-2067,MERCH-1010,Merchant 11,Retail,Credit Card,Web,53108.76,796.63,Success,,0,Nigeria,Abuja
+TXN-10558,2024-01-27 05:29:00,CUST-2067,MERCH-1034,Merchant 35,Utilities,Credit Card,Mobile App,58798.5,881.98,Success,,0,Nigeria,Port Harcourt
+TXN-10559,2024-09-28 13:00:00,CUST-2010,MERCH-1024,Merchant 25,Utilities,UPI,POS,169784.1,848.92,Success,,0,Nigeria,Abuja
+TXN-10560,2024-09-29 20:22:00,CUST-2149,MERCH-1017,Merchant 18,Entertainment,Bank Transfer,Mobile App,84074.37,840.74,Success,,0,Nigeria,Benin City
+TXN-10561,2024-08-24 21:47:00,CUST-2140,MERCH-1012,Merchant 13,Entertainment,UPI,Web,130228.1,651.14,Failed,Network Error,0,Nigeria,Lagos
+TXN-10562,2024-12-10 00:53:00,CUST-2072,MERCH-1033,Merchant 34,Healthcare,UPI,Mobile App,26424.87,132.12,Success,,0,Nigeria,Ibadan
+TXN-10563,2024-04-08 01:01:00,CUST-2031,MERCH-1038,Merchant 39,Education,Debit Card,Mobile App,164323.08,2464.85,Failed,Bank Reject,0,Nigeria,Abuja
+TXN-10564,2024-02-14 19:08:00,CUST-2047,MERCH-1036,Merchant 37,Other,Credit Card,POS,200898.42,3013.48,Success,,0,Nigeria,Ibadan
+TXN-10565,2024-05-30 14:42:00,CUST-2082,MERCH-1017,Merchant 18,Entertainment,Bank Transfer,Web,192455.1,1924.55,Success,,0,Nigeria,Ibadan
+TXN-10566,2024-03-23 02:17:00,CUST-2045,MERCH-1021,Merchant 22,Travel,Wallet,Mobile App,248991.66,2489.92,Success,,0,Nigeria,Kaduna
+TXN-10567,2024-02-05 15:59:00,CUST-2027,MERCH-1031,Merchant 32,Food & Dining,UPI,Mobile App,27553.4,137.77,Success,,0,Nigeria,Kaduna
+TXN-10568,2025-01-01 08:06:00,CUST-2000,MERCH-1016,Merchant 17,Education,UPI,Mobile App,194420.67,972.1,Success,,1,Nigeria,Lagos
+TXN-10569,2024-12-06 12:17:00,CUST-2125,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,143872.74,719.36,Success,,0,Nigeria,Kaduna
+TXN-10570,2024-08-11 12:54:00,CUST-2031,MERCH-1004,Merchant 5,Entertainment,Debit Card,POS,135262.11,2028.93,Failed,Invalid Details,1,Nigeria,Enugu
+TXN-10571,2024-06-19 21:19:00,CUST-2117,MERCH-1005,Merchant 6,Travel,Credit Card,Web,91656.16,1374.84,Success,,0,Nigeria,Ibadan
+TXN-10572,2024-11-27 06:11:00,CUST-2091,MERCH-1012,Merchant 13,Entertainment,Credit Card,API,75068.15,1126.02,Success,,0,Nigeria,Kaduna
+TXN-10573,2024-02-13 20:28:00,CUST-2099,MERCH-1012,Merchant 13,Entertainment,Debit Card,Mobile App,6828.47,102.43,Success,,0,Nigeria,Abuja
+TXN-10574,2024-10-03 20:19:00,CUST-2086,MERCH-1028,Merchant 29,Food & Dining,Credit Card,API,241660.25,3624.9,Success,,1,Nigeria,Lagos
+TXN-10575,2024-07-26 03:13:00,CUST-2148,MERCH-1029,Merchant 30,Food & Dining,Wallet,Web,235052.4,2350.52,Success,,0,Nigeria,Kano
+TXN-10576,2024-02-06 01:47:00,CUST-2033,MERCH-1030,Merchant 31,Education,UPI,Web,226841.13,1134.21,Success,,0,Nigeria,Lagos
+TXN-10577,2024-03-29 20:03:00,CUST-2027,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,POS,114318.06,1143.18,Success,,0,Nigeria,Abuja
+TXN-10578,2024-09-11 19:51:00,CUST-2102,MERCH-1012,Merchant 13,Entertainment,Debit Card,Mobile App,106839.76,1602.6,Failed,Bank Reject,0,Nigeria,Enugu
+TXN-10579,2024-03-02 21:36:00,CUST-2030,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,191174.86,2867.62,Success,,0,Nigeria,Ibadan
+TXN-10580,2024-03-13 13:10:00,CUST-2096,MERCH-1028,Merchant 29,Food & Dining,Debit Card,Web,61289.33,919.34,Success,,0,Nigeria,Port Harcourt
+TXN-10581,2024-01-09 15:05:00,CUST-2121,MERCH-1005,Merchant 6,Travel,UPI,Mobile App,176831.94,884.16,Success,,0,Nigeria,Port Harcourt
+TXN-10582,2024-04-15 04:40:00,CUST-2046,MERCH-1015,Merchant 16,Entertainment,UPI,Mobile App,234553.36,1172.77,Success,,0,Nigeria,Kaduna
+TXN-10583,2024-11-09 02:40:00,CUST-2135,MERCH-1026,Merchant 27,Entertainment,Wallet,Mobile App,1640.23,16.4,Success,,0,Nigeria,Abuja
+TXN-10584,2024-11-12 11:55:00,CUST-2013,MERCH-1014,Merchant 15,Retail,Wallet,Web,116321.89,1163.22,Success,,0,Nigeria,Kano
+TXN-10585,2024-02-27 04:43:00,CUST-2093,MERCH-1031,Merchant 32,Food & Dining,Wallet,API,44492.79,444.93,Success,,0,Nigeria,Ibadan
+TXN-10586,2024-04-17 13:16:00,CUST-2045,MERCH-1029,Merchant 30,Food & Dining,UPI,POS,11307.71,56.54,Success,,0,Nigeria,Port Harcourt
+TXN-10587,2024-01-15 15:32:00,CUST-2083,MERCH-1028,Merchant 29,Food & Dining,UPI,POS,148380.31,741.9,Success,,0,Nigeria,Kano
+TXN-10588,2025-02-02 03:20:00,CUST-2120,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,217536.63,1087.68,Success,,0,Nigeria,Kaduna
+TXN-10589,2024-01-28 13:09:00,CUST-2091,MERCH-1011,Merchant 12,Food & Dining,UPI,Web,97138.91,485.69,Success,,0,Nigeria,Ibadan
+TXN-10590,2024-04-13 10:08:00,CUST-2043,MERCH-1017,Merchant 18,Entertainment,UPI,Web,34557.12,172.79,Success,,0,Nigeria,Enugu
+TXN-10591,2024-04-22 09:38:00,CUST-2058,MERCH-1039,Merchant 40,Food & Dining,UPI,POS,226441.74,1132.21,Success,,0,Nigeria,Abuja
+TXN-10592,2024-07-29 16:31:00,CUST-2063,MERCH-1030,Merchant 31,Education,Wallet,Mobile App,209328.76,2093.29,Success,,0,Nigeria,Kano
+TXN-10593,2024-06-16 13:37:00,CUST-2011,MERCH-1009,Merchant 10,Retail,UPI,API,228481.8,1142.41,Success,,0,Nigeria,Lagos
+TXN-10594,2024-08-28 23:49:00,CUST-2115,MERCH-1025,Merchant 26,Travel,Credit Card,Mobile App,120077.7,1801.17,Success,,0,Nigeria,Kaduna
+TXN-10595,2024-05-03 02:35:00,CUST-2023,MERCH-1026,Merchant 27,Entertainment,Wallet,Web,237508.51,2375.09,Success,,0,Nigeria,Lagos
+TXN-10596,2024-09-02 21:19:00,CUST-2035,MERCH-1036,Merchant 37,Other,UPI,Mobile App,186948.03,934.74,Success,,1,Nigeria,Benin City
+TXN-10597,2024-04-04 11:40:00,CUST-2075,MERCH-1004,Merchant 5,Entertainment,Credit Card,Web,96527.38,1447.91,Success,,0,Nigeria,Benin City
+TXN-10598,2025-01-20 08:44:00,CUST-2014,MERCH-1013,Merchant 14,Entertainment,Bank Transfer,Web,197029.12,1970.29,Failed,Bank Reject,1,Nigeria,Enugu
+TXN-10599,2024-01-27 03:24:00,CUST-2143,MERCH-1023,Merchant 24,Healthcare,Credit Card,Web,91925.03,1378.88,Success,,0,Nigeria,Kano
+TXN-10600,2024-03-11 10:15:00,CUST-2057,MERCH-1037,Merchant 38,Food & Dining,Credit Card,Web,217847.28,3267.71,Success,,0,Nigeria,Enugu
+TXN-10601,2024-06-29 08:32:00,CUST-2031,MERCH-1004,Merchant 5,Entertainment,Debit Card,Mobile App,93517.04,1402.76,Success,,0,Nigeria,Kaduna
+TXN-10602,2024-12-29 17:43:00,CUST-2048,MERCH-1028,Merchant 29,Food & Dining,Wallet,POS,155427.34,1554.27,Failed,Insufficient Funds,0,Nigeria,Kaduna
+TXN-10603,2024-02-14 02:25:00,CUST-2127,MERCH-1004,Merchant 5,Entertainment,Wallet,Mobile App,27786.55,277.87,Success,,0,Nigeria,Port Harcourt
+TXN-10604,2024-04-14 16:40:00,CUST-2005,MERCH-1034,Merchant 35,Utilities,UPI,Mobile App,232964.51,1164.82,Success,,0,Nigeria,Ibadan
+TXN-10605,2024-04-06 02:01:00,CUST-2083,MERCH-1033,Merchant 34,Healthcare,Wallet,Mobile App,161345.67,1613.46,Success,,0,Nigeria,Kaduna
+TXN-10606,2024-10-30 21:44:00,CUST-2043,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Web,76368.54,1145.53,Success,,0,Nigeria,Ibadan
+TXN-10607,2024-04-26 15:23:00,CUST-2041,MERCH-1003,Merchant 4,Entertainment,Bank Transfer,POS,37510.41,375.1,Failed,Timeout,0,Nigeria,Ibadan
+TXN-10608,2024-04-03 05:53:00,CUST-2032,MERCH-1009,Merchant 10,Retail,Debit Card,API,40733.05,611.0,Failed,Timeout,0,Nigeria,Kaduna
+TXN-10609,2024-05-13 11:11:00,CUST-2041,MERCH-1020,Merchant 21,Retail,UPI,Web,244516.63,1222.58,Success,,0,Nigeria,Ibadan
+TXN-10610,2024-03-03 00:25:00,CUST-2129,MERCH-1029,Merchant 30,Food & Dining,Bank Transfer,POS,231988.92,2319.89,Failed,Timeout,0,Nigeria,Enugu
+TXN-10611,2024-11-27 22:18:00,CUST-2113,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,166888.49,2503.33,Success,,0,Nigeria,Enugu
+TXN-10612,2024-12-18 03:46:00,CUST-2114,MERCH-1035,Merchant 36,Retail,Credit Card,Mobile App,29660.59,444.91,Failed,Card Declined,1,Nigeria,Enugu
+TXN-10613,2024-02-17 10:03:00,CUST-2005,MERCH-1033,Merchant 34,Healthcare,Debit Card,Mobile App,55924.89,838.87,Success,,0,Nigeria,Abuja
+TXN-10614,2024-10-02 14:43:00,CUST-2130,MERCH-1032,Merchant 33,Healthcare,Debit Card,Mobile App,98908.69,1483.63,Success,,0,Nigeria,Lagos
+TXN-10615,2024-12-07 11:25:00,CUST-2078,MERCH-1023,Merchant 24,Healthcare,UPI,POS,96835.1,484.18,Success,,1,Nigeria,Kaduna
+TXN-10616,2024-10-14 02:13:00,CUST-2108,MERCH-1026,Merchant 27,Entertainment,Debit Card,Mobile App,201019.53,3015.29,Success,,0,Nigeria,Benin City
+TXN-10617,2024-03-12 18:38:00,CUST-2096,MERCH-1030,Merchant 31,Education,UPI,Mobile App,247101.42,1235.51,Success,,0,Nigeria,Abuja
+TXN-10618,2024-01-04 13:40:00,CUST-2047,MERCH-1035,Merchant 36,Retail,Bank Transfer,Mobile App,115798.93,1157.99,Failed,Card Declined,0,Nigeria,Benin City
+TXN-10619,2024-05-28 17:31:00,CUST-2006,MERCH-1037,Merchant 38,Food & Dining,UPI,POS,76326.64,381.63,Success,,0,Nigeria,Lagos
+TXN-10620,2024-03-19 08:19:00,CUST-2045,MERCH-1030,Merchant 31,Education,Bank Transfer,POS,31482.14,314.82,Success,,0,Nigeria,Kaduna
+TXN-10621,2024-12-18 20:15:00,CUST-2123,MERCH-1031,Merchant 32,Food & Dining,UPI,POS,248586.07,1242.93,Failed,Timeout,1,Nigeria,Benin City
+TXN-10622,2024-05-12 20:43:00,CUST-2066,MERCH-1007,Merchant 8,Food & Dining,Credit Card,Web,93613.95,1404.21,Success,,0,Nigeria,Port Harcourt
+TXN-10623,2024-10-24 01:09:00,CUST-2091,MERCH-1008,Merchant 9,Education,UPI,POS,89667.67,448.34,Success,,0,Nigeria,Lagos
+TXN-10624,2024-05-28 09:33:00,CUST-2042,MERCH-1012,Merchant 13,Entertainment,Debit Card,Mobile App,191727.39,2875.91,Success,,0,Nigeria,Enugu
+TXN-10625,2024-06-10 21:51:00,CUST-2003,MERCH-1023,Merchant 24,Healthcare,UPI,Web,24410.44,122.05,Success,,0,Nigeria,Port Harcourt
+TXN-10626,2024-09-22 09:23:00,CUST-2048,MERCH-1010,Merchant 11,Retail,Wallet,Mobile App,26053.26,260.53,Success,,0,Nigeria,Abuja
+TXN-10627,2024-08-01 14:58:00,CUST-2113,MERCH-1001,Merchant 2,Retail,UPI,POS,120139.8,600.7,Success,,0,Nigeria,Enugu
+TXN-10628,2024-03-29 22:19:00,CUST-2078,MERCH-1014,Merchant 15,Retail,UPI,POS,32614.26,163.07,Success,,0,Nigeria,Port Harcourt
+TXN-10629,2024-04-17 04:05:00,CUST-2010,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,19894.96,298.42,Success,,0,Nigeria,Kano
+TXN-10630,2024-02-25 01:50:00,CUST-2002,MERCH-1030,Merchant 31,Education,Debit Card,Web,30171.09,452.57,Success,,0,Nigeria,Abuja
+TXN-10631,2025-02-04 03:58:00,CUST-2071,MERCH-1012,Merchant 13,Entertainment,Debit Card,Web,46603.07,699.05,Success,,0,Nigeria,Enugu
+TXN-10632,2024-06-29 05:54:00,CUST-2135,MERCH-1015,Merchant 16,Entertainment,Credit Card,Web,126474.85,1897.12,Failed,Insufficient Funds,1,Nigeria,Kano
+TXN-10633,2025-01-01 06:18:00,CUST-2129,MERCH-1000,Merchant 1,Food & Dining,UPI,POS,243408.19,1217.04,Success,,0,Nigeria,Kaduna
+TXN-10634,2024-07-06 22:37:00,CUST-2054,MERCH-1006,Merchant 7,Food & Dining,UPI,Web,45621.71,228.11,Success,,0,Nigeria,Kano
+TXN-10635,2024-07-27 03:48:00,CUST-2073,MERCH-1007,Merchant 8,Food & Dining,Bank Transfer,Mobile App,130172.03,1301.72,Success,,0,Nigeria,Lagos
+TXN-10636,2024-02-12 10:31:00,CUST-2057,MERCH-1038,Merchant 39,Education,UPI,Mobile App,184175.52,920.88,Success,,0,Nigeria,Benin City
+TXN-10637,2024-05-28 13:12:00,CUST-2125,MERCH-1030,Merchant 31,Education,Wallet,POS,234800.96,2348.01,Success,,0,Nigeria,Abuja
+TXN-10638,2024-07-21 14:33:00,CUST-2043,MERCH-1009,Merchant 10,Retail,Debit Card,Mobile App,99005.46,1485.08,Failed,Bank Reject,0,Nigeria,Abuja
+TXN-10639,2024-07-05 06:21:00,CUST-2071,MERCH-1025,Merchant 26,Travel,UPI,POS,31129.16,155.65,Success,,0,Nigeria,Ibadan
+TXN-10640,2025-01-22 20:25:00,CUST-2116,MERCH-1025,Merchant 26,Travel,Credit Card,Web,246887.04,3703.31,Success,,0,Nigeria,Abuja
+TXN-10641,2024-03-03 08:31:00,CUST-2127,MERCH-1008,Merchant 9,Education,Credit Card,Web,7916.02,118.74,Success,,0,Nigeria,Lagos
+TXN-10642,2024-04-01 12:38:00,CUST-2133,MERCH-1039,Merchant 40,Food & Dining,Debit Card,Mobile App,155996.54,2339.95,Success,,0,Nigeria,Kaduna
+TXN-10643,2024-08-26 06:18:00,CUST-2004,MERCH-1016,Merchant 17,Education,Debit Card,Mobile App,135838.31,2037.57,Success,,0,Nigeria,Lagos
+TXN-10644,2024-08-08 03:24:00,CUST-2077,MERCH-1028,Merchant 29,Food & Dining,Credit Card,POS,115184.23,1727.76,Success,,1,Nigeria,Port Harcourt
+TXN-10645,2024-09-08 13:08:00,CUST-2138,MERCH-1007,Merchant 8,Food & Dining,UPI,Mobile App,142429.38,712.15,Success,,0,Nigeria,Kaduna
+TXN-10646,2024-08-31 17:54:00,CUST-2090,MERCH-1016,Merchant 17,Education,UPI,Mobile App,123925.44,619.63,Success,,0,Nigeria,Ibadan
+TXN-10647,2024-06-13 01:01:00,CUST-2087,MERCH-1023,Merchant 24,Healthcare,Credit Card,Mobile App,87544.76,1313.17,Success,,0,Nigeria,Benin City
+TXN-10648,2024-02-19 13:22:00,CUST-2021,MERCH-1003,Merchant 4,Entertainment,Bank Transfer,Mobile App,165479.38,1654.79,Success,,0,Nigeria,Abuja
+TXN-10649,2024-06-05 03:21:00,CUST-2107,MERCH-1002,Merchant 3,Utilities,UPI,Web,115496.89,577.48,Success,,0,Nigeria,Ibadan
+TXN-10650,2024-01-11 22:30:00,CUST-2125,MERCH-1024,Merchant 25,Utilities,Credit Card,API,142803.21,2142.05,Success,,0,Nigeria,Abuja
+TXN-10651,2024-12-19 21:13:00,CUST-2127,MERCH-1021,Merchant 22,Travel,UPI,Web,42073.49,210.37,Failed,Card Declined,0,Nigeria,Abuja
+TXN-10652,2024-10-01 06:18:00,CUST-2023,MERCH-1036,Merchant 37,Other,UPI,Mobile App,100805.82,504.03,Success,,0,Nigeria,Abuja
+TXN-10653,2024-10-30 10:17:00,CUST-2077,MERCH-1030,Merchant 31,Education,UPI,POS,107062.92,535.31,Success,,0,Nigeria,Ibadan
+TXN-10654,2024-08-09 21:34:00,CUST-2046,MERCH-1016,Merchant 17,Education,UPI,Mobile App,156428.49,782.14,Success,,0,Nigeria,Lagos
+TXN-10655,2024-11-17 22:33:00,CUST-2068,MERCH-1013,Merchant 14,Entertainment,Wallet,Web,165371.15,1653.71,Success,,0,Nigeria,Benin City
+TXN-10656,2024-10-16 23:40:00,CUST-2076,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,37362.05,186.81,Success,,0,Nigeria,Benin City
+TXN-10657,2024-07-29 10:55:00,CUST-2041,MERCH-1013,Merchant 14,Entertainment,Wallet,Mobile App,211568.76,2115.69,Success,,0,Nigeria,Ibadan
+TXN-10658,2024-12-17 19:15:00,CUST-2124,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,7412.19,111.18,Success,,0,Nigeria,Benin City
+TXN-10659,2024-08-04 20:57:00,CUST-2140,MERCH-1008,Merchant 9,Education,UPI,Mobile App,7770.9,38.85,Success,,0,Nigeria,Port Harcourt
+TXN-10660,2024-11-25 01:46:00,CUST-2104,MERCH-1005,Merchant 6,Travel,Credit Card,Mobile App,78819.24,1182.29,Success,,0,Nigeria,Enugu
+TXN-10661,2024-12-09 21:56:00,CUST-2030,MERCH-1008,Merchant 9,Education,UPI,API,59392.27,296.96,Success,,0,Nigeria,Ibadan
+TXN-10662,2024-09-11 02:15:00,CUST-2060,MERCH-1020,Merchant 21,Retail,Credit Card,POS,82656.83,1239.85,Success,,0,Nigeria,Benin City
+TXN-10663,2024-04-21 04:06:00,CUST-2136,MERCH-1028,Merchant 29,Food & Dining,UPI,API,102389.7,511.95,Success,,0,Nigeria,Enugu
+TXN-10664,2024-12-24 03:20:00,CUST-2092,MERCH-1015,Merchant 16,Entertainment,Credit Card,Mobile App,240847.18,3612.71,Success,,0,Nigeria,Kaduna
+TXN-10665,2025-01-01 11:52:00,CUST-2013,MERCH-1038,Merchant 39,Education,UPI,Web,9184.95,45.92,Success,,0,Nigeria,Kano
+TXN-10666,2024-05-09 17:24:00,CUST-2060,MERCH-1023,Merchant 24,Healthcare,UPI,API,225837.7,1129.19,Success,,0,Nigeria,Kaduna
+TXN-10667,2024-07-17 00:58:00,CUST-2076,MERCH-1016,Merchant 17,Education,Bank Transfer,API,75571.59,755.72,Success,,0,Nigeria,Kano
+TXN-10668,2024-03-23 14:40:00,CUST-2125,MERCH-1026,Merchant 27,Entertainment,UPI,POS,197434.69,987.17,Success,,0,Nigeria,Kaduna
+TXN-10669,2025-01-12 13:59:00,CUST-2090,MERCH-1006,Merchant 7,Food & Dining,Wallet,Web,206188.02,2061.88,Success,,0,Nigeria,Benin City
+TXN-10670,2024-11-04 23:52:00,CUST-2113,MERCH-1001,Merchant 2,Retail,Credit Card,Mobile App,190612.87,2859.19,Success,,0,Nigeria,Port Harcourt
+TXN-10671,2024-01-02 12:12:00,CUST-2033,MERCH-1005,Merchant 6,Travel,Debit Card,Mobile App,28151.64,422.27,Success,,0,Nigeria,Benin City
+TXN-10672,2024-06-12 14:30:00,CUST-2050,MERCH-1011,Merchant 12,Food & Dining,Wallet,Mobile App,172022.98,1720.23,Success,,0,Nigeria,Abuja
+TXN-10673,2024-07-31 11:11:00,CUST-2058,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,56509.54,847.64,Success,,0,Nigeria,Abuja
+TXN-10674,2024-08-24 06:16:00,CUST-2094,MERCH-1025,Merchant 26,Travel,Debit Card,Mobile App,154692.01,2320.38,Success,,0,Nigeria,Port Harcourt
+TXN-10675,2024-10-17 03:00:00,CUST-2052,MERCH-1029,Merchant 30,Food & Dining,Debit Card,Mobile App,206900.73,3103.51,Success,,0,Nigeria,Kano
+TXN-10676,2025-02-04 08:18:00,CUST-2048,MERCH-1027,Merchant 28,Healthcare,Debit Card,Mobile App,214156.26,3212.34,Failed,Network Error,0,Nigeria,Benin City
+TXN-10677,2024-04-02 13:50:00,CUST-2149,MERCH-1016,Merchant 17,Education,UPI,Mobile App,59253.66,296.27,Success,,0,Nigeria,Kaduna
+TXN-10678,2024-02-13 00:30:00,CUST-2065,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,171869.69,859.35,Success,,0,Nigeria,Abuja
+TXN-10679,2024-02-18 17:03:00,CUST-2011,MERCH-1030,Merchant 31,Education,UPI,API,227102.52,1135.51,Failed,Timeout,0,Nigeria,Lagos
+TXN-10680,2024-05-09 16:39:00,CUST-2045,MERCH-1023,Merchant 24,Healthcare,Credit Card,API,33493.44,502.4,Success,,0,Nigeria,Ibadan
+TXN-10681,2024-03-27 16:31:00,CUST-2066,MERCH-1008,Merchant 9,Education,Bank Transfer,POS,22867.17,228.67,Success,,0,Nigeria,Abuja
+TXN-10682,2024-06-09 01:08:00,CUST-2067,MERCH-1017,Merchant 18,Entertainment,Credit Card,API,187081.93,2806.23,Success,,0,Nigeria,Ibadan
+TXN-10683,2024-09-21 10:27:00,CUST-2112,MERCH-1031,Merchant 32,Food & Dining,Wallet,Mobile App,191037.02,1910.37,Success,,0,Nigeria,Lagos
+TXN-10684,2024-04-06 04:03:00,CUST-2126,MERCH-1016,Merchant 17,Education,UPI,Mobile App,41306.96,206.53,Success,,0,Nigeria,Lagos
+TXN-10685,2024-08-14 11:45:00,CUST-2023,MERCH-1007,Merchant 8,Food & Dining,Credit Card,Mobile App,211536.67,3173.05,Success,,0,Nigeria,Kano
+TXN-10686,2024-05-25 05:53:00,CUST-2001,MERCH-1017,Merchant 18,Entertainment,UPI,Web,141030.22,705.15,Success,,0,Nigeria,Port Harcourt
+TXN-10687,2024-08-01 02:15:00,CUST-2100,MERCH-1021,Merchant 22,Travel,Wallet,Web,6977.56,69.78,Success,,0,Nigeria,Enugu
+TXN-10688,2024-10-29 03:53:00,CUST-2068,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,207759.46,1038.8,Success,,0,Nigeria,Lagos
+TXN-10689,2024-06-17 01:41:00,CUST-2072,MERCH-1036,Merchant 37,Other,Debit Card,Mobile App,32765.39,491.48,Success,,0,Nigeria,Enugu
+TXN-10690,2024-01-29 23:04:00,CUST-2022,MERCH-1005,Merchant 6,Travel,Credit Card,Web,100015.19,1500.23,Failed,Invalid Details,0,Nigeria,Lagos
+TXN-10691,2024-04-16 05:24:00,CUST-2079,MERCH-1009,Merchant 10,Retail,Wallet,Mobile App,30590.2,305.9,Success,,0,Nigeria,Port Harcourt
+TXN-10692,2024-07-02 21:06:00,CUST-2108,MERCH-1031,Merchant 32,Food & Dining,Wallet,Web,111637.88,1116.38,Success,,0,Nigeria,Abuja
+TXN-10693,2025-01-22 13:51:00,CUST-2057,MERCH-1027,Merchant 28,Healthcare,Credit Card,Mobile App,23690.39,355.36,Failed,Bank Reject,0,Nigeria,Port Harcourt
+TXN-10694,2024-09-10 16:40:00,CUST-2038,MERCH-1029,Merchant 30,Food & Dining,Debit Card,Mobile App,109620.2,1644.3,Success,,0,Nigeria,Port Harcourt
+TXN-10695,2024-12-16 09:53:00,CUST-2027,MERCH-1036,Merchant 37,Other,UPI,Mobile App,12408.2,62.04,Success,,0,Nigeria,Benin City
+TXN-10696,2024-07-30 03:29:00,CUST-2004,MERCH-1016,Merchant 17,Education,Debit Card,Web,89186.68,1337.8,Success,,0,Nigeria,Abuja
+TXN-10697,2025-01-14 21:29:00,CUST-2080,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,11792.05,58.96,Success,,0,Nigeria,Kaduna
+TXN-10698,2025-01-22 21:28:00,CUST-2027,MERCH-1011,Merchant 12,Food & Dining,Debit Card,Mobile App,53161.56,797.42,Failed,Network Error,0,Nigeria,Benin City
+TXN-10699,2024-09-30 00:00:00,CUST-2124,MERCH-1030,Merchant 31,Education,Credit Card,Mobile App,115310.67,1729.66,Success,,0,Nigeria,Ibadan
+TXN-10700,2024-11-12 19:23:00,CUST-2048,MERCH-1025,Merchant 26,Travel,Debit Card,API,201257.86,3018.87,Success,,0,Nigeria,Abuja
+TXN-10701,2024-01-09 22:12:00,CUST-2137,MERCH-1009,Merchant 10,Retail,Wallet,Mobile App,162610.09,1626.1,Success,,0,Nigeria,Kano
+TXN-10702,2024-02-14 09:49:00,CUST-2113,MERCH-1001,Merchant 2,Retail,Credit Card,Mobile App,29556.48,443.35,Success,,0,Nigeria,Kaduna
+TXN-10703,2024-08-29 00:55:00,CUST-2002,MERCH-1018,Merchant 19,Other,Credit Card,Mobile App,142572.9,2138.59,Success,,0,Nigeria,Abuja
+TXN-10704,2024-11-18 22:27:00,CUST-2124,MERCH-1037,Merchant 38,Food & Dining,Bank Transfer,POS,149161.97,1491.62,Success,,0,Nigeria,Benin City
+TXN-10705,2024-09-05 16:37:00,CUST-2147,MERCH-1031,Merchant 32,Food & Dining,Debit Card,API,58360.49,875.41,Success,,0,Nigeria,Enugu
+TXN-10706,2024-10-10 02:17:00,CUST-2114,MERCH-1030,Merchant 31,Education,Wallet,Mobile App,29676.71,296.77,Success,,0,Nigeria,Benin City
+TXN-10707,2024-01-11 05:18:00,CUST-2086,MERCH-1028,Merchant 29,Food & Dining,Debit Card,Mobile App,58409.73,876.15,Success,,0,Nigeria,Kaduna
+TXN-10708,2024-03-08 09:46:00,CUST-2053,MERCH-1023,Merchant 24,Healthcare,Debit Card,API,199095.18,2986.43,Success,,0,Nigeria,Ibadan
+TXN-10709,2024-12-19 23:05:00,CUST-2126,MERCH-1012,Merchant 13,Entertainment,Debit Card,Mobile App,39500.37,592.51,Success,,0,Nigeria,Ibadan
+TXN-10710,2024-04-30 06:35:00,CUST-2128,MERCH-1016,Merchant 17,Education,UPI,Mobile App,89582.45,447.91,Success,,0,Nigeria,Lagos
+TXN-10711,2024-02-02 10:27:00,CUST-2090,MERCH-1035,Merchant 36,Retail,UPI,Mobile App,56411.86,282.06,Success,,0,Nigeria,Lagos
+TXN-10712,2025-01-29 17:17:00,CUST-2112,MERCH-1032,Merchant 33,Healthcare,Wallet,POS,151270.23,1512.7,Success,,0,Nigeria,Kaduna
+TXN-10713,2025-01-21 03:06:00,CUST-2030,MERCH-1006,Merchant 7,Food & Dining,Wallet,Web,205990.75,2059.91,Success,,1,Nigeria,Kano
+TXN-10714,2024-07-04 05:46:00,CUST-2093,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,124848.55,624.24,Success,,0,Nigeria,Enugu
+TXN-10715,2024-03-11 03:54:00,CUST-2129,MERCH-1000,Merchant 1,Food & Dining,UPI,API,61706.36,308.53,Success,,0,Nigeria,Port Harcourt
+TXN-10716,2024-02-13 08:23:00,CUST-2058,MERCH-1015,Merchant 16,Entertainment,Debit Card,Mobile App,38327.0,574.9,Success,,0,Nigeria,Port Harcourt
+TXN-10717,2024-08-07 13:58:00,CUST-2037,MERCH-1033,Merchant 34,Healthcare,Credit Card,Mobile App,198754.53,2981.32,Success,,0,Nigeria,Lagos
+TXN-10718,2025-01-02 16:04:00,CUST-2038,MERCH-1010,Merchant 11,Retail,UPI,Mobile App,108801.03,544.01,Success,,0,Nigeria,Lagos
+TXN-10719,2024-11-19 22:51:00,CUST-2077,MERCH-1018,Merchant 19,Other,Debit Card,Web,105116.67,1576.75,Success,,0,Nigeria,Enugu
+TXN-10720,2024-06-25 00:52:00,CUST-2139,MERCH-1009,Merchant 10,Retail,UPI,Web,175223.62,876.12,Success,,0,Nigeria,Kaduna
+TXN-10721,2024-12-23 11:56:00,CUST-2099,MERCH-1012,Merchant 13,Entertainment,Wallet,Web,220303.18,2203.03,Success,,1,Nigeria,Port Harcourt
+TXN-10722,2024-09-23 17:18:00,CUST-2007,MERCH-1019,Merchant 20,Utilities,UPI,Web,130573.3,652.87,Success,,0,Nigeria,Ibadan
+TXN-10723,2024-05-03 09:46:00,CUST-2031,MERCH-1003,Merchant 4,Entertainment,Credit Card,Web,210475.07,3157.13,Success,,0,Nigeria,Lagos
+TXN-10724,2025-01-22 20:07:00,CUST-2148,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Web,113560.22,1703.4,Success,,0,Nigeria,Kano
+TXN-10725,2024-06-28 09:18:00,CUST-2063,MERCH-1036,Merchant 37,Other,Debit Card,POS,168272.23,2524.08,Success,,0,Nigeria,Abuja
+TXN-10726,2024-06-16 16:37:00,CUST-2020,MERCH-1029,Merchant 30,Food & Dining,UPI,POS,24947.96,124.74,Success,,0,Nigeria,Abuja
+TXN-10727,2024-02-01 13:56:00,CUST-2132,MERCH-1004,Merchant 5,Entertainment,UPI,Mobile App,92638.91,463.19,Success,,0,Nigeria,Benin City
+TXN-10728,2024-05-15 18:31:00,CUST-2129,MERCH-1031,Merchant 32,Food & Dining,Debit Card,API,183063.38,2745.95,Success,,0,Nigeria,Port Harcourt
+TXN-10729,2024-09-05 22:29:00,CUST-2040,MERCH-1033,Merchant 34,Healthcare,UPI,Web,29955.51,149.78,Success,,0,Nigeria,Enugu
+TXN-10730,2024-03-01 19:54:00,CUST-2078,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,72752.85,1091.29,Success,,0,Nigeria,Enugu
+TXN-10731,2024-06-04 09:31:00,CUST-2072,MERCH-1037,Merchant 38,Food & Dining,UPI,Mobile App,105728.36,528.64,Success,,0,Nigeria,Kano
+TXN-10732,2024-04-03 23:31:00,CUST-2144,MERCH-1004,Merchant 5,Entertainment,UPI,Web,217671.42,1088.36,Success,,0,Nigeria,Kaduna
+TXN-10733,2024-06-21 12:30:00,CUST-2115,MERCH-1008,Merchant 9,Education,Wallet,POS,190606.83,1906.07,Success,,0,Nigeria,Kaduna
+TXN-10734,2024-03-17 23:20:00,CUST-2138,MERCH-1039,Merchant 40,Food & Dining,UPI,Web,102702.27,513.51,Success,,0,Nigeria,Lagos
+TXN-10735,2024-12-09 14:47:00,CUST-2079,MERCH-1010,Merchant 11,Retail,UPI,Mobile App,176948.55,884.74,Success,,0,Nigeria,Abuja
+TXN-10736,2024-11-25 17:05:00,CUST-2121,MERCH-1036,Merchant 37,Other,UPI,Web,189524.98,947.62,Success,,0,Nigeria,Lagos
+TXN-10737,2024-03-02 21:59:00,CUST-2148,MERCH-1017,Merchant 18,Entertainment,Credit Card,API,196795.88,2951.94,Success,,0,Nigeria,Kaduna
+TXN-10738,2024-02-13 17:38:00,CUST-2106,MERCH-1031,Merchant 32,Food & Dining,UPI,Web,215562.6,1077.81,Success,,1,Nigeria,Lagos
+TXN-10739,2024-09-27 10:24:00,CUST-2022,MERCH-1006,Merchant 7,Food & Dining,UPI,Mobile App,135673.93,678.37,Success,,0,Nigeria,Port Harcourt
+TXN-10740,2024-06-06 13:43:00,CUST-2025,MERCH-1020,Merchant 21,Retail,UPI,Web,45773.73,228.87,Success,,0,Nigeria,Enugu
+TXN-10741,2024-03-13 13:57:00,CUST-2060,MERCH-1007,Merchant 8,Food & Dining,UPI,Mobile App,13443.59,67.22,Success,,0,Nigeria,Kaduna
+TXN-10742,2024-09-17 16:24:00,CUST-2104,MERCH-1020,Merchant 21,Retail,Bank Transfer,Mobile App,116473.47,1164.73,Success,,0,Nigeria,Kano
+TXN-10743,2024-01-10 08:35:00,CUST-2145,MERCH-1015,Merchant 16,Entertainment,Bank Transfer,Web,190863.09,1908.63,Success,,0,Nigeria,Benin City
+TXN-10744,2024-08-16 02:54:00,CUST-2137,MERCH-1009,Merchant 10,Retail,Debit Card,Mobile App,93639.65,1404.59,Success,,0,Nigeria,Benin City
+TXN-10745,2024-10-11 14:02:00,CUST-2123,MERCH-1039,Merchant 40,Food & Dining,UPI,Mobile App,72667.74,363.34,Success,,0,Nigeria,Ibadan
+TXN-10746,2024-11-02 08:53:00,CUST-2136,MERCH-1013,Merchant 14,Entertainment,Debit Card,API,146497.21,2197.46,Success,,0,Nigeria,Abuja
+TXN-10747,2024-06-02 02:25:00,CUST-2129,MERCH-1035,Merchant 36,Retail,Debit Card,POS,249705.9,3745.59,Success,,0,Nigeria,Enugu
+TXN-10748,2024-12-15 10:40:00,CUST-2053,MERCH-1028,Merchant 29,Food & Dining,UPI,POS,68616.78,343.08,Success,,0,Nigeria,Kaduna
+TXN-10749,2024-11-02 10:01:00,CUST-2044,MERCH-1000,Merchant 1,Food & Dining,Bank Transfer,Mobile App,152392.29,1523.92,Success,,1,Nigeria,Benin City
+TXN-10750,2024-10-11 22:45:00,CUST-2007,MERCH-1005,Merchant 6,Travel,Credit Card,Mobile App,196932.66,2953.99,Success,,0,Nigeria,Kaduna
+TXN-10751,2024-12-10 03:22:00,CUST-2002,MERCH-1038,Merchant 39,Education,Bank Transfer,Mobile App,89812.45,898.12,Success,,0,Nigeria,Abuja
+TXN-10752,2024-08-24 11:59:00,CUST-2049,MERCH-1001,Merchant 2,Retail,UPI,Mobile App,189726.04,948.63,Success,,0,Nigeria,Abuja
+TXN-10753,2024-11-10 20:19:00,CUST-2053,MERCH-1031,Merchant 32,Food & Dining,Wallet,Mobile App,241840.48,2418.4,Success,,1,Nigeria,Lagos
+TXN-10754,2024-04-10 20:25:00,CUST-2144,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,123755.82,618.78,Success,,0,Nigeria,Port Harcourt
+TXN-10755,2024-02-03 18:08:00,CUST-2070,MERCH-1036,Merchant 37,Other,Debit Card,Mobile App,213942.0,3209.13,Success,,0,Nigeria,Kano
+TXN-10756,2024-12-13 00:44:00,CUST-2013,MERCH-1035,Merchant 36,Retail,Debit Card,Web,220833.93,3312.51,Success,,1,Nigeria,Enugu
+TXN-10757,2024-08-09 13:17:00,CUST-2057,MERCH-1031,Merchant 32,Food & Dining,UPI,Web,90687.22,453.44,Success,,0,Nigeria,Lagos
+TXN-10758,2024-05-22 13:34:00,CUST-2057,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,84009.1,1260.14,Success,,0,Nigeria,Benin City
+TXN-10759,2024-02-08 07:12:00,CUST-2085,MERCH-1006,Merchant 7,Food & Dining,UPI,Mobile App,7454.25,37.27,Success,,0,Nigeria,Ibadan
+TXN-10760,2024-05-06 03:30:00,CUST-2018,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,205497.63,1027.49,Success,,0,Nigeria,Kaduna
+TXN-10761,2025-01-26 03:40:00,CUST-2016,MERCH-1003,Merchant 4,Entertainment,Credit Card,Mobile App,229220.24,3438.3,Success,,0,Nigeria,Port Harcourt
+TXN-10762,2024-02-01 14:03:00,CUST-2097,MERCH-1004,Merchant 5,Entertainment,UPI,Web,25905.98,129.53,Success,,0,Nigeria,Benin City
+TXN-10763,2024-02-19 19:48:00,CUST-2025,MERCH-1039,Merchant 40,Food & Dining,Credit Card,POS,3146.33,47.19,Success,,0,Nigeria,Enugu
+TXN-10764,2024-11-29 21:50:00,CUST-2017,MERCH-1037,Merchant 38,Food & Dining,UPI,Web,48524.09,242.62,Success,,0,Nigeria,Kano
+TXN-10765,2024-10-20 04:40:00,CUST-2011,MERCH-1030,Merchant 31,Education,Credit Card,Mobile App,181293.45,2719.4,Success,,0,Nigeria,Lagos
+TXN-10766,2024-03-06 09:37:00,CUST-2037,MERCH-1022,Merchant 23,Education,Credit Card,API,78141.47,1172.12,Success,,0,Nigeria,Kaduna
+TXN-10767,2024-06-07 19:21:00,CUST-2129,MERCH-1033,Merchant 34,Healthcare,UPI,API,146816.76,734.08,Success,,0,Nigeria,Lagos
+TXN-10768,2024-08-04 11:12:00,CUST-2119,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,Web,196423.32,1964.23,Success,,0,Nigeria,Enugu
+TXN-10769,2024-10-23 18:21:00,CUST-2126,MERCH-1010,Merchant 11,Retail,Debit Card,Mobile App,26659.55,399.89,Success,,0,Nigeria,Kano
+TXN-10770,2024-01-02 20:14:00,CUST-2096,MERCH-1013,Merchant 14,Entertainment,Debit Card,Mobile App,60135.25,902.03,Failed,Network Error,0,Nigeria,Kano
+TXN-10771,2024-07-23 05:52:00,CUST-2112,MERCH-1004,Merchant 5,Entertainment,Bank Transfer,Mobile App,89792.72,897.93,Success,,0,Nigeria,Kano
+TXN-10772,2024-11-19 18:58:00,CUST-2067,MERCH-1001,Merchant 2,Retail,Wallet,Mobile App,50181.16,501.81,Success,,0,Nigeria,Port Harcourt
+TXN-10773,2024-06-22 17:15:00,CUST-2028,MERCH-1016,Merchant 17,Education,UPI,Mobile App,227706.91,1138.53,Failed,Invalid Details,1,Nigeria,Enugu
+TXN-10774,2024-04-17 09:29:00,CUST-2016,MERCH-1010,Merchant 11,Retail,UPI,POS,235319.86,1176.6,Failed,Invalid Details,0,Nigeria,Abuja
+TXN-10775,2024-03-14 04:50:00,CUST-2011,MERCH-1023,Merchant 24,Healthcare,UPI,Web,79828.93,399.14,Success,,0,Nigeria,Kano
+TXN-10776,2024-10-01 09:50:00,CUST-2053,MERCH-1017,Merchant 18,Entertainment,UPI,Mobile App,218276.45,1091.38,Failed,Invalid Details,0,Nigeria,Abuja
+TXN-10777,2024-08-28 21:39:00,CUST-2095,MERCH-1032,Merchant 33,Healthcare,UPI,Web,93879.39,469.4,Success,,0,Nigeria,Kaduna
+TXN-10778,2025-01-01 15:30:00,CUST-2115,MERCH-1037,Merchant 38,Food & Dining,UPI,Mobile App,162609.45,813.05,Success,,0,Nigeria,Kano
+TXN-10779,2024-07-21 06:19:00,CUST-2034,MERCH-1010,Merchant 11,Retail,Credit Card,Mobile App,233906.98,3508.6,Success,,0,Nigeria,Abuja
+TXN-10780,2024-05-31 14:33:00,CUST-2110,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Web,128309.39,1924.64,Success,,0,Nigeria,Benin City
+TXN-10781,2024-07-07 15:20:00,CUST-2021,MERCH-1028,Merchant 29,Food & Dining,UPI,Mobile App,58830.7,294.15,Success,,0,Nigeria,Ibadan
+TXN-10782,2024-09-13 16:34:00,CUST-2051,MERCH-1014,Merchant 15,Retail,Debit Card,POS,25053.07,375.8,Success,,0,Nigeria,Enugu
+TXN-10783,2024-04-10 21:21:00,CUST-2139,MERCH-1017,Merchant 18,Entertainment,UPI,Web,48065.29,240.33,Success,,0,Nigeria,Ibadan
+TXN-10784,2024-01-05 09:18:00,CUST-2003,MERCH-1025,Merchant 26,Travel,Wallet,POS,236480.84,2364.81,Success,,0,Nigeria,Kaduna
+TXN-10785,2024-11-30 16:48:00,CUST-2132,MERCH-1014,Merchant 15,Retail,Bank Transfer,POS,57118.11,571.18,Success,,0,Nigeria,Kaduna
+TXN-10786,2025-01-04 14:21:00,CUST-2112,MERCH-1012,Merchant 13,Entertainment,Wallet,Mobile App,107483.85,1074.84,Success,,0,Nigeria,Kaduna
+TXN-10787,2024-10-12 00:23:00,CUST-2086,MERCH-1019,Merchant 20,Utilities,UPI,POS,235866.82,1179.33,Failed,Network Error,1,Nigeria,Kano
+TXN-10788,2024-08-02 13:43:00,CUST-2008,MERCH-1034,Merchant 35,Utilities,Wallet,POS,75259.48,752.59,Success,,0,Nigeria,Port Harcourt
+TXN-10789,2024-03-19 10:36:00,CUST-2100,MERCH-1038,Merchant 39,Education,Debit Card,Web,143682.74,2155.24,Success,,0,Nigeria,Abuja
+TXN-10790,2024-09-30 12:12:00,CUST-2141,MERCH-1028,Merchant 29,Food & Dining,Credit Card,Mobile App,159931.32,2398.97,Success,,0,Nigeria,Port Harcourt
+TXN-10791,2024-01-17 22:38:00,CUST-2074,MERCH-1004,Merchant 5,Entertainment,Credit Card,Mobile App,227880.65,3418.21,Success,,0,Nigeria,Abuja
+TXN-10792,2024-08-20 01:23:00,CUST-2107,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,98080.77,1471.21,Success,,0,Nigeria,Kaduna
+TXN-10793,2025-01-15 02:24:00,CUST-2121,MERCH-1008,Merchant 9,Education,Bank Transfer,POS,217677.04,2176.77,Success,,0,Nigeria,Port Harcourt
+TXN-10794,2024-11-05 18:19:00,CUST-2016,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Web,69222.52,1038.34,Success,,1,Nigeria,Benin City
+TXN-10795,2024-11-05 07:33:00,CUST-2073,MERCH-1031,Merchant 32,Food & Dining,UPI,Web,115321.04,576.61,Success,,0,Nigeria,Kaduna
+TXN-10796,2024-06-26 22:53:00,CUST-2045,MERCH-1039,Merchant 40,Food & Dining,Debit Card,Mobile App,205945.69,3089.19,Success,,0,Nigeria,Benin City
+TXN-10797,2024-08-22 12:58:00,CUST-2040,MERCH-1006,Merchant 7,Food & Dining,Debit Card,Web,98691.05,1480.37,Success,,0,Nigeria,Ibadan
+TXN-10798,2024-11-17 17:18:00,CUST-2031,MERCH-1013,Merchant 14,Entertainment,Debit Card,Mobile App,227229.75,3408.45,Success,,0,Nigeria,Enugu
+TXN-10799,2024-02-09 03:32:00,CUST-2006,MERCH-1028,Merchant 29,Food & Dining,Wallet,Mobile App,41627.36,416.27,Success,,0,Nigeria,Abuja
+TXN-10800,2024-11-23 22:43:00,CUST-2029,MERCH-1025,Merchant 26,Travel,Debit Card,Mobile App,214015.4,3210.23,Success,,0,Nigeria,Port Harcourt
+TXN-10801,2024-06-16 21:47:00,CUST-2120,MERCH-1005,Merchant 6,Travel,Credit Card,Mobile App,137332.92,2059.99,Failed,Card Declined,0,Nigeria,Ibadan
+TXN-10802,2024-03-23 05:53:00,CUST-2002,MERCH-1018,Merchant 19,Other,UPI,Mobile App,31475.77,157.38,Success,,0,Nigeria,Ibadan
+TXN-10803,2024-03-19 14:22:00,CUST-2133,MERCH-1034,Merchant 35,Utilities,UPI,Web,54433.54,272.17,Success,,0,Nigeria,Abuja
+TXN-10804,2024-07-18 22:19:00,CUST-2095,MERCH-1003,Merchant 4,Entertainment,Credit Card,Web,193216.22,2898.24,Success,,0,Nigeria,Kano
+TXN-10805,2024-04-12 02:01:00,CUST-2024,MERCH-1021,Merchant 22,Travel,Credit Card,API,205221.37,3078.32,Success,,0,Nigeria,Port Harcourt
+TXN-10806,2025-01-05 05:02:00,CUST-2138,MERCH-1020,Merchant 21,Retail,Credit Card,Mobile App,81008.55,1215.13,Success,,0,Nigeria,Benin City
+TXN-10807,2024-08-07 03:14:00,CUST-2054,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,4241.15,21.21,Success,,0,Nigeria,Kaduna
+TXN-10808,2024-04-22 02:42:00,CUST-2127,MERCH-1023,Merchant 24,Healthcare,Wallet,Web,11462.77,114.63,Success,,0,Nigeria,Abuja
+TXN-10809,2024-12-30 17:50:00,CUST-2099,MERCH-1010,Merchant 11,Retail,Bank Transfer,POS,63359.07,633.59,Success,,0,Nigeria,Port Harcourt
+TXN-10810,2024-06-19 05:40:00,CUST-2097,MERCH-1030,Merchant 31,Education,Wallet,Web,17344.61,173.45,Failed,Invalid Details,1,Nigeria,Kano
+TXN-10811,2024-09-14 18:45:00,CUST-2109,MERCH-1039,Merchant 40,Food & Dining,Bank Transfer,Mobile App,189855.79,1898.56,Success,,0,Nigeria,Kano
+TXN-10812,2024-11-13 02:03:00,CUST-2113,MERCH-1012,Merchant 13,Entertainment,UPI,Mobile App,38341.81,191.71,Success,,0,Nigeria,Enugu
+TXN-10813,2024-03-09 08:20:00,CUST-2006,MERCH-1033,Merchant 34,Healthcare,Debit Card,POS,198049.05,2970.74,Success,,0,Nigeria,Kano
+TXN-10814,2025-01-10 10:21:00,CUST-2097,MERCH-1015,Merchant 16,Entertainment,UPI,Web,200462.23,1002.31,Success,,0,Nigeria,Enugu
+TXN-10815,2024-04-03 14:40:00,CUST-2032,MERCH-1004,Merchant 5,Entertainment,UPI,POS,238438.47,1192.19,Failed,Card Declined,1,Nigeria,Abuja
+TXN-10816,2024-03-29 18:35:00,CUST-2042,MERCH-1015,Merchant 16,Entertainment,Wallet,API,127102.42,1271.02,Success,,0,Nigeria,Kano
+TXN-10817,2024-05-05 13:11:00,CUST-2123,MERCH-1036,Merchant 37,Other,Debit Card,Mobile App,112343.66,1685.15,Success,,0,Nigeria,Abuja
+TXN-10818,2024-07-03 12:24:00,CUST-2123,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,152543.86,762.72,Success,,0,Nigeria,Lagos
+TXN-10819,2025-01-25 12:27:00,CUST-2065,MERCH-1019,Merchant 20,Utilities,Wallet,POS,148998.25,1489.98,Success,,0,Nigeria,Benin City
+TXN-10820,2024-08-25 09:29:00,CUST-2039,MERCH-1030,Merchant 31,Education,UPI,Web,18448.94,92.24,Success,,0,Nigeria,Kano
+TXN-10821,2024-01-03 00:55:00,CUST-2095,MERCH-1031,Merchant 32,Food & Dining,Credit Card,Web,101436.54,1521.55,Success,,0,Nigeria,Benin City
+TXN-10822,2024-09-07 09:41:00,CUST-2049,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Mobile App,248121.88,2481.22,Failed,Card Declined,0,Nigeria,Benin City
+TXN-10823,2024-05-10 23:22:00,CUST-2063,MERCH-1023,Merchant 24,Healthcare,Credit Card,Mobile App,174265.63,2613.98,Success,,0,Nigeria,Kano
+TXN-10824,2024-09-01 01:58:00,CUST-2116,MERCH-1001,Merchant 2,Retail,Wallet,Web,174519.12,1745.19,Success,,0,Nigeria,Port Harcourt
+TXN-10825,2024-05-10 07:38:00,CUST-2098,MERCH-1010,Merchant 11,Retail,Credit Card,Web,3578.18,53.67,Success,,0,Nigeria,Benin City
+TXN-10826,2024-12-27 18:57:00,CUST-2128,MERCH-1027,Merchant 28,Healthcare,UPI,API,41872.99,209.36,Success,,0,Nigeria,Benin City
+TXN-10827,2024-10-27 09:46:00,CUST-2036,MERCH-1005,Merchant 6,Travel,Credit Card,POS,27763.88,416.46,Success,,0,Nigeria,Ibadan
+TXN-10828,2025-01-18 06:59:00,CUST-2017,MERCH-1000,Merchant 1,Food & Dining,Debit Card,Web,246762.86,3701.44,Success,,0,Nigeria,Benin City
+TXN-10829,2024-09-25 13:41:00,CUST-2046,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,93975.52,469.88,Success,,0,Nigeria,Abuja
+TXN-10830,2024-08-18 18:52:00,CUST-2112,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,202390.07,1011.95,Failed,Invalid Details,0,Nigeria,Abuja
+TXN-10831,2024-11-21 05:05:00,CUST-2124,MERCH-1017,Merchant 18,Entertainment,UPI,Mobile App,16533.48,82.67,Success,,0,Nigeria,Abuja
+TXN-10832,2024-01-05 01:17:00,CUST-2001,MERCH-1037,Merchant 38,Food & Dining,Wallet,Mobile App,197407.19,1974.07,Success,,1,Nigeria,Benin City
+TXN-10833,2024-11-04 16:48:00,CUST-2087,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,151290.7,756.45,Success,,0,Nigeria,Enugu
+TXN-10834,2024-05-02 11:42:00,CUST-2102,MERCH-1022,Merchant 23,Education,Credit Card,Web,218332.82,3274.99,Success,,0,Nigeria,Port Harcourt
+TXN-10835,2024-01-14 19:07:00,CUST-2121,MERCH-1015,Merchant 16,Entertainment,Wallet,Mobile App,92423.26,924.23,Success,,0,Nigeria,Benin City
+TXN-10836,2024-12-04 06:00:00,CUST-2083,MERCH-1020,Merchant 21,Retail,Bank Transfer,API,4649.26,46.49,Success,,0,Nigeria,Kaduna
+TXN-10837,2024-04-29 19:31:00,CUST-2025,MERCH-1005,Merchant 6,Travel,Credit Card,Web,87409.32,1311.14,Failed,Invalid Details,0,Nigeria,Benin City
+TXN-10838,2024-05-30 19:12:00,CUST-2127,MERCH-1036,Merchant 37,Other,Debit Card,POS,196323.05,2944.85,Success,,0,Nigeria,Abuja
+TXN-10839,2024-06-03 21:35:00,CUST-2062,MERCH-1028,Merchant 29,Food & Dining,Bank Transfer,Mobile App,238785.28,2387.85,Success,,0,Nigeria,Kano
+TXN-10840,2024-03-28 21:44:00,CUST-2071,MERCH-1001,Merchant 2,Retail,UPI,Mobile App,40478.7,202.39,Success,,0,Nigeria,Kano
+TXN-10841,2025-01-03 08:42:00,CUST-2125,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,166536.35,2498.05,Success,,0,Nigeria,Abuja
+TXN-10842,2024-12-20 10:55:00,CUST-2097,MERCH-1038,Merchant 39,Education,UPI,Web,16634.42,83.17,Success,,0,Nigeria,Benin City
+TXN-10843,2024-04-29 07:16:00,CUST-2029,MERCH-1005,Merchant 6,Travel,UPI,Mobile App,85389.34,426.95,Success,,0,Nigeria,Enugu
+TXN-10844,2024-03-06 10:24:00,CUST-2108,MERCH-1003,Merchant 4,Entertainment,Credit Card,Mobile App,147719.92,2215.8,Success,,0,Nigeria,Enugu
+TXN-10845,2025-01-29 11:51:00,CUST-2002,MERCH-1033,Merchant 34,Healthcare,Debit Card,POS,166103.82,2491.56,Success,,0,Nigeria,Kaduna
+TXN-10846,2024-06-10 04:52:00,CUST-2008,MERCH-1031,Merchant 32,Food & Dining,Bank Transfer,POS,170155.24,1701.55,Success,,0,Nigeria,Enugu
+TXN-10847,2024-06-07 16:44:00,CUST-2096,MERCH-1036,Merchant 37,Other,UPI,API,119831.55,599.16,Success,,0,Nigeria,Lagos
+TXN-10848,2024-06-19 04:52:00,CUST-2124,MERCH-1014,Merchant 15,Retail,Debit Card,POS,175251.65,2628.77,Failed,Card Declined,1,Nigeria,Benin City
+TXN-10849,2024-06-02 21:58:00,CUST-2089,MERCH-1035,Merchant 36,Retail,Wallet,API,98375.25,983.75,Success,,0,Nigeria,Benin City
+TXN-10850,2024-07-19 02:33:00,CUST-2082,MERCH-1012,Merchant 13,Entertainment,Debit Card,Mobile App,175426.61,2631.4,Success,,0,Nigeria,Lagos
+TXN-10851,2024-12-29 09:29:00,CUST-2055,MERCH-1028,Merchant 29,Food & Dining,Debit Card,Web,174140.9,2612.11,Success,,0,Nigeria,Kano
+TXN-10852,2025-01-11 20:00:00,CUST-2109,MERCH-1006,Merchant 7,Food & Dining,Credit Card,POS,169740.29,2546.1,Success,,0,Nigeria,Port Harcourt
+TXN-10853,2024-01-29 03:22:00,CUST-2111,MERCH-1003,Merchant 4,Entertainment,Bank Transfer,Mobile App,29778.04,297.78,Success,,0,Nigeria,Port Harcourt
+TXN-10854,2024-11-17 23:25:00,CUST-2096,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,122412.16,612.06,Failed,Bank Reject,0,Nigeria,Abuja
+TXN-10855,2025-02-02 14:55:00,CUST-2125,MERCH-1028,Merchant 29,Food & Dining,Wallet,Mobile App,92147.1,921.47,Success,,0,Nigeria,Kano
+TXN-10856,2024-01-12 18:36:00,CUST-2111,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,Mobile App,198688.76,1986.89,Success,,0,Nigeria,Ibadan
+TXN-10857,2024-10-19 04:06:00,CUST-2142,MERCH-1034,Merchant 35,Utilities,UPI,Web,46630.02,233.15,Success,,0,Nigeria,Kaduna
+TXN-10858,2024-02-02 16:53:00,CUST-2030,MERCH-1007,Merchant 8,Food & Dining,Credit Card,Web,188500.3,2827.5,Success,,0,Nigeria,Port Harcourt
+TXN-10859,2024-11-02 22:11:00,CUST-2041,MERCH-1020,Merchant 21,Retail,UPI,Mobile App,31199.8,156.0,Success,,0,Nigeria,Abuja
+TXN-10860,2024-10-14 08:54:00,CUST-2108,MERCH-1007,Merchant 8,Food & Dining,Wallet,Mobile App,126784.0,1267.84,Success,,0,Nigeria,Lagos
+TXN-10861,2024-05-07 09:02:00,CUST-2080,MERCH-1018,Merchant 19,Other,Bank Transfer,Web,164959.82,1649.6,Success,,0,Nigeria,Enugu
+TXN-10862,2024-11-06 17:32:00,CUST-2055,MERCH-1002,Merchant 3,Utilities,UPI,Mobile App,59656.54,298.28,Success,,0,Nigeria,Port Harcourt
+TXN-10863,2024-11-04 17:13:00,CUST-2041,MERCH-1039,Merchant 40,Food & Dining,Credit Card,Mobile App,105792.75,1586.89,Success,,0,Nigeria,Benin City
+TXN-10864,2024-08-21 02:16:00,CUST-2049,MERCH-1009,Merchant 10,Retail,Debit Card,API,134208.13,2013.12,Failed,Bank Reject,1,Nigeria,Enugu
+TXN-10865,2024-10-15 21:41:00,CUST-2097,MERCH-1026,Merchant 27,Entertainment,Wallet,Web,205481.17,2054.81,Success,,0,Nigeria,Lagos
+TXN-10866,2024-11-05 07:04:00,CUST-2085,MERCH-1035,Merchant 36,Retail,UPI,Web,101991.93,509.96,Success,,0,Nigeria,Ibadan
+TXN-10867,2024-03-15 07:17:00,CUST-2044,MERCH-1014,Merchant 15,Retail,UPI,Mobile App,94968.77,474.84,Success,,0,Nigeria,Ibadan
+TXN-10868,2024-10-28 15:06:00,CUST-2043,MERCH-1018,Merchant 19,Other,Credit Card,Web,138109.79,2071.65,Success,,0,Nigeria,Enugu
+TXN-10869,2025-01-19 12:11:00,CUST-2032,MERCH-1034,Merchant 35,Utilities,UPI,Web,138142.09,690.71,Success,,0,Nigeria,Ibadan
+TXN-10870,2024-01-05 21:32:00,CUST-2094,MERCH-1009,Merchant 10,Retail,Debit Card,Web,95010.77,1425.16,Success,,0,Nigeria,Kano
+TXN-10871,2024-12-13 19:26:00,CUST-2109,MERCH-1022,Merchant 23,Education,Debit Card,Mobile App,199717.99,2995.77,Success,,0,Nigeria,Kano
+TXN-10872,2024-06-05 20:54:00,CUST-2061,MERCH-1020,Merchant 21,Retail,UPI,Mobile App,211388.78,1056.94,Success,,0,Nigeria,Abuja
+TXN-10873,2024-03-25 18:03:00,CUST-2130,MERCH-1031,Merchant 32,Food & Dining,UPI,Mobile App,202182.56,1010.91,Failed,Bank Reject,1,Nigeria,Port Harcourt
+TXN-10874,2024-09-02 15:32:00,CUST-2001,MERCH-1034,Merchant 35,Utilities,Debit Card,Web,174621.55,2619.32,Success,,0,Nigeria,Benin City
+TXN-10875,2024-12-25 17:47:00,CUST-2043,MERCH-1033,Merchant 34,Healthcare,UPI,API,171177.49,855.89,Success,,1,Nigeria,Kano
+TXN-10876,2024-03-30 02:23:00,CUST-2028,MERCH-1003,Merchant 4,Entertainment,Wallet,Web,105969.21,1059.69,Success,,0,Nigeria,Enugu
+TXN-10877,2024-12-13 07:53:00,CUST-2000,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,72871.15,1093.07,Success,,0,Nigeria,Benin City
+TXN-10878,2024-04-21 09:59:00,CUST-2014,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Web,233885.89,2338.86,Success,,0,Nigeria,Enugu
+TXN-10879,2024-01-04 19:29:00,CUST-2002,MERCH-1000,Merchant 1,Food & Dining,UPI,Mobile App,87755.56,438.78,Success,,0,Nigeria,Abuja
+TXN-10880,2024-08-08 15:12:00,CUST-2064,MERCH-1009,Merchant 10,Retail,UPI,Web,102974.4,514.87,Success,,0,Nigeria,Kano
+TXN-10881,2024-08-28 12:23:00,CUST-2112,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,134338.63,671.69,Failed,Bank Reject,0,Nigeria,Port Harcourt
+TXN-10882,2024-03-12 11:47:00,CUST-2107,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,28111.08,421.67,Success,,0,Nigeria,Enugu
+TXN-10883,2024-01-17 05:42:00,CUST-2032,MERCH-1017,Merchant 18,Entertainment,UPI,Mobile App,30138.68,150.69,Success,,0,Nigeria,Enugu
+TXN-10884,2025-01-19 12:32:00,CUST-2032,MERCH-1024,Merchant 25,Utilities,Debit Card,Web,33288.71,499.33,Success,,0,Nigeria,Port Harcourt
+TXN-10885,2024-06-25 16:00:00,CUST-2122,MERCH-1021,Merchant 22,Travel,Wallet,Mobile App,107701.43,1077.01,Success,,0,Nigeria,Ibadan
+TXN-10886,2024-05-24 15:05:00,CUST-2029,MERCH-1009,Merchant 10,Retail,Wallet,Mobile App,182447.52,1824.48,Success,,0,Nigeria,Ibadan
+TXN-10887,2024-12-24 07:42:00,CUST-2038,MERCH-1006,Merchant 7,Food & Dining,Wallet,Mobile App,175435.67,1754.36,Success,,0,Nigeria,Kano
+TXN-10888,2024-03-02 04:25:00,CUST-2013,MERCH-1009,Merchant 10,Retail,UPI,API,106862.59,534.31,Success,,0,Nigeria,Benin City
+TXN-10889,2024-07-27 16:19:00,CUST-2013,MERCH-1014,Merchant 15,Retail,Debit Card,API,84376.37,1265.65,Success,,0,Nigeria,Ibadan
+TXN-10890,2024-02-26 08:23:00,CUST-2000,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,62118.67,310.59,Success,,0,Nigeria,Lagos
+TXN-10891,2024-12-04 23:20:00,CUST-2085,MERCH-1038,Merchant 39,Education,UPI,Mobile App,25640.04,128.2,Failed,Network Error,0,Nigeria,Ibadan
+TXN-10892,2024-02-27 03:42:00,CUST-2135,MERCH-1008,Merchant 9,Education,UPI,Web,83137.33,415.69,Success,,0,Nigeria,Enugu
+TXN-10893,2024-05-01 20:17:00,CUST-2048,MERCH-1006,Merchant 7,Food & Dining,UPI,Mobile App,33056.11,165.28,Success,,0,Nigeria,Kano
+TXN-10894,2024-12-26 14:59:00,CUST-2136,MERCH-1039,Merchant 40,Food & Dining,UPI,API,86053.04,430.27,Failed,Card Declined,0,Nigeria,Port Harcourt
+TXN-10895,2024-01-23 04:12:00,CUST-2030,MERCH-1035,Merchant 36,Retail,Credit Card,Web,243793.98,3656.91,Success,,0,Nigeria,Benin City
+TXN-10896,2024-02-04 15:26:00,CUST-2011,MERCH-1001,Merchant 2,Retail,Credit Card,API,42150.31,632.25,Failed,Network Error,0,Nigeria,Lagos
+TXN-10897,2024-12-21 06:47:00,CUST-2130,MERCH-1034,Merchant 35,Utilities,Wallet,Mobile App,217628.8,2176.29,Success,,0,Nigeria,Benin City
+TXN-10898,2024-10-14 12:25:00,CUST-2131,MERCH-1000,Merchant 1,Food & Dining,Debit Card,Mobile App,40420.76,606.31,Success,,0,Nigeria,Kaduna
+TXN-10899,2024-09-14 22:46:00,CUST-2057,MERCH-1014,Merchant 15,Retail,Credit Card,Mobile App,74442.74,1116.64,Success,,0,Nigeria,Lagos
+TXN-10900,2024-09-30 07:18:00,CUST-2063,MERCH-1017,Merchant 18,Entertainment,UPI,Mobile App,231848.37,1159.24,Success,,0,Nigeria,Kano
+TXN-10901,2024-09-30 03:00:00,CUST-2067,MERCH-1023,Merchant 24,Healthcare,Debit Card,Web,81478.19,1222.17,Success,,0,Nigeria,Port Harcourt
+TXN-10902,2024-07-28 19:18:00,CUST-2065,MERCH-1000,Merchant 1,Food & Dining,UPI,Mobile App,206070.98,1030.35,Failed,Card Declined,0,Nigeria,Lagos
+TXN-10903,2024-10-02 21:55:00,CUST-2141,MERCH-1006,Merchant 7,Food & Dining,Wallet,POS,180789.25,1807.89,Failed,Network Error,0,Nigeria,Kano
+TXN-10904,2024-08-14 07:20:00,CUST-2094,MERCH-1025,Merchant 26,Travel,UPI,Web,39332.55,196.66,Success,,0,Nigeria,Port Harcourt
+TXN-10905,2024-09-02 02:31:00,CUST-2072,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,47620.55,238.1,Success,,0,Nigeria,Lagos
+TXN-10906,2024-06-07 05:56:00,CUST-2116,MERCH-1038,Merchant 39,Education,UPI,Mobile App,47368.08,236.84,Success,,0,Nigeria,Benin City
+TXN-10907,2024-02-21 23:33:00,CUST-2003,MERCH-1000,Merchant 1,Food & Dining,UPI,POS,151021.73,755.11,Success,,0,Nigeria,Lagos
+TXN-10908,2024-03-08 07:49:00,CUST-2138,MERCH-1038,Merchant 39,Education,UPI,Mobile App,3867.48,19.34,Failed,Insufficient Funds,0,Nigeria,Enugu
+TXN-10909,2024-12-28 02:12:00,CUST-2062,MERCH-1028,Merchant 29,Food & Dining,UPI,POS,203958.5,1019.79,Success,,0,Nigeria,Lagos
+TXN-10910,2024-10-05 22:17:00,CUST-2106,MERCH-1002,Merchant 3,Utilities,Debit Card,Mobile App,26152.42,392.29,Success,,0,Nigeria,Port Harcourt
+TXN-10911,2024-01-01 07:01:00,CUST-2098,MERCH-1022,Merchant 23,Education,UPI,Mobile App,164013.47,820.07,Success,,0,Nigeria,Abuja
+TXN-10912,2024-09-08 05:07:00,CUST-2021,MERCH-1018,Merchant 19,Other,UPI,API,89648.32,448.24,Success,,0,Nigeria,Lagos
+TXN-10913,2024-11-05 04:11:00,CUST-2077,MERCH-1011,Merchant 12,Food & Dining,Credit Card,Mobile App,170018.61,2550.28,Success,,0,Nigeria,Ibadan
+TXN-10914,2024-06-27 03:17:00,CUST-2000,MERCH-1016,Merchant 17,Education,Bank Transfer,Web,202774.49,2027.74,Success,,0,Nigeria,Port Harcourt
+TXN-10915,2025-02-02 20:09:00,CUST-2071,MERCH-1030,Merchant 31,Education,UPI,Mobile App,203755.12,1018.78,Success,,0,Nigeria,Port Harcourt
+TXN-10916,2024-02-16 10:08:00,CUST-2085,MERCH-1020,Merchant 21,Retail,UPI,Mobile App,123804.52,619.02,Failed,Timeout,0,Nigeria,Port Harcourt
+TXN-10917,2024-11-30 07:24:00,CUST-2021,MERCH-1034,Merchant 35,Utilities,Credit Card,Mobile App,123404.05,1851.06,Success,,0,Nigeria,Benin City
+TXN-10918,2024-09-26 18:49:00,CUST-2092,MERCH-1005,Merchant 6,Travel,Debit Card,Web,59180.67,887.71,Failed,Insufficient Funds,1,Nigeria,Kaduna
+TXN-10919,2024-03-09 03:03:00,CUST-2107,MERCH-1008,Merchant 9,Education,Bank Transfer,Mobile App,74026.97,740.27,Success,,0,Nigeria,Kano
+TXN-10920,2024-04-17 07:03:00,CUST-2013,MERCH-1009,Merchant 10,Retail,Debit Card,Mobile App,94676.47,1420.15,Failed,Network Error,0,Nigeria,Abuja
+TXN-10921,2024-12-05 18:04:00,CUST-2019,MERCH-1010,Merchant 11,Retail,Credit Card,Web,8031.34,120.47,Success,,0,Nigeria,Lagos
+TXN-10922,2024-10-18 13:09:00,CUST-2105,MERCH-1008,Merchant 9,Education,Wallet,Mobile App,187152.73,1871.53,Success,,0,Nigeria,Enugu
+TXN-10923,2024-08-15 20:44:00,CUST-2041,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,220348.71,1101.74,Failed,Timeout,1,Nigeria,Lagos
+TXN-10924,2024-07-21 13:43:00,CUST-2108,MERCH-1016,Merchant 17,Education,Bank Transfer,Mobile App,229827.98,2298.28,Success,,0,Nigeria,Port Harcourt
+TXN-10925,2024-05-19 02:33:00,CUST-2143,MERCH-1013,Merchant 14,Entertainment,Credit Card,API,100400.4,1506.01,Success,,1,Nigeria,Abuja
+TXN-10926,2024-12-20 14:30:00,CUST-2049,MERCH-1024,Merchant 25,Utilities,UPI,Web,41623.68,208.12,Success,,0,Nigeria,Ibadan
+TXN-10927,2024-02-25 03:04:00,CUST-2016,MERCH-1021,Merchant 22,Travel,Credit Card,POS,7498.19,112.47,Success,,0,Nigeria,Kano
+TXN-10928,2024-11-01 00:48:00,CUST-2145,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,Mobile App,159778.05,1597.78,Success,,1,Nigeria,Lagos
+TXN-10929,2024-10-15 15:02:00,CUST-2101,MERCH-1019,Merchant 20,Utilities,UPI,Mobile App,2615.44,13.08,Success,,0,Nigeria,Kano
+TXN-10930,2024-06-10 12:46:00,CUST-2128,MERCH-1006,Merchant 7,Food & Dining,Credit Card,Mobile App,83163.89,1247.46,Success,,0,Nigeria,Port Harcourt
+TXN-10931,2024-01-13 18:50:00,CUST-2023,MERCH-1002,Merchant 3,Utilities,Credit Card,Web,72884.79,1093.27,Success,,0,Nigeria,Kano
+TXN-10932,2024-04-20 21:41:00,CUST-2087,MERCH-1032,Merchant 33,Healthcare,UPI,Web,129317.05,646.59,Success,,0,Nigeria,Kaduna
+TXN-10933,2024-03-08 10:18:00,CUST-2061,MERCH-1027,Merchant 28,Healthcare,Credit Card,POS,10483.22,157.25,Success,,0,Nigeria,Kano
+TXN-10934,2024-11-08 19:04:00,CUST-2140,MERCH-1031,Merchant 32,Food & Dining,Bank Transfer,Web,24802.81,248.03,Failed,Network Error,1,Nigeria,Abuja
+TXN-10935,2024-09-12 03:29:00,CUST-2018,MERCH-1010,Merchant 11,Retail,UPI,API,17506.38,87.53,Success,,0,Nigeria,Port Harcourt
+TXN-10936,2024-12-29 14:16:00,CUST-2145,MERCH-1028,Merchant 29,Food & Dining,Bank Transfer,API,162747.87,1627.48,Success,,0,Nigeria,Kaduna
+TXN-10937,2024-01-21 11:54:00,CUST-2080,MERCH-1039,Merchant 40,Food & Dining,UPI,Mobile App,229326.46,1146.63,Success,,0,Nigeria,Enugu
+TXN-10938,2024-02-12 21:26:00,CUST-2062,MERCH-1002,Merchant 3,Utilities,Credit Card,Mobile App,155343.12,2330.15,Success,,0,Nigeria,Lagos
+TXN-10939,2024-03-20 03:18:00,CUST-2089,MERCH-1004,Merchant 5,Entertainment,Credit Card,Web,56151.3,842.27,Success,,0,Nigeria,Kaduna
+TXN-10940,2024-08-27 20:34:00,CUST-2110,MERCH-1005,Merchant 6,Travel,Bank Transfer,Mobile App,45478.2,454.78,Failed,Invalid Details,0,Nigeria,Kano
+TXN-10941,2024-07-24 10:04:00,CUST-2116,MERCH-1031,Merchant 32,Food & Dining,UPI,API,53552.48,267.76,Success,,0,Nigeria,Lagos
+TXN-10942,2024-10-06 04:30:00,CUST-2092,MERCH-1036,Merchant 37,Other,UPI,Mobile App,8315.15,41.58,Success,,0,Nigeria,Benin City
+TXN-10943,2024-08-30 06:03:00,CUST-2017,MERCH-1027,Merchant 28,Healthcare,UPI,Mobile App,67827.1,339.14,Success,,0,Nigeria,Ibadan
+TXN-10944,2024-07-26 02:19:00,CUST-2013,MERCH-1026,Merchant 27,Entertainment,Wallet,Mobile App,131432.1,1314.32,Success,,0,Nigeria,Abuja
+TXN-10945,2024-08-07 10:48:00,CUST-2111,MERCH-1026,Merchant 27,Entertainment,UPI,Mobile App,120665.5,603.33,Success,,0,Nigeria,Enugu
+TXN-10946,2024-12-20 18:24:00,CUST-2037,MERCH-1038,Merchant 39,Education,Wallet,Web,50040.71,500.41,Success,,0,Nigeria,Enugu
+TXN-10947,2024-12-06 23:47:00,CUST-2081,MERCH-1000,Merchant 1,Food & Dining,Wallet,Web,38051.32,380.51,Success,,0,Nigeria,Abuja
+TXN-10948,2024-12-11 13:16:00,CUST-2148,MERCH-1028,Merchant 29,Food & Dining,Credit Card,Mobile App,235859.27,3537.89,Success,,0,Nigeria,Abuja
+TXN-10949,2024-01-19 06:47:00,CUST-2053,MERCH-1034,Merchant 35,Utilities,Bank Transfer,Mobile App,193708.91,1937.09,Success,,0,Nigeria,Kano
+TXN-10950,2024-12-13 18:00:00,CUST-2127,MERCH-1019,Merchant 20,Utilities,Credit Card,Mobile App,224215.4,3363.23,Success,,0,Nigeria,Kaduna
+TXN-10951,2024-07-30 13:22:00,CUST-2117,MERCH-1033,Merchant 34,Healthcare,Credit Card,Web,243530.5,3652.96,Success,,0,Nigeria,Benin City
+TXN-10952,2024-07-10 05:35:00,CUST-2072,MERCH-1024,Merchant 25,Utilities,Credit Card,Web,71614.47,1074.22,Success,,0,Nigeria,Abuja
+TXN-10953,2024-02-14 03:05:00,CUST-2139,MERCH-1026,Merchant 27,Entertainment,Debit Card,Web,26366.99,395.5,Success,,0,Nigeria,Abuja
+TXN-10954,2024-11-20 14:32:00,CUST-2141,MERCH-1018,Merchant 19,Other,Credit Card,Mobile App,213000.46,3195.01,Success,,0,Nigeria,Benin City
+TXN-10955,2024-02-28 06:54:00,CUST-2101,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Mobile App,103527.22,1552.91,Success,,0,Nigeria,Lagos
+TXN-10956,2024-07-10 07:32:00,CUST-2061,MERCH-1016,Merchant 17,Education,UPI,POS,77195.47,385.98,Success,,0,Nigeria,Lagos
+TXN-10957,2024-07-31 01:00:00,CUST-2146,MERCH-1033,Merchant 34,Healthcare,UPI,POS,205098.58,1025.49,Success,,0,Nigeria,Benin City
+TXN-10958,2024-05-03 17:25:00,CUST-2099,MERCH-1003,Merchant 4,Entertainment,UPI,Web,200432.25,1002.16,Success,,0,Nigeria,Port Harcourt
+TXN-10959,2024-07-25 10:33:00,CUST-2066,MERCH-1008,Merchant 9,Education,UPI,Mobile App,126312.13,631.56,Success,,0,Nigeria,Port Harcourt
+TXN-10960,2024-06-14 06:05:00,CUST-2020,MERCH-1037,Merchant 38,Food & Dining,UPI,Mobile App,38685.63,193.43,Success,,0,Nigeria,Benin City
+TXN-10961,2024-01-13 23:46:00,CUST-2049,MERCH-1022,Merchant 23,Education,UPI,Mobile App,47045.52,235.23,Success,,0,Nigeria,Kano
+TXN-10962,2025-01-06 12:49:00,CUST-2148,MERCH-1005,Merchant 6,Travel,UPI,Mobile App,233776.49,1168.88,Success,,0,Nigeria,Abuja
+TXN-10963,2024-02-26 14:59:00,CUST-2092,MERCH-1018,Merchant 19,Other,Credit Card,Mobile App,65867.67,988.02,Success,,0,Nigeria,Kano
+TXN-10964,2024-07-19 03:31:00,CUST-2080,MERCH-1031,Merchant 32,Food & Dining,Wallet,Mobile App,239824.68,2398.25,Failed,Invalid Details,1,Nigeria,Kaduna
+TXN-10965,2024-03-23 05:19:00,CUST-2087,MERCH-1036,Merchant 37,Other,UPI,Mobile App,157987.74,789.94,Success,,0,Nigeria,Enugu
+TXN-10966,2024-09-04 19:38:00,CUST-2005,MERCH-1016,Merchant 17,Education,Credit Card,Mobile App,231682.5,3475.24,Success,,0,Nigeria,Port Harcourt
+TXN-10967,2024-04-20 11:07:00,CUST-2068,MERCH-1008,Merchant 9,Education,Wallet,Mobile App,55330.4,553.3,Success,,0,Nigeria,Ibadan
+TXN-10968,2024-09-03 06:05:00,CUST-2102,MERCH-1018,Merchant 19,Other,UPI,Web,117027.42,585.14,Success,,0,Nigeria,Kano
+TXN-10969,2024-05-08 05:12:00,CUST-2079,MERCH-1017,Merchant 18,Entertainment,Debit Card,POS,240486.89,3607.3,Success,,0,Nigeria,Port Harcourt
+TXN-10970,2024-04-15 23:31:00,CUST-2098,MERCH-1038,Merchant 39,Education,Credit Card,Mobile App,186896.28,2803.44,Success,,0,Nigeria,Benin City
+TXN-10971,2024-04-12 18:22:00,CUST-2104,MERCH-1004,Merchant 5,Entertainment,Credit Card,Web,112626.14,1689.39,Failed,Network Error,0,Nigeria,Ibadan
+TXN-10972,2024-11-05 20:33:00,CUST-2062,MERCH-1011,Merchant 12,Food & Dining,Credit Card,Mobile App,202355.6,3035.33,Success,,0,Nigeria,Abuja
+TXN-10973,2024-04-20 21:23:00,CUST-2054,MERCH-1007,Merchant 8,Food & Dining,Credit Card,POS,2903.43,43.55,Success,,0,Nigeria,Kaduna
+TXN-10974,2024-10-17 10:57:00,CUST-2071,MERCH-1018,Merchant 19,Other,UPI,Mobile App,150649.58,753.25,Success,,0,Nigeria,Abuja
+TXN-10975,2024-10-20 20:26:00,CUST-2011,MERCH-1020,Merchant 21,Retail,Debit Card,Mobile App,49938.53,749.08,Success,,0,Nigeria,Ibadan
+TXN-10976,2024-08-03 03:07:00,CUST-2147,MERCH-1037,Merchant 38,Food & Dining,Credit Card,Web,96022.95,1440.34,Success,,0,Nigeria,Lagos
+TXN-10977,2024-08-24 09:08:00,CUST-2120,MERCH-1034,Merchant 35,Utilities,Wallet,Mobile App,229549.6,2295.5,Failed,Insufficient Funds,1,Nigeria,Abuja
+TXN-10978,2024-07-31 23:19:00,CUST-2012,MERCH-1025,Merchant 26,Travel,UPI,POS,20401.92,102.01,Success,,0,Nigeria,Benin City
+TXN-10979,2024-06-01 22:29:00,CUST-2057,MERCH-1007,Merchant 8,Food & Dining,Credit Card,Web,210847.37,3162.71,Success,,0,Nigeria,Lagos
+TXN-10980,2024-01-06 04:06:00,CUST-2094,MERCH-1027,Merchant 28,Healthcare,Bank Transfer,POS,56972.14,569.72,Success,,0,Nigeria,Lagos
+TXN-10981,2024-12-18 01:16:00,CUST-2097,MERCH-1003,Merchant 4,Entertainment,Wallet,Mobile App,236812.64,2368.13,Success,,1,Nigeria,Ibadan
+TXN-10982,2024-12-23 05:59:00,CUST-2105,MERCH-1008,Merchant 9,Education,UPI,Mobile App,80173.5,400.87,Success,,0,Nigeria,Kaduna
+TXN-10983,2024-12-08 03:33:00,CUST-2057,MERCH-1031,Merchant 32,Food & Dining,Credit Card,Web,244099.19,3661.49,Success,,0,Nigeria,Abuja
+TXN-10984,2024-05-15 09:45:00,CUST-2019,MERCH-1015,Merchant 16,Entertainment,UPI,Web,165040.45,825.2,Success,,0,Nigeria,Abuja
+TXN-10985,2024-09-10 01:13:00,CUST-2135,MERCH-1024,Merchant 25,Utilities,UPI,Mobile App,47385.4,236.93,Success,,0,Nigeria,Enugu
+TXN-10986,2025-01-24 09:45:00,CUST-2098,MERCH-1032,Merchant 33,Healthcare,Credit Card,Mobile App,26862.29,402.93,Success,,0,Nigeria,Kaduna
+TXN-10987,2024-11-13 16:12:00,CUST-2026,MERCH-1017,Merchant 18,Entertainment,Wallet,Mobile App,106061.95,1060.62,Failed,Timeout,0,Nigeria,Port Harcourt
+TXN-10988,2024-08-24 03:47:00,CUST-2115,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,47163.93,235.82,Success,,0,Nigeria,Enugu
+TXN-10989,2024-05-15 03:59:00,CUST-2013,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,38079.7,571.2,Success,,0,Nigeria,Kaduna
+TXN-10990,2024-05-19 11:06:00,CUST-2070,MERCH-1027,Merchant 28,Healthcare,UPI,Mobile App,48885.94,244.43,Success,,0,Nigeria,Kaduna
+TXN-10991,2024-09-22 13:06:00,CUST-2068,MERCH-1007,Merchant 8,Food & Dining,Debit Card,Web,55285.15,829.28,Success,,0,Nigeria,Kano
+TXN-10992,2024-02-03 17:06:00,CUST-2068,MERCH-1025,Merchant 26,Travel,UPI,POS,98281.07,491.41,Success,,0,Nigeria,Kaduna
+TXN-10993,2024-04-15 05:50:00,CUST-2122,MERCH-1038,Merchant 39,Education,UPI,Web,72350.67,361.75,Success,,1,Nigeria,Ibadan
+TXN-10994,2024-12-18 07:10:00,CUST-2121,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,83372.75,416.86,Failed,Bank Reject,0,Nigeria,Benin City
+TXN-10995,2024-06-20 00:11:00,CUST-2121,MERCH-1010,Merchant 11,Retail,Bank Transfer,POS,169961.13,1699.61,Success,,0,Nigeria,Lagos
+TXN-10996,2024-09-07 07:30:00,CUST-2128,MERCH-1036,Merchant 37,Other,UPI,POS,170171.54,850.86,Success,,0,Nigeria,Port Harcourt
+TXN-10997,2025-01-21 04:49:00,CUST-2124,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,113427.78,567.14,Failed,Network Error,0,Nigeria,Ibadan
+TXN-10998,2024-07-05 14:00:00,CUST-2123,MERCH-1021,Merchant 22,Travel,Wallet,Mobile App,222897.42,2228.97,Success,,0,Nigeria,Abuja
+TXN-10999,2024-05-18 21:33:00,CUST-2127,MERCH-1026,Merchant 27,Entertainment,Debit Card,Mobile App,214138.25,3212.07,Success,,0,Nigeria,Lagos
+TXN-11000,2024-05-05 18:47:00,CUST-2027,MERCH-1013,Merchant 14,Entertainment,Debit Card,Mobile App,186219.1,2793.29,Failed,Bank Reject,0,Nigeria,Ibadan
+TXN-11001,2024-11-16 21:34:00,CUST-2084,MERCH-1033,Merchant 34,Healthcare,Wallet,Mobile App,44150.59,441.51,Success,,0,Nigeria,Benin City
+TXN-11002,2024-10-28 13:17:00,CUST-2116,MERCH-1033,Merchant 34,Healthcare,UPI,Mobile App,175607.99,878.04,Success,,0,Nigeria,Enugu
+TXN-11003,2024-05-27 03:00:00,CUST-2142,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Web,170390.31,2555.85,Success,,0,Nigeria,Port Harcourt
+TXN-11004,2024-06-04 15:18:00,CUST-2013,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,10717.8,53.59,Success,,0,Nigeria,Kaduna
+TXN-11005,2024-06-05 00:27:00,CUST-2128,MERCH-1003,Merchant 4,Entertainment,Credit Card,POS,63232.65,948.49,Success,,0,Nigeria,Port Harcourt
+TXN-11006,2024-02-14 22:17:00,CUST-2121,MERCH-1027,Merchant 28,Healthcare,UPI,Web,146513.6,732.57,Success,,1,Nigeria,Enugu
+TXN-11007,2024-05-07 21:40:00,CUST-2044,MERCH-1006,Merchant 7,Food & Dining,Credit Card,Mobile App,223311.89,3349.68,Success,,0,Nigeria,Benin City
+TXN-11008,2024-12-13 10:51:00,CUST-2078,MERCH-1012,Merchant 13,Entertainment,Credit Card,Web,62880.1,943.2,Success,,0,Nigeria,Abuja
+TXN-11009,2024-06-01 18:59:00,CUST-2134,MERCH-1024,Merchant 25,Utilities,Debit Card,Web,195710.23,2935.65,Success,,0,Nigeria,Kaduna
+TXN-11010,2024-12-21 10:32:00,CUST-2007,MERCH-1029,Merchant 30,Food & Dining,Bank Transfer,Web,88871.36,888.71,Failed,Invalid Details,0,Nigeria,Lagos
+TXN-11011,2025-01-27 13:05:00,CUST-2139,MERCH-1019,Merchant 20,Utilities,Wallet,Web,196764.7,1967.65,Success,,0,Nigeria,Ibadan
+TXN-11012,2024-01-28 12:08:00,CUST-2027,MERCH-1033,Merchant 34,Healthcare,Credit Card,Mobile App,115325.08,1729.88,Success,,1,Nigeria,Enugu
+TXN-11013,2024-10-31 03:52:00,CUST-2130,MERCH-1021,Merchant 22,Travel,UPI,Mobile App,216146.37,1080.73,Success,,0,Nigeria,Lagos
+TXN-11014,2024-12-25 06:33:00,CUST-2039,MERCH-1031,Merchant 32,Food & Dining,UPI,Web,34532.49,172.66,Success,,0,Nigeria,Ibadan
+TXN-11015,2024-11-17 09:46:00,CUST-2039,MERCH-1031,Merchant 32,Food & Dining,Bank Transfer,Mobile App,156104.15,1561.04,Success,,0,Nigeria,Abuja
+TXN-11016,2024-09-23 03:15:00,CUST-2103,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,111232.06,556.16,Success,,1,Nigeria,Kaduna
+TXN-11017,2024-04-04 07:53:00,CUST-2110,MERCH-1039,Merchant 40,Food & Dining,Wallet,Mobile App,170489.45,1704.89,Success,,0,Nigeria,Port Harcourt
+TXN-11018,2024-11-21 00:11:00,CUST-2121,MERCH-1015,Merchant 16,Entertainment,UPI,Web,43108.49,215.54,Success,,0,Nigeria,Kaduna
+TXN-11019,2024-05-28 09:42:00,CUST-2027,MERCH-1023,Merchant 24,Healthcare,UPI,Web,167091.07,835.46,Success,,0,Nigeria,Kaduna
+TXN-11020,2024-08-01 13:09:00,CUST-2113,MERCH-1036,Merchant 37,Other,UPI,Mobile App,97662.63,488.31,Success,,0,Nigeria,Lagos
+TXN-11021,2024-06-30 04:29:00,CUST-2128,MERCH-1000,Merchant 1,Food & Dining,Wallet,Mobile App,245447.54,2454.48,Success,,0,Nigeria,Kano
+TXN-11022,2024-06-27 22:33:00,CUST-2035,MERCH-1009,Merchant 10,Retail,Credit Card,Mobile App,88290.82,1324.36,Success,,0,Nigeria,Ibadan
+TXN-11023,2025-01-25 21:19:00,CUST-2147,MERCH-1030,Merchant 31,Education,Bank Transfer,Mobile App,94442.42,944.42,Success,,0,Nigeria,Ibadan
+TXN-11024,2024-03-07 22:20:00,CUST-2040,MERCH-1037,Merchant 38,Food & Dining,Credit Card,Web,154560.02,2318.4,Success,,0,Nigeria,Kano
+TXN-11025,2024-02-19 21:06:00,CUST-2060,MERCH-1020,Merchant 21,Retail,Credit Card,Web,190097.37,2851.46,Success,,0,Nigeria,Abuja
+TXN-11026,2024-03-30 23:57:00,CUST-2018,MERCH-1004,Merchant 5,Entertainment,Credit Card,API,15950.7,239.26,Success,,0,Nigeria,Kaduna
+TXN-11027,2025-01-25 11:38:00,CUST-2146,MERCH-1011,Merchant 12,Food & Dining,Debit Card,Mobile App,80629.22,1209.44,Success,,0,Nigeria,Kano
+TXN-11028,2024-04-10 08:31:00,CUST-2049,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,185667.4,2785.01,Success,,0,Nigeria,Abuja
+TXN-11029,2024-10-25 00:40:00,CUST-2104,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Mobile App,202597.21,2025.97,Success,,0,Nigeria,Abuja
+TXN-11030,2024-06-23 05:43:00,CUST-2121,MERCH-1033,Merchant 34,Healthcare,Debit Card,API,124295.78,1864.44,Success,,0,Nigeria,Enugu
+TXN-11031,2024-07-01 19:57:00,CUST-2145,MERCH-1004,Merchant 5,Entertainment,Credit Card,Mobile App,110000.08,1650.0,Success,,0,Nigeria,Abuja
+TXN-11032,2024-03-06 16:19:00,CUST-2074,MERCH-1003,Merchant 4,Entertainment,UPI,Mobile App,150571.65,752.86,Success,,0,Nigeria,Ibadan
+TXN-11033,2024-07-18 22:22:00,CUST-2128,MERCH-1018,Merchant 19,Other,UPI,POS,19156.89,95.78,Success,,0,Nigeria,Ibadan
+TXN-11034,2024-07-23 19:03:00,CUST-2007,MERCH-1037,Merchant 38,Food & Dining,Credit Card,POS,118009.19,1770.14,Success,,0,Nigeria,Lagos
+TXN-11035,2024-06-22 13:16:00,CUST-2015,MERCH-1003,Merchant 4,Entertainment,UPI,POS,35252.51,176.26,Success,,0,Nigeria,Kano
+TXN-11036,2024-09-09 02:51:00,CUST-2020,MERCH-1002,Merchant 3,Utilities,Bank Transfer,API,86788.47,867.88,Success,,0,Nigeria,Kaduna
+TXN-11037,2024-03-07 08:46:00,CUST-2058,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,56698.64,283.49,Success,,0,Nigeria,Lagos
+TXN-11038,2024-01-29 00:49:00,CUST-2141,MERCH-1038,Merchant 39,Education,Wallet,Mobile App,215143.47,2151.43,Success,,0,Nigeria,Kaduna
+TXN-11039,2024-01-27 12:49:00,CUST-2094,MERCH-1027,Merchant 28,Healthcare,Credit Card,Mobile App,137611.46,2064.17,Success,,0,Nigeria,Enugu
+TXN-11040,2024-04-09 10:27:00,CUST-2137,MERCH-1005,Merchant 6,Travel,Bank Transfer,Mobile App,147360.06,1473.6,Success,,0,Nigeria,Lagos
+TXN-11041,2024-01-08 23:15:00,CUST-2062,MERCH-1008,Merchant 9,Education,Wallet,Mobile App,109919.69,1099.2,Success,,0,Nigeria,Ibadan
+TXN-11042,2024-03-07 19:25:00,CUST-2091,MERCH-1004,Merchant 5,Entertainment,Credit Card,Mobile App,19556.28,293.34,Success,,0,Nigeria,Kano
+TXN-11043,2024-08-15 22:19:00,CUST-2138,MERCH-1018,Merchant 19,Other,Bank Transfer,POS,217308.25,2173.08,Failed,Network Error,0,Nigeria,Abuja
+TXN-11044,2024-01-28 11:57:00,CUST-2133,MERCH-1031,Merchant 32,Food & Dining,Credit Card,API,70306.07,1054.59,Success,,0,Nigeria,Kano
+TXN-11045,2024-06-05 23:35:00,CUST-2116,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,9448.99,47.24,Success,,0,Nigeria,Abuja
+TXN-11046,2024-01-11 15:53:00,CUST-2098,MERCH-1024,Merchant 25,Utilities,UPI,Mobile App,75453.01,377.27,Success,,0,Nigeria,Kaduna
+TXN-11047,2024-01-10 12:24:00,CUST-2078,MERCH-1024,Merchant 25,Utilities,Credit Card,Mobile App,46514.49,697.72,Success,,0,Nigeria,Lagos
+TXN-11048,2024-10-04 11:59:00,CUST-2055,MERCH-1021,Merchant 22,Travel,UPI,Web,230713.32,1153.57,Success,,0,Nigeria,Lagos
+TXN-11049,2024-06-23 23:53:00,CUST-2073,MERCH-1003,Merchant 4,Entertainment,Debit Card,POS,201945.48,3029.18,Failed,Bank Reject,0,Nigeria,Kaduna
+TXN-11050,2024-08-05 18:46:00,CUST-2033,MERCH-1010,Merchant 11,Retail,Credit Card,Web,240096.1,3601.44,Failed,Card Declined,0,Nigeria,Lagos
+TXN-11051,2024-05-23 21:17:00,CUST-2070,MERCH-1034,Merchant 35,Utilities,UPI,Mobile App,74308.32,371.54,Success,,0,Nigeria,Enugu
+TXN-11052,2024-05-17 21:16:00,CUST-2067,MERCH-1038,Merchant 39,Education,Wallet,POS,3578.61,35.79,Success,,0,Nigeria,Port Harcourt
+TXN-11053,2024-08-15 14:01:00,CUST-2014,MERCH-1022,Merchant 23,Education,Credit Card,Mobile App,120311.87,1804.68,Success,,0,Nigeria,Abuja
+TXN-11054,2024-05-21 19:35:00,CUST-2126,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,64872.74,324.36,Success,,0,Nigeria,Port Harcourt
+TXN-11055,2024-04-26 20:11:00,CUST-2129,MERCH-1003,Merchant 4,Entertainment,UPI,Web,58551.78,292.76,Success,,0,Nigeria,Kaduna
+TXN-11056,2024-10-23 10:02:00,CUST-2138,MERCH-1016,Merchant 17,Education,Credit Card,Mobile App,243832.94,3657.49,Failed,Network Error,1,Nigeria,Lagos
+TXN-11057,2024-11-03 07:22:00,CUST-2095,MERCH-1007,Merchant 8,Food & Dining,UPI,Web,128003.36,640.02,Success,,0,Nigeria,Benin City
+TXN-11058,2024-02-06 20:27:00,CUST-2095,MERCH-1020,Merchant 21,Retail,Wallet,Mobile App,151938.2,1519.38,Failed,Bank Reject,0,Nigeria,Kaduna
+TXN-11059,2024-05-30 19:01:00,CUST-2130,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,228012.23,1140.06,Failed,Network Error,1,Nigeria,Enugu
+TXN-11060,2024-04-20 12:53:00,CUST-2019,MERCH-1009,Merchant 10,Retail,Credit Card,Web,95581.87,1433.73,Success,,0,Nigeria,Kano
+TXN-11061,2024-10-16 16:36:00,CUST-2013,MERCH-1034,Merchant 35,Utilities,Debit Card,Web,183394.89,2750.92,Success,,0,Nigeria,Kaduna
+TXN-11062,2024-12-03 16:33:00,CUST-2092,MERCH-1036,Merchant 37,Other,Credit Card,Mobile App,73619.79,1104.3,Success,,0,Nigeria,Kano
+TXN-11063,2024-08-21 10:47:00,CUST-2090,MERCH-1028,Merchant 29,Food & Dining,Bank Transfer,Web,183333.18,1833.33,Success,,0,Nigeria,Abuja
+TXN-11064,2024-07-04 20:30:00,CUST-2062,MERCH-1026,Merchant 27,Entertainment,Debit Card,Mobile App,57825.94,867.39,Failed,Timeout,0,Nigeria,Benin City
+TXN-11065,2024-12-11 18:42:00,CUST-2129,MERCH-1018,Merchant 19,Other,UPI,Mobile App,85722.16,428.61,Success,,0,Nigeria,Port Harcourt
+TXN-11066,2024-10-21 15:40:00,CUST-2067,MERCH-1011,Merchant 12,Food & Dining,Wallet,Mobile App,219163.22,2191.63,Success,,1,Nigeria,Kaduna
+TXN-11067,2025-01-15 03:08:00,CUST-2135,MERCH-1001,Merchant 2,Retail,Wallet,POS,172666.62,1726.67,Success,,0,Nigeria,Benin City
+TXN-11068,2024-08-04 11:08:00,CUST-2027,MERCH-1018,Merchant 19,Other,Credit Card,Web,30197.9,452.97,Success,,0,Nigeria,Lagos
+TXN-11069,2024-02-07 23:58:00,CUST-2122,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,157892.58,2368.39,Success,,0,Nigeria,Port Harcourt
+TXN-11070,2025-01-10 05:46:00,CUST-2094,MERCH-1032,Merchant 33,Healthcare,Wallet,API,21405.48,214.05,Success,,0,Nigeria,Kaduna
+TXN-11071,2024-07-13 10:28:00,CUST-2087,MERCH-1017,Merchant 18,Entertainment,UPI,Web,236219.64,1181.1,Success,,0,Nigeria,Lagos
+TXN-11072,2024-10-15 16:57:00,CUST-2036,MERCH-1027,Merchant 28,Healthcare,Credit Card,Web,71671.67,1075.08,Success,,0,Nigeria,Lagos
+TXN-11073,2025-01-11 23:13:00,CUST-2073,MERCH-1039,Merchant 40,Food & Dining,Credit Card,Mobile App,78934.66,1184.02,Success,,0,Nigeria,Ibadan
+TXN-11074,2024-09-06 14:14:00,CUST-2071,MERCH-1016,Merchant 17,Education,Wallet,Mobile App,247206.99,2472.07,Success,,0,Nigeria,Port Harcourt
+TXN-11075,2024-02-19 06:35:00,CUST-2049,MERCH-1001,Merchant 2,Retail,Wallet,POS,149798.69,1497.99,Failed,Timeout,1,Nigeria,Lagos
+TXN-11076,2024-09-07 00:23:00,CUST-2116,MERCH-1036,Merchant 37,Other,UPI,API,106912.39,534.56,Success,,0,Nigeria,Ibadan
+TXN-11077,2024-02-26 22:45:00,CUST-2071,MERCH-1027,Merchant 28,Healthcare,Bank Transfer,Mobile App,123567.26,1235.67,Success,,0,Nigeria,Abuja
+TXN-11078,2024-06-30 02:47:00,CUST-2131,MERCH-1020,Merchant 21,Retail,Wallet,Web,39603.43,396.03,Success,,0,Nigeria,Abuja
+TXN-11079,2024-12-27 22:20:00,CUST-2142,MERCH-1006,Merchant 7,Food & Dining,Wallet,Mobile App,233125.82,2331.26,Success,,0,Nigeria,Lagos
+TXN-11080,2024-11-20 20:00:00,CUST-2047,MERCH-1014,Merchant 15,Retail,UPI,Web,168500.23,842.5,Success,,0,Nigeria,Kaduna
+TXN-11081,2024-05-24 04:12:00,CUST-2017,MERCH-1033,Merchant 34,Healthcare,Debit Card,Mobile App,214360.62,3215.41,Success,,0,Nigeria,Kaduna
+TXN-11082,2024-10-12 19:13:00,CUST-2089,MERCH-1016,Merchant 17,Education,Debit Card,Mobile App,153537.87,2303.07,Success,,0,Nigeria,Kaduna
+TXN-11083,2024-09-28 21:11:00,CUST-2091,MERCH-1018,Merchant 19,Other,Wallet,POS,167159.96,1671.6,Success,,0,Nigeria,Kaduna
+TXN-11084,2024-05-31 03:14:00,CUST-2108,MERCH-1018,Merchant 19,Other,UPI,POS,105188.71,525.94,Success,,0,Nigeria,Abuja
+TXN-11085,2024-03-31 14:20:00,CUST-2125,MERCH-1025,Merchant 26,Travel,Debit Card,Mobile App,176352.29,2645.28,Success,,0,Nigeria,Benin City
+TXN-11086,2024-12-17 07:01:00,CUST-2081,MERCH-1026,Merchant 27,Entertainment,UPI,Web,15670.41,78.35,Success,,0,Nigeria,Benin City
+TXN-11087,2024-07-19 14:27:00,CUST-2011,MERCH-1017,Merchant 18,Entertainment,Credit Card,API,121633.6,1824.5,Success,,0,Nigeria,Ibadan
+TXN-11088,2024-08-17 13:14:00,CUST-2084,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,194998.22,2924.97,Failed,Timeout,0,Nigeria,Port Harcourt
+TXN-11089,2024-11-05 17:01:00,CUST-2016,MERCH-1024,Merchant 25,Utilities,Bank Transfer,Mobile App,23018.05,230.18,Failed,Timeout,0,Nigeria,Lagos
+TXN-11090,2024-09-22 06:23:00,CUST-2041,MERCH-1034,Merchant 35,Utilities,Credit Card,API,99183.81,1487.76,Success,,0,Nigeria,Enugu
+TXN-11091,2024-06-18 13:13:00,CUST-2128,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Mobile App,9500.71,142.51,Failed,Insufficient Funds,1,Nigeria,Benin City
+TXN-11092,2024-09-05 01:10:00,CUST-2096,MERCH-1015,Merchant 16,Entertainment,UPI,Mobile App,8927.61,44.64,Success,,0,Nigeria,Benin City
+TXN-11093,2024-03-08 23:56:00,CUST-2005,MERCH-1004,Merchant 5,Entertainment,UPI,Mobile App,126375.16,631.88,Success,,0,Nigeria,Lagos
+TXN-11094,2025-01-15 17:38:00,CUST-2079,MERCH-1037,Merchant 38,Food & Dining,Bank Transfer,Mobile App,198258.69,1982.59,Success,,0,Nigeria,Enugu
+TXN-11095,2024-08-05 16:47:00,CUST-2096,MERCH-1012,Merchant 13,Entertainment,UPI,Mobile App,25369.97,126.85,Success,,0,Nigeria,Ibadan
+TXN-11096,2024-08-07 02:14:00,CUST-2097,MERCH-1030,Merchant 31,Education,Bank Transfer,Web,71463.53,714.64,Success,,0,Nigeria,Lagos
+TXN-11097,2024-09-11 23:25:00,CUST-2059,MERCH-1006,Merchant 7,Food & Dining,Bank Transfer,POS,113341.45,1133.41,Success,,0,Nigeria,Kaduna
+TXN-11098,2024-07-08 15:36:00,CUST-2043,MERCH-1009,Merchant 10,Retail,UPI,Mobile App,202515.36,1012.58,Success,,0,Nigeria,Kano
+TXN-11099,2024-09-07 18:15:00,CUST-2015,MERCH-1030,Merchant 31,Education,UPI,Mobile App,131089.71,655.45,Success,,0,Nigeria,Kaduna
+TXN-11100,2024-05-09 13:19:00,CUST-2001,MERCH-1002,Merchant 3,Utilities,Debit Card,POS,80700.02,1210.5,Success,,0,Nigeria,Ibadan
+TXN-11101,2024-12-19 06:48:00,CUST-2123,MERCH-1031,Merchant 32,Food & Dining,Credit Card,Mobile App,78597.54,1178.96,Success,,0,Nigeria,Abuja
+TXN-11102,2024-02-23 13:44:00,CUST-2112,MERCH-1000,Merchant 1,Food & Dining,UPI,Mobile App,40942.23,204.71,Success,,0,Nigeria,Abuja
+TXN-11103,2024-01-20 13:31:00,CUST-2002,MERCH-1031,Merchant 32,Food & Dining,UPI,POS,35396.41,176.98,Success,,0,Nigeria,Ibadan
+TXN-11104,2024-03-01 13:18:00,CUST-2042,MERCH-1017,Merchant 18,Entertainment,Debit Card,POS,130858.79,1962.88,Success,,0,Nigeria,Port Harcourt
+TXN-11105,2024-05-28 16:43:00,CUST-2084,MERCH-1023,Merchant 24,Healthcare,UPI,Web,130085.26,650.43,Success,,0,Nigeria,Port Harcourt
+TXN-11106,2024-03-25 16:45:00,CUST-2079,MERCH-1026,Merchant 27,Entertainment,Wallet,Mobile App,45216.83,452.17,Failed,Insufficient Funds,0,Nigeria,Kano
+TXN-11107,2024-04-12 22:06:00,CUST-2143,MERCH-1003,Merchant 4,Entertainment,Credit Card,Mobile App,156430.7,2346.46,Success,,0,Nigeria,Kano
+TXN-11108,2024-06-25 20:00:00,CUST-2103,MERCH-1027,Merchant 28,Healthcare,Bank Transfer,Mobile App,146324.86,1463.25,Success,,0,Nigeria,Ibadan
+TXN-11109,2024-10-14 17:41:00,CUST-2144,MERCH-1009,Merchant 10,Retail,Debit Card,Mobile App,26192.58,392.89,Success,,0,Nigeria,Abuja
+TXN-11110,2024-03-05 16:37:00,CUST-2121,MERCH-1036,Merchant 37,Other,Debit Card,Mobile App,193108.68,2896.63,Success,,0,Nigeria,Kano
+TXN-11111,2024-03-27 00:50:00,CUST-2082,MERCH-1039,Merchant 40,Food & Dining,UPI,Mobile App,37049.67,185.25,Success,,0,Nigeria,Abuja
+TXN-11112,2024-01-27 04:32:00,CUST-2143,MERCH-1030,Merchant 31,Education,Wallet,Mobile App,82108.8,821.09,Success,,0,Nigeria,Benin City
+TXN-11113,2024-07-12 12:45:00,CUST-2054,MERCH-1033,Merchant 34,Healthcare,Credit Card,Mobile App,79584.5,1193.77,Success,,0,Nigeria,Port Harcourt
+TXN-11114,2024-11-20 08:45:00,CUST-2142,MERCH-1028,Merchant 29,Food & Dining,UPI,Mobile App,122778.33,613.89,Success,,0,Nigeria,Benin City
+TXN-11115,2024-11-29 11:11:00,CUST-2143,MERCH-1029,Merchant 30,Food & Dining,UPI,Mobile App,192800.82,964.0,Success,,0,Nigeria,Kano
+TXN-11116,2024-07-14 11:11:00,CUST-2079,MERCH-1012,Merchant 13,Entertainment,Bank Transfer,API,110799.1,1107.99,Success,,0,Nigeria,Enugu
+TXN-11117,2024-02-18 11:58:00,CUST-2101,MERCH-1038,Merchant 39,Education,UPI,API,68620.44,343.1,Success,,0,Nigeria,Lagos
+TXN-11118,2024-12-22 22:16:00,CUST-2116,MERCH-1036,Merchant 37,Other,UPI,Mobile App,205919.76,1029.6,Success,,0,Nigeria,Kaduna
+TXN-11119,2024-03-29 15:47:00,CUST-2045,MERCH-1006,Merchant 7,Food & Dining,Wallet,POS,10029.3,100.29,Failed,Card Declined,1,Nigeria,Port Harcourt
+TXN-11120,2024-02-12 13:53:00,CUST-2049,MERCH-1003,Merchant 4,Entertainment,Wallet,Mobile App,78902.02,789.02,Success,,0,Nigeria,Lagos
+TXN-11121,2024-06-19 21:54:00,CUST-2003,MERCH-1010,Merchant 11,Retail,Wallet,POS,226478.32,2264.78,Failed,Timeout,0,Nigeria,Benin City
+TXN-11122,2024-08-01 21:42:00,CUST-2011,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,37304.73,186.52,Success,,0,Nigeria,Ibadan
+TXN-11123,2024-11-07 06:44:00,CUST-2119,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Mobile App,78135.55,1172.03,Success,,0,Nigeria,Abuja
+TXN-11124,2024-10-16 14:05:00,CUST-2002,MERCH-1005,Merchant 6,Travel,UPI,Mobile App,46821.89,234.11,Failed,Card Declined,0,Nigeria,Kano
+TXN-11125,2024-11-22 11:29:00,CUST-2033,MERCH-1015,Merchant 16,Entertainment,UPI,Web,77291.69,386.46,Failed,Card Declined,0,Nigeria,Ibadan
+TXN-11126,2024-01-28 12:45:00,CUST-2051,MERCH-1036,Merchant 37,Other,UPI,Mobile App,79227.47,396.14,Success,,0,Nigeria,Port Harcourt
+TXN-11127,2024-05-31 08:44:00,CUST-2115,MERCH-1022,Merchant 23,Education,Credit Card,Mobile App,144884.69,2173.27,Success,,0,Nigeria,Port Harcourt
+TXN-11128,2024-01-19 18:24:00,CUST-2053,MERCH-1027,Merchant 28,Healthcare,UPI,Web,87056.92,435.28,Success,,0,Nigeria,Enugu
+TXN-11129,2024-12-24 16:35:00,CUST-2066,MERCH-1005,Merchant 6,Travel,Wallet,POS,128561.48,1285.61,Success,,0,Nigeria,Lagos
+TXN-11130,2024-02-29 16:42:00,CUST-2008,MERCH-1029,Merchant 30,Food & Dining,Debit Card,Mobile App,146911.78,2203.68,Success,,0,Nigeria,Enugu
+TXN-11131,2024-12-25 03:40:00,CUST-2025,MERCH-1010,Merchant 11,Retail,Credit Card,API,105641.24,1584.62,Success,,0,Nigeria,Port Harcourt
+TXN-11132,2024-07-02 09:10:00,CUST-2111,MERCH-1001,Merchant 2,Retail,Credit Card,Mobile App,110032.67,1650.49,Success,,0,Nigeria,Benin City
+TXN-11133,2024-08-30 07:16:00,CUST-2129,MERCH-1030,Merchant 31,Education,Debit Card,Web,169799.68,2547.0,Failed,Card Declined,0,Nigeria,Abuja
+TXN-11134,2024-08-03 13:49:00,CUST-2134,MERCH-1037,Merchant 38,Food & Dining,UPI,Web,7624.52,38.12,Success,,0,Nigeria,Kano
+TXN-11135,2024-10-17 04:08:00,CUST-2088,MERCH-1003,Merchant 4,Entertainment,Debit Card,POS,242596.12,3638.94,Success,,0,Nigeria,Kaduna
+TXN-11136,2024-07-21 05:29:00,CUST-2052,MERCH-1011,Merchant 12,Food & Dining,UPI,Mobile App,75669.94,378.35,Success,,0,Nigeria,Benin City
+TXN-11137,2024-02-16 23:15:00,CUST-2140,MERCH-1023,Merchant 24,Healthcare,UPI,Web,1733.72,8.67,Success,,0,Nigeria,Benin City
+TXN-11138,2024-12-23 06:58:00,CUST-2032,MERCH-1029,Merchant 30,Food & Dining,Credit Card,Mobile App,176702.91,2650.54,Success,,0,Nigeria,Enugu
+TXN-11139,2025-01-25 04:25:00,CUST-2006,MERCH-1027,Merchant 28,Healthcare,Wallet,POS,149436.25,1494.36,Success,,0,Nigeria,Kano
+TXN-11140,2024-11-07 05:49:00,CUST-2019,MERCH-1032,Merchant 33,Healthcare,UPI,Mobile App,205897.92,1029.49,Success,,0,Nigeria,Kano
+TXN-11141,2024-03-11 15:12:00,CUST-2072,MERCH-1005,Merchant 6,Travel,UPI,Mobile App,85226.87,426.13,Success,,0,Nigeria,Ibadan
+TXN-11142,2024-07-17 21:52:00,CUST-2027,MERCH-1026,Merchant 27,Entertainment,Credit Card,Mobile App,45289.73,679.35,Success,,0,Nigeria,Kaduna
+TXN-11143,2024-02-12 11:43:00,CUST-2147,MERCH-1025,Merchant 26,Travel,Debit Card,Web,200985.79,3014.79,Success,,1,Nigeria,Benin City
+TXN-11144,2024-12-17 14:00:00,CUST-2029,MERCH-1025,Merchant 26,Travel,Credit Card,API,105903.04,1588.55,Success,,1,Nigeria,Kaduna
+TXN-11145,2024-09-14 11:49:00,CUST-2108,MERCH-1034,Merchant 35,Utilities,Credit Card,Mobile App,242956.68,3644.35,Success,,0,Nigeria,Benin City
+TXN-11146,2024-12-11 02:09:00,CUST-2116,MERCH-1037,Merchant 38,Food & Dining,UPI,API,64830.22,324.15,Success,,0,Nigeria,Benin City
+TXN-11147,2024-01-25 14:18:00,CUST-2064,MERCH-1029,Merchant 30,Food & Dining,UPI,POS,92092.48,460.46,Success,,0,Nigeria,Benin City
+TXN-11148,2024-06-21 21:18:00,CUST-2083,MERCH-1017,Merchant 18,Entertainment,Wallet,Mobile App,45092.68,450.93,Success,,0,Nigeria,Ibadan
+TXN-11149,2024-11-21 01:38:00,CUST-2024,MERCH-1034,Merchant 35,Utilities,UPI,Web,184800.74,924.0,Success,,0,Nigeria,Port Harcourt
+TXN-11150,2025-01-07 04:40:00,CUST-2134,MERCH-1022,Merchant 23,Education,Credit Card,POS,242977.27,3644.66,Success,,0,Nigeria,Kaduna
+TXN-11151,2024-01-21 02:20:00,CUST-2077,MERCH-1006,Merchant 7,Food & Dining,Credit Card,Mobile App,95787.29,1436.81,Success,,0,Nigeria,Benin City
+TXN-11152,2024-07-24 00:11:00,CUST-2049,MERCH-1005,Merchant 6,Travel,Bank Transfer,Mobile App,209294.9,2092.95,Success,,0,Nigeria,Ibadan
+TXN-11153,2024-06-04 19:32:00,CUST-2111,MERCH-1003,Merchant 4,Entertainment,Credit Card,POS,93871.98,1408.08,Success,,0,Nigeria,Ibadan
+TXN-11154,2025-01-17 22:49:00,CUST-2069,MERCH-1002,Merchant 3,Utilities,UPI,Web,151353.33,756.77,Success,,0,Nigeria,Lagos
+TXN-11155,2024-07-27 06:01:00,CUST-2024,MERCH-1017,Merchant 18,Entertainment,Wallet,Web,67129.79,671.3,Failed,Network Error,0,Nigeria,Kano
+TXN-11156,2024-04-25 00:45:00,CUST-2107,MERCH-1018,Merchant 19,Other,UPI,Mobile App,182176.91,910.88,Success,,0,Nigeria,Enugu
+TXN-11157,2024-10-04 12:30:00,CUST-2127,MERCH-1021,Merchant 22,Travel,Bank Transfer,Mobile App,80250.88,802.51,Success,,0,Nigeria,Kano
+TXN-11158,2024-09-29 22:10:00,CUST-2124,MERCH-1002,Merchant 3,Utilities,Debit Card,Mobile App,165344.27,2480.16,Success,,0,Nigeria,Enugu
+TXN-11159,2024-02-12 06:47:00,CUST-2039,MERCH-1018,Merchant 19,Other,Bank Transfer,Mobile App,187838.95,1878.39,Success,,0,Nigeria,Port Harcourt
+TXN-11160,2024-11-15 11:36:00,CUST-2060,MERCH-1001,Merchant 2,Retail,Credit Card,API,187971.41,2819.57,Success,,0,Nigeria,Benin City
+TXN-11161,2024-10-02 04:24:00,CUST-2074,MERCH-1006,Merchant 7,Food & Dining,Debit Card,POS,99239.55,1488.59,Success,,0,Nigeria,Port Harcourt
+TXN-11162,2024-03-22 23:25:00,CUST-2092,MERCH-1013,Merchant 14,Entertainment,Credit Card,Mobile App,104835.91,1572.54,Success,,0,Nigeria,Abuja
+TXN-11163,2024-12-06 21:40:00,CUST-2118,MERCH-1034,Merchant 35,Utilities,Wallet,Mobile App,133360.85,1333.61,Success,,0,Nigeria,Ibadan
+TXN-11164,2024-08-18 05:59:00,CUST-2044,MERCH-1000,Merchant 1,Food & Dining,Wallet,Mobile App,133400.09,1334.0,Success,,0,Nigeria,Abuja
+TXN-11165,2024-07-15 18:41:00,CUST-2128,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,159286.01,2389.29,Success,,0,Nigeria,Abuja
+TXN-11166,2024-11-02 18:46:00,CUST-2023,MERCH-1039,Merchant 40,Food & Dining,Credit Card,Mobile App,62860.22,942.9,Success,,0,Nigeria,Enugu
+TXN-11167,2024-01-12 23:38:00,CUST-2117,MERCH-1035,Merchant 36,Retail,Wallet,Web,128078.2,1280.78,Success,,0,Nigeria,Enugu
+TXN-11168,2025-01-05 07:11:00,CUST-2052,MERCH-1012,Merchant 13,Entertainment,Credit Card,Web,81019.69,1215.3,Success,,0,Nigeria,Kaduna
+TXN-11169,2024-08-23 07:43:00,CUST-2084,MERCH-1011,Merchant 12,Food & Dining,Debit Card,API,243214.92,3648.22,Success,,0,Nigeria,Port Harcourt
+TXN-11170,2024-05-05 14:46:00,CUST-2120,MERCH-1002,Merchant 3,Utilities,Bank Transfer,Mobile App,170664.89,1706.65,Success,,0,Nigeria,Benin City
+TXN-11171,2024-02-06 13:16:00,CUST-2123,MERCH-1038,Merchant 39,Education,Wallet,Web,161948.79,1619.49,Success,,0,Nigeria,Lagos
+TXN-11172,2024-05-29 12:53:00,CUST-2112,MERCH-1023,Merchant 24,Healthcare,Wallet,POS,100157.64,1001.58,Success,,0,Nigeria,Benin City
+TXN-11173,2024-03-04 03:09:00,CUST-2105,MERCH-1037,Merchant 38,Food & Dining,Wallet,POS,188517.68,1885.18,Success,,0,Nigeria,Enugu
+TXN-11174,2024-03-13 07:50:00,CUST-2062,MERCH-1021,Merchant 22,Travel,Credit Card,Mobile App,160687.88,2410.32,Failed,Invalid Details,1,Nigeria,Ibadan
+TXN-11175,2024-06-24 09:44:00,CUST-2037,MERCH-1016,Merchant 17,Education,Credit Card,POS,142273.68,2134.11,Success,,0,Nigeria,Ibadan
+TXN-11176,2024-01-14 07:56:00,CUST-2078,MERCH-1018,Merchant 19,Other,Credit Card,Mobile App,77012.35,1155.19,Success,,0,Nigeria,Kaduna
+TXN-11177,2024-12-31 14:43:00,CUST-2058,MERCH-1008,Merchant 9,Education,UPI,Web,37058.27,185.29,Success,,0,Nigeria,Lagos
+TXN-11178,2024-04-18 18:19:00,CUST-2122,MERCH-1023,Merchant 24,Healthcare,UPI,Mobile App,180424.27,902.12,Failed,Invalid Details,0,Nigeria,Port Harcourt
+TXN-11179,2024-06-25 20:09:00,CUST-2043,MERCH-1033,Merchant 34,Healthcare,Credit Card,Web,93903.46,1408.55,Success,,0,Nigeria,Kaduna
+TXN-11180,2024-03-30 15:57:00,CUST-2071,MERCH-1004,Merchant 5,Entertainment,Credit Card,Web,85920.57,1288.81,Success,,0,Nigeria,Abuja
+TXN-11181,2024-11-28 06:22:00,CUST-2134,MERCH-1000,Merchant 1,Food & Dining,Credit Card,Web,210074.3,3151.11,Success,,0,Nigeria,Kano
+TXN-11182,2025-01-14 06:23:00,CUST-2136,MERCH-1006,Merchant 7,Food & Dining,Debit Card,Mobile App,238031.05,3570.47,Success,,0,Nigeria,Abuja
+TXN-11183,2024-01-29 14:36:00,CUST-2116,MERCH-1011,Merchant 12,Food & Dining,Credit Card,Mobile App,172579.91,2588.7,Success,,0,Nigeria,Port Harcourt
+TXN-11184,2024-01-21 19:17:00,CUST-2033,MERCH-1012,Merchant 13,Entertainment,Credit Card,Mobile App,183467.64,2752.01,Success,,0,Nigeria,Ibadan
+TXN-11185,2024-02-01 06:14:00,CUST-2081,MERCH-1030,Merchant 31,Education,UPI,POS,116335.69,581.68,Success,,0,Nigeria,Abuja
+TXN-11186,2024-04-10 15:07:00,CUST-2145,MERCH-1006,Merchant 7,Food & Dining,Credit Card,Mobile App,135821.02,2037.32,Success,,0,Nigeria,Lagos
+TXN-11187,2024-10-24 13:55:00,CUST-2116,MERCH-1028,Merchant 29,Food & Dining,Bank Transfer,Web,194460.27,1944.6,Success,,0,Nigeria,Lagos
+TXN-11188,2024-05-08 13:38:00,CUST-2067,MERCH-1021,Merchant 22,Travel,UPI,Web,127069.6,635.35,Failed,Network Error,0,Nigeria,Kano
+TXN-11189,2024-06-23 08:43:00,CUST-2001,MERCH-1028,Merchant 29,Food & Dining,Credit Card,Mobile App,28311.78,424.68,Success,,0,Nigeria,Enugu
+TXN-11190,2024-09-17 15:31:00,CUST-2087,MERCH-1027,Merchant 28,Healthcare,UPI,Mobile App,168407.56,842.04,Success,,0,Nigeria,Port Harcourt
+TXN-11191,2024-04-09 03:48:00,CUST-2076,MERCH-1019,Merchant 20,Utilities,UPI,Mobile App,80343.96,401.72,Success,,0,Nigeria,Kano
+TXN-11192,2024-10-19 21:09:00,CUST-2040,MERCH-1025,Merchant 26,Travel,UPI,Mobile App,196559.88,982.8,Success,,0,Nigeria,Enugu
+TXN-11193,2024-09-21 15:41:00,CUST-2077,MERCH-1017,Merchant 18,Entertainment,Credit Card,Mobile App,57566.54,863.5,Success,,0,Nigeria,Enugu
+TXN-11194,2024-03-15 09:21:00,CUST-2106,MERCH-1020,Merchant 21,Retail,Debit Card,POS,112702.11,1690.53,Success,,0,Nigeria,Lagos
+TXN-11195,2025-01-25 12:03:00,CUST-2051,MERCH-1008,Merchant 9,Education,Bank Transfer,Mobile App,243758.95,2437.59,Success,,0,Nigeria,Kano
+TXN-11196,2024-12-04 22:16:00,CUST-2051,MERCH-1020,Merchant 21,Retail,UPI,Mobile App,107160.84,535.8,Success,,0,Nigeria,Kano
+TXN-11197,2024-11-12 16:28:00,CUST-2120,MERCH-1015,Merchant 16,Entertainment,Wallet,Mobile App,40524.28,405.24,Failed,Timeout,0,Nigeria,Lagos
+TXN-11198,2025-02-03 21:24:00,CUST-2015,MERCH-1031,Merchant 32,Food & Dining,Debit Card,API,62836.61,942.55,Success,,0,Nigeria,Abuja
+TXN-11199,2024-01-29 20:21:00,CUST-2083,MERCH-1018,Merchant 19,Other,UPI,Mobile App,28202.18,141.01,Success,,0,Nigeria,Benin City
